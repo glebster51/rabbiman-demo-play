@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "prefab": "6950ffb292371f9428ed83fdba879691",
+  "animator": {
+    "defaultClip": "Fear_UI_VignetteDisAppear",
+    "appearTransition": 0.25,
+    "disappearTransition": 0.25
+  },
+  "dependencies": [
+    {
+      "path": "Assets/(a)Animations/UI/Fear/Fear_UI_VignetteController.controller",
+      "sha256": "b49825922bef6127887a862abbd38e84bbbc4f9a8199449e6dbb4fa80fd8dcb6"
+    },
+    {
+      "path": "Assets/(p)Prefabs/Yasha_prefabs/Yasha.prefab",
+      "sha256": "f7058d6c36fd114dc46c6a42da652a5bdc163ac276712b15f9df56a44d3ed2cc"
+    },
+    {
+      "path": "Assets/(p)Prefabs/UI/Views/VignetteView.prefab",
+      "sha256": "c6ff750846f14617e6f57b15ff33438e8a2ab7fbd0bc16697af6b66f342d2ccf"
+    },
+    {
+      "path": "Assets/(s)Scenes/Core/UI.unity",
+      "sha256": "d4c5b30792abed7fbd37b43bdce1e74864b33dd3073d4dc386154feef95ac8d6"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "sha256": "0808b02781f764ec8bdb031428466c35e9219891cfc76edd507c94020d9d23ee"
+    }
+  ]
+}

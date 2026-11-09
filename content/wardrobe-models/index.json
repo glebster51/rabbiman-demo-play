@@ -1,0 +1,2622 @@
+{
+  "schemaVersion": 1,
+  "sourceConfig": "Assets/Configs/Character/HatConfig.asset",
+  "sourcePlayerMesh": "Assets/(p)Prefabs/Yasha_prefabs/YashaMesh.prefab",
+  "unity": "6000.3.21f1",
+  "exportedAt": "2026-11-08T01:14:41.0663373Z",
+  "expectedHatIds": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    1,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "exportedHatIds": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    1,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "secretMaterialGlb": "hats/hat-secret.glb",
+  "secretMaterial": {
+    "material": "GlobalObjectId_V1-3-54a9795f7ac92ce46aaa9f28b31ac6a7-2100000-0",
+    "name": "YashaHat_Locked",
+    "path": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_Locked.mat",
+    "guid": "54a9795f7ac92ce46aaa9f28b31ac6a7"
+  },
+  "complete": true,
+  "hats": [
+    {
+      "id": 2,
+      "glb": "hats/hat-02.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-8e8bc70dd6474924e985023f8b59d66a-934339633575540950-0",
+        "meshName": "YashaHat_1",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_01_Detective.fbx",
+        "meshGuid": "8e8bc70dd6474924e985023f8b59d66a",
+        "meshFileId": 934339633575540950,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 485,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.005,
+        -1.077,
+        -0.528
+      ],
+      "rotationInFly": [
+        0.256930977,
+        0.005864091,
+        0.0220512543,
+        0.9661604
+      ]
+    },
+    {
+      "id": 3,
+      "glb": "hats/hat-03.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-3ed9c7594b691a348ac1f08b02e9cd49-14124839614161058556-0",
+        "meshName": "YashaHat_2",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_02_Shtreimel.fbx",
+        "meshGuid": "3ed9c7594b691a348ac1f08b02e9cd49",
+        "meshFileId": -4321904459548493060,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 304,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -0.002,
+        0.0449917,
+        0.000865903
+      ],
+      "rotationInFly": [
+        0.238789633,
+        1.43584583E-19,
+        -3.813964E-20,
+        0.9710713
+      ]
+    },
+    {
+      "id": 4,
+      "glb": "hats/hat-04.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-8d6f2d81d3db45f4b81904d0712b9bf1-12867548336720749908-0",
+        "meshName": "YashaHat_3",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_03_Egg.fbx",
+        "meshGuid": "8d6f2d81d3db45f4b81904d0712b9bf1",
+        "meshFileId": -5579195736988801708,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 649,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -0.002,
+        0.151272058,
+        0.005
+      ],
+      "rotationInFly": [
+        0.196803823,
+        4.77248937E-19,
+        -1.267646E-19,
+        0.980442941
+      ]
+    },
+    {
+      "id": 5,
+      "glb": "hats/hat-05.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-92166d8446e88434baf19a945d91d5be-2562505625942672652-0",
+        "meshName": "YashaHat_4",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_04_Officer.fbx",
+        "meshGuid": "92166d8446e88434baf19a945d91d5be",
+        "meshFileId": 2562505625942672652,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 623,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -0.002,
+        0.251,
+        0.005
+      ],
+      "rotationInFly": [
+        0.196803823,
+        4.77248937E-19,
+        -1.267646E-19,
+        0.980442941
+      ]
+    },
+    {
+      "id": 6,
+      "glb": "hats/hat-06.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-15a83ad5916a04b4b8abf060dba44635-5652289902274594414-0",
+        "meshName": "YashaHat_5",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_05_Straw.fbx",
+        "meshGuid": "15a83ad5916a04b4b8abf060dba44635",
+        "meshFileId": 5652289902274594414,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 536,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -0.002,
+        0.267864048,
+        0.0
+      ],
+      "rotationInFly": [
+        0.232350245,
+        1.95005348E-19,
+        -5.179681E-20,
+        0.9726322
+      ]
+    },
+    {
+      "id": 7,
+      "glb": "hats/hat-07.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-2e13b990fd4cf01489e3be908f028fa9-354273242884274977-0",
+        "meshName": "YashaHat_6",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_06_Sombrero.fbx",
+        "meshGuid": "2e13b990fd4cf01489e3be908f028fa9",
+        "meshFileId": 354273242884274977,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 691,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -0.002,
+        0.562211156,
+        0.0
+      ],
+      "rotationInFly": [
+        0.213829026,
+        3.42404073E-19,
+        -9.0944786E-20,
+        0.976871133
+      ]
+    },
+    {
+      "id": 8,
+      "glb": "hats/hat-08.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-5526548206c4a2d48bba3a2092ed95f9-17541201125232927318-0",
+        "meshName": "YashaHat_7",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_07_High.fbx",
+        "meshGuid": "5526548206c4a2d48bba3a2092ed95f9",
+        "meshFileId": -905542948476624298,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 529,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -0.002,
+        0.160592973,
+        0.0
+      ],
+      "rotationInFly": [
+        0.224448308,
+        2.57982149E-19,
+        -6.85232348E-20,
+        0.974486053
+      ]
+    },
+    {
+      "id": 9,
+      "glb": "hats/hat-09.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-ee18f41f4e638f34b95c5fe5e1ae7ae3-17165609527088799002-0",
+        "meshName": "YashaHat_8",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_08_Propeller.fbx",
+        "meshGuid": "ee18f41f4e638f34b95c5fe5e1ae7ae3",
+        "meshFileId": -1281134546620752614,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 376,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.084,
+        -0.001
+      ],
+      "rotationInFly": [
+        0.2725922,
+        -2.50315234E-21,
+        7.08480346E-22,
+        0.9621297
+      ]
+    },
+    {
+      "id": 10,
+      "glb": "hats/hat-10.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-ce0033d14cb6b7240a4ab43884e44bfb-4068373610013402943-0",
+        "meshName": "YashaHat_9",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_09_Cowboy.fbx",
+        "meshGuid": "ce0033d14cb6b7240a4ab43884e44bfb",
+        "meshFileId": 4068373610013402943,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 521,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.174,
+        0.00375016779
+      ],
+      "rotationInFly": [
+        0.2106964,
+        4.90214838E-19,
+        -1.387182E-19,
+        0.9775516
+      ]
+    },
+    {
+      "id": 11,
+      "glb": "hats/hat-11.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-b88026c80541cb34daeefce063f0b457-184189040994996988-0",
+        "meshName": "YashaHat_10",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_10_Christmas.fbx",
+        "meshGuid": "b88026c80541cb34daeefce063f0b457",
+        "meshFileId": 184189040994996988,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 446,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.051,
+        0.014
+      ],
+      "rotationInFly": [
+        0.265979975,
+        5.05586232E-20,
+        -1.43081566E-20,
+        0.9639786
+      ]
+    },
+    {
+      "id": 12,
+      "glb": "hats/hat-12.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-650a3257bb4597940849b1aef663e818-10206916114139168352-0",
+        "meshName": "YashaHat_11",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_11_Frog.fbx",
+        "meshGuid": "650a3257bb4597940849b1aef663e818",
+        "meshFileId": -8239827959570383264,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 252,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -6.91701353E-21,
+        0.05013877,
+        0.0
+      ],
+      "rotationInFly": [
+        0.258371681,
+        1.11485128E-19,
+        -3.15474278E-20,
+        0.9660456
+      ]
+    },
+    {
+      "id": 13,
+      "glb": "hats/hat-13.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-dd5ae1e9e8225894c8a1f8e6c580cfc7-15871960675949519887-0",
+        "meshName": "YashaHat_12",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_12_Cat.fbx",
+        "meshGuid": "dd5ae1e9e8225894c8a1f8e6c580cfc7",
+        "meshFileId": -2574783397760031729,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 250,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -6.91701353E-21,
+        0.05013877,
+        0.0
+      ],
+      "rotationInFly": [
+        0.258371681,
+        1.11485128E-19,
+        -3.15474278E-20,
+        0.9660456
+      ]
+    },
+    {
+      "id": 14,
+      "glb": "hats/hat-14.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-e08829575e828d0468788b6fc8909cd2-9016192499036226984-0",
+        "meshName": "YashaHat_13",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_13_Ushanka.fbx",
+        "meshGuid": "e08829575e828d0468788b6fc8909cd2",
+        "meshFileId": 9016192499036226984,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 710,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.085,
+        -0.052
+      ],
+      "rotationInFly": [
+        0.177779242,
+        7.487092E-19,
+        -2.11866623E-19,
+        0.9840704
+      ]
+    },
+    {
+      "id": 15,
+      "glb": "hats/hat-15.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-d0dca221d3a8b6447be8e6eea07780f3-2917334188543702643-0",
+        "meshName": "YashaHat_14",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_14_Tomato.fbx",
+        "meshGuid": "d0dca221d3a8b6447be8e6eea07780f3",
+        "meshFileId": 2917334188543702643,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 659,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        2.57129941E-18,
+        0.320149183,
+        0.009
+      ],
+      "rotationInFly": [
+        0.194685832,
+        6.162464E-19,
+        -1.74383735E-19,
+        0.9808657
+      ]
+    },
+    {
+      "id": 16,
+      "glb": "hats/hat-16.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-59679abf97679f04991e6049be9a51fc-16788194331125455599-0",
+        "meshName": "YashaHat_15",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_15_Lightbulb.fbx",
+        "meshGuid": "59679abf97679f04991e6049be9a51fc",
+        "meshFileId": -1658549742584096017,
+        "material": "GlobalObjectId_V1-3-97153e39b2d47c44098e925a68c6de75-2100000-0",
+        "materialName": "YashaHat_All_01_Light",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01_Light.mat",
+        "vertices": 886,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -8.135746E-05,
+        0.0534125566,
+        0.002
+      ],
+      "rotationInFly": [
+        0.224741414,
+        0.03131958,
+        -0.00722753257,
+        0.9738882
+      ]
+    },
+    {
+      "id": 17,
+      "glb": "hats/hat-17.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-553cca7c764384d468976c4eb8c29f0f-9083706590732994245-0",
+        "meshName": "YashaHat_16",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_16_Wizard.fbx",
+        "meshGuid": "553cca7c764384d468976c4eb8c29f0f",
+        "meshFileId": 9083706590732994245,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 592,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.002,
+        0.229,
+        -0.006000001
+      ],
+      "rotationInFly": [
+        0.224217,
+        0.0348765254,
+        0.008204002,
+        0.97388047
+      ]
+    },
+    {
+      "id": 18,
+      "glb": "hats/hat-18.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-09ae598fc73a66f49ac31d95737dfcd9-10418616543671916397-0",
+        "meshName": "YashaHat_17",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_17_Deer.fbx",
+        "meshGuid": "09ae598fc73a66f49ac31d95737dfcd9",
+        "meshFileId": -8028127530037635219,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 478,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.002,
+        0.033,
+        0.005
+      ],
+      "rotationInFly": [
+        0.260639817,
+        -2.97634784E-19,
+        6.83271865E-20,
+        0.965436161
+      ]
+    },
+    {
+      "id": 19,
+      "glb": "hats/hat-19.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-3ac96990011e21d458a7562659ebdff8-17569458026866058142-0",
+        "meshName": "YashaHat_18",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_18_Asian.fbx",
+        "meshGuid": "3ac96990011e21d458a7562659ebdff8",
+        "meshFileId": -877286046843493474,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 664,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.15,
+        0.0
+      ],
+      "rotationInFly": [
+        0.224951074,
+        0.0,
+        0.0,
+        0.9743701
+      ]
+    },
+    {
+      "id": 1,
+      "glb": "hats/hat-01.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-4522f81b0bb40204687d292c17f8c21f-6657998009922166292-0",
+        "meshName": "Hat",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_00_Borsalino.fbx",
+        "meshGuid": "4522f81b0bb40204687d292c17f8c21f",
+        "meshFileId": 6657998009922166292,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 583,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        -1.111,
+        -0.5802175
+      ],
+      "rotationInFly": [
+        0.2645939,
+        6.166662E-20,
+        -1.74464783E-20,
+        0.964359939
+      ]
+    },
+    {
+      "id": 20,
+      "glb": "hats/hat-20.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-2aa3a063c9893b44b8ae06b613fbec90-5651387182092482334-0",
+        "meshName": "YashaHat_19",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_19_AlienShip.fbx",
+        "meshGuid": "2aa3a063c9893b44b8ae06b613fbec90",
+        "meshFileId": 5651387182092482334,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 649,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.002,
+        0.191020146,
+        0.001388669
+      ],
+      "rotationInFly": [
+        0.2027074,
+        1.68541178E-19,
+        -3.86769E-20,
+        0.9792394
+      ]
+    },
+    {
+      "id": 21,
+      "glb": "hats/hat-21.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-dd0d49d9d87ec9f4f8583175a1722cbe-10505527342745434882-0",
+        "meshName": "YashaHat_20",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_20_MadHatter.fbx",
+        "meshGuid": "dd0d49d9d87ec9f4f8583175a1722cbe",
+        "meshFileId": -7941216730964116734,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 529,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.002,
+        0.150099337,
+        -0.001
+      ],
+      "rotationInFly": [
+        0.224867225,
+        -9.021645E-21,
+        2.08408155E-21,
+        0.9743895
+      ]
+    },
+    {
+      "id": 22,
+      "glb": "hats/hat-22.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-2ffddf9b8c8e9024689b472d85d416cf-16710050679357805092-0",
+        "meshName": "YashaHat_21",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_21_SombreroBlack.fbx",
+        "meshGuid": "2ffddf9b8c8e9024689b472d85d416cf",
+        "meshFileId": -1736693394351746524,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 691,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.002,
+        0.534,
+        -0.002
+      ],
+      "rotationInFly": [
+        0.211922586,
+        9.481246E-20,
+        -2.17531925E-20,
+        0.977286458
+      ]
+    },
+    {
+      "id": 23,
+      "glb": "hats/hat-23.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-6bd1975db3c06da4eb0866f1678105f2-12089813396246169998-0",
+        "meshName": "YashaHat_22",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_22_AsianPetals.fbx",
+        "meshGuid": "6bd1975db3c06da4eb0866f1678105f2",
+        "meshFileId": -6356930677463381618,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 664,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.002,
+        0.125,
+        -0.002
+      ],
+      "rotationInFly": [
+        0.211922586,
+        9.481246E-20,
+        -2.17531925E-20,
+        0.977286458
+      ]
+    },
+    {
+      "id": 24,
+      "glb": "hats/hat-24.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-6afc881db55cc5e4f82f103726e9c723-7202319432170079315-0",
+        "meshName": "YashaHat_23",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_23_Viking.fbx",
+        "meshGuid": "6afc881db55cc5e4f82f103726e9c723",
+        "meshFileId": 7202319432170079315,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 478,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.002,
+        0.037,
+        0.004
+      ],
+      "rotationInFly": [
+        0.256997943,
+        -2.681358E-19,
+        6.156168E-20,
+        0.966412
+      ]
+    },
+    {
+      "id": 25,
+      "glb": "hats/hat-25.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-fe2070f599998544da4c917b08e79bd1-4489375589907570508-0",
+        "meshName": "YashaHat_24",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_24_Shabby.fbx",
+        "meshGuid": "fe2070f599998544da4c917b08e79bd1",
+        "meshFileId": 4489375589907570508,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 592,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.005,
+        0.182,
+        0.00400000066
+      ],
+      "rotationInFly": [
+        0.256930977,
+        0.005864091,
+        0.0220512543,
+        0.9661604
+      ]
+    },
+    {
+      "id": 26,
+      "glb": "hats/hat-26.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-3164f8f6d2efe654e967bad935f06e37-4214623275782210267-0",
+        "meshName": "YashaHat_25",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_25_Cheese.fbx",
+        "meshGuid": "3164f8f6d2efe654e967bad935f06e37",
+        "meshFileId": 4214623275782210267,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 623,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.325,
+        -0.0212989226
+      ],
+      "rotationInFly": [
+        0.2234651,
+        3.89284948E-19,
+        -1.10156883E-19,
+        0.974711955
+      ]
+    },
+    {
+      "id": 27,
+      "glb": "hats/hat-27.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-72bfd46f5758f104fbf58946698a1a80-14396212715527669241-0",
+        "meshName": "YashaHat_26",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_26_Baseball.fbx",
+        "meshGuid": "72bfd46f5758f104fbf58946698a1a80",
+        "meshFileId": -4050531358181882375,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 521,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        1.42127765E-18,
+        0.176961452,
+        -0.0200772211
+      ],
+      "rotationInFly": [
+        0.208200872,
+        5.098915E-19,
+        -1.44285929E-19,
+        0.978086054
+      ]
+    },
+    {
+      "id": 28,
+      "glb": "hats/hat-28.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-9dda12215acd9c341a6c9fe95fa9f19d-4954893051961847824-0",
+        "meshName": "YashaHat_27",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_27_Eggplant.fbx",
+        "meshGuid": "9dda12215acd9c341a6c9fe95fa9f19d",
+        "meshFileId": 4954893051961847824,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 659,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.306,
+        0.007
+      ],
+      "rotationInFly": [
+        0.2205084,
+        4.12687956E-19,
+        -1.16779291E-19,
+        0.9753851
+      ]
+    },
+    {
+      "id": 29,
+      "glb": "hats/hat-29.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-bcead2dbfec8ffd45bd37577c71ef9aa-4512503277351044959-0",
+        "meshName": "YashaHat_28",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_28_Mango.fbx",
+        "meshGuid": "bcead2dbfec8ffd45bd37577c71ef9aa",
+        "meshFileId": 4512503277351044959,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 659,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.306,
+        0.007
+      ],
+      "rotationInFly": [
+        0.2205084,
+        4.12687956E-19,
+        -1.16779291E-19,
+        0.9753851
+      ]
+    },
+    {
+      "id": 30,
+      "glb": "hats/hat-30.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-eb780cb29a5217b4c826ed4aa7f6b24e-17789427905467125631-0",
+        "meshName": "YashaHat_29",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_29_Winter.fbx",
+        "meshGuid": "eb780cb29a5217b4c826ed4aa7f6b24e",
+        "meshFileId": -657316168242425985,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 446,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        2.96259363E-19,
+        0.03688687,
+        0.0171280056
+      ],
+      "rotationInFly": [
+        0.265105546,
+        5.75635958E-20,
+        -1.6288839E-20,
+        0.9642194
+      ]
+    },
+    {
+      "id": 31,
+      "glb": "hats/hat-31.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-2930dc2e78c778146936e309804b7de4-13461234316511759382-0",
+        "meshName": "YashaHat_30",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_30_Watermelon.fbx",
+        "meshGuid": "2930dc2e78c778146936e309804b7de4",
+        "meshFileId": -4985509757197792234,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 536,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -2.82225753E-20,
+        0.263486028,
+        -0.004
+      ],
+      "rotationInFly": [
+        0.2294228,
+        3.42069272E-19,
+        -9.67975E-20,
+        0.973326862
+      ]
+    },
+    {
+      "id": 32,
+      "glb": "hats/hat-32.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-200ea89c9fd708a408180da86e2c6f3d-12986833111130295009-0",
+        "meshName": "YashaHat_31",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_31_CowPrint.fbx",
+        "meshGuid": "200ea89c9fd708a408180da86e2c6f3d",
+        "meshFileId": -5459910962579256607,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 536,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -2.82225753E-20,
+        0.263486028,
+        -0.004
+      ],
+      "rotationInFly": [
+        0.2294228,
+        3.42069272E-19,
+        -9.67975E-20,
+        0.973326862
+      ]
+    },
+    {
+      "id": 33,
+      "glb": "hats/hat-33.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-010c43875a0f9394ba5d5fc1cc2aa4ef-6875143249702809692-0",
+        "meshName": "Yashahat_32",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_32_Stars.fbx",
+        "meshGuid": "010c43875a0f9394ba5d5fc1cc2aa4ef",
+        "meshFileId": 6875143249702809692,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 485,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        -1.171,
+        -0.462
+      ],
+      "rotationInFly": [
+        0.2294228,
+        3.42069272E-19,
+        -9.67975E-20,
+        0.973326862
+      ]
+    },
+    {
+      "id": 34,
+      "glb": "hats/hat-34.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-5cd3d9a78a9493f41aa3e3ac78247c72-17131694499522223924-0",
+        "meshName": "YashaHat_33",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_33_UshankaLuxe.fbx",
+        "meshGuid": "5cd3d9a78a9493f41aa3e3ac78247c72",
+        "meshFileId": -1315049574187327692,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 707,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.103,
+        -0.041
+      ],
+      "rotationInFly": [
+        0.169540644,
+        8.130268E-19,
+        -2.300637E-19,
+        0.985523164
+      ]
+    },
+    {
+      "id": 35,
+      "glb": "hats/hat-35.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-322fce67dd7d4bf4f95eba97a465ae5e-1143672144833621922-0",
+        "meshName": "YashaHat_34",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_34_Stripes.fbx",
+        "meshGuid": "322fce67dd7d4bf4f95eba97a465ae5e",
+        "meshFileId": 1143672144833621922,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 376,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -5.9519264E-21,
+        0.0422589332,
+        0.0007164292
+      ],
+      "rotationInFly": [
+        0.2720108,
+        2.166179E-21,
+        -6.125272E-22,
+        0.962294161
+      ]
+    },
+    {
+      "id": 36,
+      "glb": "hats/hat-36.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-425348d4c366eab4c8a87390acb7ab63-12264940845077571369-0",
+        "meshName": "YashaHat_35",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_35_Fox.fbx",
+        "meshGuid": "425348d4c366eab4c8a87390acb7ab63",
+        "meshFileId": -6181803228631980247,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 250,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.023,
+        0.00561664626
+      ],
+      "rotationInFly": [
+        0.256931633,
+        1.22999909E-19,
+        -3.48056955E-20,
+        0.9664296
+      ]
+    },
+    {
+      "id": 37,
+      "glb": "hats/hat-37.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-c82b437f3c3ba9d48ab1ffa3e69b972a-3071716872493429073-0",
+        "meshName": "YashaHat_36",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_36_Puppet.fbx",
+        "meshGuid": "c82b437f3c3ba9d48ab1ffa3e69b972a",
+        "meshFileId": 3071716872493429073,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 252,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.023,
+        0.00561664626
+      ],
+      "rotationInFly": [
+        0.256931633,
+        1.22999909E-19,
+        -3.48056955E-20,
+        0.9664296
+      ]
+    },
+    {
+      "id": 38,
+      "glb": "hats/hat-38.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-8071d56c41fa2c043ace7d911b501437-9085324615966926005-0",
+        "meshName": "YashaHat_37",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_37_Marine.fbx",
+        "meshGuid": "8071d56c41fa2c043ace7d911b501437",
+        "meshFileId": 9085324615966926005,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 312,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.401579,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        -1.38778935E-21,
+        0.022827208,
+        -0.001
+      ],
+      "rotationInFly": [
+        0.238133773,
+        2.728893E-19,
+        -7.721897E-20,
+        0.971232355
+      ]
+    },
+    {
+      "id": 39,
+      "glb": "hats/hat-39.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-10286465700526793455-0",
+        "meshName": "YashaHat_38",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": -8160278373182758161,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 304,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        -5.731764E-21,
+        -0.00471365452,
+        0.001
+      ],
+      "rotationInFly": [
+        0.237092361,
+        2.811659E-19,
+        -7.956195E-20,
+        0.9714871
+      ]
+    },
+    {
+      "id": 40,
+      "glb": "hats/hat-40.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-11151720892950295062-0",
+        "meshName": "YashaHat_39",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": -7295023180759256554,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 304,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        -5.731764E-21,
+        -0.00471365452,
+        0.001
+      ],
+      "rotationInFly": [
+        0.237092361,
+        2.811659E-19,
+        -7.956195E-20,
+        0.9714871
+      ]
+    },
+    {
+      "id": 41,
+      "glb": "hats/hat-41.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-541291229433194330-0",
+        "meshName": "YashaHat_40",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": 541291229433194330,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 194,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        1.40157926,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.029,
+        -0.006060795
+      ],
+      "rotationInFly": [
+        0.270156384,
+        1.70528453E-20,
+        -4.82287656E-21,
+        0.9628165
+      ]
+    },
+    {
+      "id": 42,
+      "glb": "hats/hat-42.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-14616218530485281026-0",
+        "meshName": "YashaHat_41",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": -3830525543224270590,
+        "material": "GlobalObjectId_V1-3-1e104f955feb1164496cbd81cc7c5559-2100000-0",
+        "materialName": "YashaHat_All_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+        "vertices": 300,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.014,
+        0.0
+      ],
+      "rotationInFly": [
+        0.270156384,
+        1.70528453E-20,
+        -4.82287656E-21,
+        0.9628165
+      ]
+    },
+    {
+      "id": 43,
+      "glb": "hats/hat-43.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-14304041776766176850-0",
+        "meshName": "YashaHat_42",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": -4142702296943374766,
+        "material": "GlobalObjectId_V1-3-4ebf70376d25f54429a4f96ccad6e85e-2100000-0",
+        "materialName": "YashaHat_All_Reskin_01",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+        "vertices": 194,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.032,
+        0.0
+      ],
+      "rotationInFly": [
+        0.270156384,
+        1.70528453E-20,
+        -4.82287656E-21,
+        0.9628165
+      ]
+    },
+    {
+      "id": 44,
+      "glb": "hats/hat-44.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-755916763667725241-0",
+        "meshName": "YashaHat_43",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": 755916763667725241,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 194,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417939
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477768,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.032,
+        0.0
+      ],
+      "rotationInFly": [
+        0.270156384,
+        1.70528453E-20,
+        -4.82287656E-21,
+        0.9628165
+      ]
+    },
+    {
+      "id": 45,
+      "glb": "hats/hat-45.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-d15b2cbe823080d49ac605f9678accc1-6657998009922166292-0",
+        "meshName": "Hat",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_00_Borsalino_smooth.fbx",
+        "meshGuid": "d15b2cbe823080d49ac605f9678accc1",
+        "meshFileId": 6657998009922166292,
+        "material": "GlobalObjectId_V1-3-0fd053f6512707c4ca614aa9e4848ee0-2100000-0",
+        "materialName": "YashaHat_Star",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_Star.mat",
+        "vertices": 583,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        -3.046452E-11,
+        1.45646837E-08,
+        -6.051153E-08
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.20941788
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        -1.092,
+        -0.5
+      ],
+      "rotationInFly": [
+        0.2722802,
+        0.0,
+        0.0,
+        0.962218046
+      ]
+    },
+    {
+      "id": 46,
+      "glb": "hats/hat-46.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-3739361918562254663-0",
+        "meshName": "YashaHat_44",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": 3739361918562254663,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 845,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        8.66683657E-19,
+        0.107909665,
+        -0.0482924134
+      ],
+      "rotationInFly": [
+        0.2414315,
+        2.46649129E-19,
+        -6.979502E-20,
+        0.9704179
+      ]
+    },
+    {
+      "id": 47,
+      "glb": "hats/hat-47.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-12523451965448255666-0",
+        "meshName": "YashaHat_45",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": -5923292108261295950,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 446,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        3.46835383E-19,
+        0.0431840271,
+        -0.01827082
+      ],
+      "rotationInFly": [
+        0.2615916,
+        8.57112E-20,
+        -2.425376E-20,
+        0.9651786
+      ]
+    },
+    {
+      "id": 48,
+      "glb": "hats/hat-48.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-766780375484221706-0",
+        "meshName": "YashaHat_46",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": 766780375484221706,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 515,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.189,
+        -0.011246616
+      ],
+      "rotationInFly": [
+        0.395353019,
+        -1.00711545E-18,
+        2.84977757E-19,
+        0.9185292
+      ]
+    },
+    {
+      "id": 49,
+      "glb": "hats/hat-49.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-8528774296138302074-0",
+        "meshName": "YashaHat_47",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": 8528774296138302074,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 772,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        7.955045E-19,
+        0.09904724,
+        -0.0165045261
+      ],
+      "rotationInFly": [
+        0.261652142,
+        8.522751E-20,
+        -2.41238922E-20,
+        0.9651623
+      ]
+    },
+    {
+      "id": 50,
+      "glb": "hats/hat-50.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-8656778544528380232-0",
+        "meshName": "YashaHat_48",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": 8656778544528380232,
+        "material": "GlobalObjectId_V1-3-4e543a1c58e4b4141b6b9621e5fda451-2100000-0",
+        "materialName": "YashaHat_All_Reskin_02",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+        "vertices": 634,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        0.0,
+        0.062,
+        -0.046
+      ],
+      "rotationInFly": [
+        0.230992526,
+        3.29614517E-19,
+        -9.327909E-20,
+        0.9729556
+      ]
+    },
+    {
+      "id": 51,
+      "glb": "hats/hat-51.glb",
+      "source": {
+        "mesh": "GlobalObjectId_V1-1-cf1d516666b89ef49b06515810a09ebb-15804883262297451127-0",
+        "meshName": "YashaHat_49",
+        "meshPath": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+        "meshGuid": "cf1d516666b89ef49b06515810a09ebb",
+        "meshFileId": -2641860811412100489,
+        "material": "GlobalObjectId_V1-3-c4d3620a2991d1142a60ac5b51186606-2100000-0",
+        "materialName": "YashaHat_All_01_UFO",
+        "materialPath": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01_UFO.mat",
+        "vertices": 588,
+        "submeshes": 1,
+        "bindposes": 128
+      },
+      "positionOnHead": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotationOnHead": [
+        2.18556941E-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "centerOnHead": [
+        -0.004238231,
+        0.401579261,
+        -0.209417775
+      ],
+      "extentOnHead": [
+        0.5745258,
+        0.6477767,
+        0.6090043
+      ],
+      "positionInFly": [
+        -0.076,
+        -0.07,
+        -0.05616709
+      ],
+      "rotationInFly": [
+        0.1568592,
+        0.02001767,
+        0.104830064,
+        0.9818377
+      ]
+    }
+  ]
+}

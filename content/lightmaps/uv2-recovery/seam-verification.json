@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "method": "ordered-corners-exact-uv2-seam-splitting",
+  "modelSha256": "e95f2e954e24f2cb91885c29f375e00f768d59a95dfa15a22e8bad445781ac70",
+  "verified": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5055933968301452845-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1944063179383134219-1912950625",
+      "name": "platform_06 3",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 774,
+          "resultVertices": 924,
+          "addedVertices": 150,
+          "indexCount": 1716,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "85a4bb788a7ad16a8ddb1157c544e37b0c0e7e4a99383b8f559c2d880496ccd5",
+          "triangleAttributesAfter": "85a4bb788a7ad16a8ddb1157c544e37b0c0e7e4a99383b8f559c2d880496ccd5",
+          "surfaceBefore": "2dfb1037eae44b3abf058299d5e55b3d2133c0e3ee66948c154ae7451347603f",
+          "surfaceAfter": "2dfb1037eae44b3abf058299d5e55b3d2133c0e3ee66948c154ae7451347603f",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-380096961878271442-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2945142398474454575-1912950625",
+      "name": "platform_06 2",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 402,
+          "resultVertices": 406,
+          "addedVertices": 4,
+          "indexCount": 1428,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "dc095425df2b796464c88a42a652d5cf8a263671456eb94f4700a5c9fcf8a630",
+          "triangleAttributesAfter": "dc095425df2b796464c88a42a652d5cf8a263671456eb94f4700a5c9fcf8a630",
+          "surfaceBefore": "7afcec6438f63dbfad592c440fa4c698bfa3c811e8e941363555e9c7a37b6aa8",
+          "surfaceAfter": "7afcec6438f63dbfad592c440fa4c698bfa3c811e8e941363555e9c7a37b6aa8",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1261272013898934499-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6026323650158960070-1912950625",
+      "name": "platform_06",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 732,
+          "resultVertices": 810,
+          "addedVertices": 78,
+          "indexCount": 1554,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "2e9fa042fb898afd2557333f2c1f432b0a4f3bd7f005f0dd080a9db67504cd59",
+          "triangleAttributesAfter": "2e9fa042fb898afd2557333f2c1f432b0a4f3bd7f005f0dd080a9db67504cd59",
+          "surfaceBefore": "47c6b2f4f7c2160a83b6496f1a2bacd172c33eb62aa3775067b80168457d81ee",
+          "surfaceAfter": "47c6b2f4f7c2160a83b6496f1a2bacd172c33eb62aa3775067b80168457d81ee",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3864215582806911080-1912950625",
+      "name": "platform_07_roofTop 1",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 594,
+          "resultVertices": 594,
+          "addedVertices": 0,
+          "indexCount": 2019,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "0c281b157b91891a95b096dae12dc20102da161fc9f3025887278a8587701e84",
+          "triangleAttributesAfter": "0c281b157b91891a95b096dae12dc20102da161fc9f3025887278a8587701e84",
+          "surfaceBefore": "dc9ff455bb4df669bda492133d962b6f42371d62cb8cbd3e53675bf0b2e7950d",
+          "surfaceAfter": "dc9ff455bb4df669bda492133d962b6f42371d62cb8cbd3e53675bf0b2e7950d",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6115637408497633996-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-580931175135821034-1912950625",
+      "name": "platform_06 3",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 774,
+          "resultVertices": 924,
+          "addedVertices": 150,
+          "indexCount": 1716,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "85a4bb788a7ad16a8ddb1157c544e37b0c0e7e4a99383b8f559c2d880496ccd5",
+          "triangleAttributesAfter": "85a4bb788a7ad16a8ddb1157c544e37b0c0e7e4a99383b8f559c2d880496ccd5",
+          "surfaceBefore": "2dfb1037eae44b3abf058299d5e55b3d2133c0e3ee66948c154ae7451347603f",
+          "surfaceAfter": "2dfb1037eae44b3abf058299d5e55b3d2133c0e3ee66948c154ae7451347603f",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1707764580422402355-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4191282879116141262-1912950625",
+      "name": "platform_06 2",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 402,
+          "resultVertices": 406,
+          "addedVertices": 4,
+          "indexCount": 1428,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "dc095425df2b796464c88a42a652d5cf8a263671456eb94f4700a5c9fcf8a630",
+          "triangleAttributesAfter": "dc095425df2b796464c88a42a652d5cf8a263671456eb94f4700a5c9fcf8a630",
+          "surfaceBefore": "7afcec6438f63dbfad592c440fa4c698bfa3c811e8e941363555e9c7a37b6aa8",
+          "surfaceAfter": "7afcec6438f63dbfad592c440fa4c698bfa3c811e8e941363555e9c7a37b6aa8",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1542432090197418362-1912950625",
+      "name": "platform_06 1",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 534,
+          "resultVertices": 627,
+          "addedVertices": 93,
+          "indexCount": 1284,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "f15ff20e0e3c1c60241ac1d6d1409da55710b70a91e1a4fca0a87a278cd29509",
+          "triangleAttributesAfter": "f15ff20e0e3c1c60241ac1d6d1409da55710b70a91e1a4fca0a87a278cd29509",
+          "surfaceBefore": "fa8880761c4e81fc13b3a4893e901fcdf9635bc4a8b6216962d777c82e3732fb",
+          "surfaceAfter": "fa8880761c4e81fc13b3a4893e901fcdf9635bc4a8b6216962d777c82e3732fb",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-249284355228273666-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4707562970218330407-1912950625",
+      "name": "platform_06",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 732,
+          "resultVertices": 810,
+          "addedVertices": 78,
+          "indexCount": 1554,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "2e9fa042fb898afd2557333f2c1f432b0a4f3bd7f005f0dd080a9db67504cd59",
+          "triangleAttributesAfter": "2e9fa042fb898afd2557333f2c1f432b0a4f3bd7f005f0dd080a9db67504cd59",
+          "surfaceBefore": "47c6b2f4f7c2160a83b6496f1a2bacd172c33eb62aa3775067b80168457d81ee",
+          "surfaceAfter": "47c6b2f4f7c2160a83b6496f1a2bacd172c33eb62aa3775067b80168457d81ee",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-725654845537969279-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2921884567361107345-1912950625",
+      "name": "platform_05 4",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 381,
+          "resultVertices": 450,
+          "addedVertices": 69,
+          "indexCount": 816,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "c2435defd2769573e7f350bf595ac20df1fbcbbfcd11a9de45f9992f27b4847f",
+          "triangleAttributesAfter": "c2435defd2769573e7f350bf595ac20df1fbcbbfcd11a9de45f9992f27b4847f",
+          "surfaceBefore": "1ab24ff41f4f54c8e6c054bf878c862542c749727aa4183e91ddeb8bfcaffddb",
+          "surfaceAfter": "1ab24ff41f4f54c8e6c054bf878c862542c749727aa4183e91ddeb8bfcaffddb",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6200743962061993977-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8623467854455608785-1912950625",
+      "name": "platform_05 2",
+      "primitives": [
+        {
+          "primitive": 0,
+          "originalVertices": 1972,
+          "resultVertices": 2181,
+          "addedVertices": 209,
+          "indexCount": 3786,
+          "submesh": 0,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "0f6bb9541acf5c4744fcefbc6ababa5559593dabd1129ada4155f677294aacec",
+          "triangleAttributesAfter": "0f6bb9541acf5c4744fcefbc6ababa5559593dabd1129ada4155f677294aacec",
+          "surfaceBefore": "ec332bf7984ad1d88ed9ef6dc21e3c5da6dc2df287fc1d3450f992ddb5e58539",
+          "surfaceAfter": "ec332bf7984ad1d88ed9ef6dc21e3c5da6dc2df287fc1d3450f992ddb5e58539",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        },
+        {
+          "primitive": 1,
+          "originalVertices": 1972,
+          "resultVertices": 2013,
+          "addedVertices": 41,
+          "indexCount": 966,
+          "submesh": 1,
+          "rotation": 1,
+          "attributes": [
+            "color",
+            "normal",
+            "position",
+            "tangent",
+            "uv"
+          ],
+          "triangleAttributesBefore": "dd033181d9aecea2ee42f778f587aa4a6f9c4f4d334efcb3d04063a6ce619c80",
+          "triangleAttributesAfter": "dd033181d9aecea2ee42f778f587aa4a6f9c4f4d334efcb3d04063a6ce619c80",
+          "surfaceBefore": "4ebb86f846ba710a7d5d5c2d46d2677641b03543879cde83e22177513b630b17",
+          "surfaceAfter": "4ebb86f846ba710a7d5d5c2d46d2677641b03543879cde83e22177513b630b17",
+          "groupsPreserved": true,
+          "drawRangePreserved": true,
+          "boundsPreserved": true
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6493216009708654556-1912950625",
+      "name": "platform_06 5",
+      "primitive": 0,
+      "ok": false,
+      "reason": "ordered-corner-attribute-mismatch",
+      "triangle": 113,
+      "corner": 0,
+      "component": 1
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+      "name": "platform_06 5",
+      "primitive": 0,
+      "ok": false,
+      "reason": "ordered-corner-attribute-mismatch",
+      "triangle": 113,
+      "corner": 0,
+      "component": 1
+    }
+  ]
+}

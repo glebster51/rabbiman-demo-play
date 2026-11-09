@@ -1,0 +1,1844 @@
+{
+  "BossTentacle": {
+    "path": "Assets/(s)Shaders/Boss_Tentacle.shader",
+    "sha256": "8d9aa2bcf8ec1846b8cf0d3236d6e688b0228f80b9676530853d0cc7ebb33040",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_EmissionColor": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_MetalicSmoothness": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Emmission": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "BridgeShader": {
+    "path": "Assets/(s)Shaders/SecretRoom_BridgeShader.shader",
+    "sha256": "361a2dc5ce4f4c13a890ff1ce16b6e0aa2cf3139eaf8229d71a7fd83607bc4aa",
+    "properties": {
+      "_TextureSample0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Metalic": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Smoothness": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Color0": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_RopeOffset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Float0": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_FadeMult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Fade_Add": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Em": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "EnvironmentLampsAnimated": {
+    "path": "Assets/(s)Shaders/EnvironmentLampsAnimated.shader",
+    "sha256": "4e3128225d279b68a9bed9be571ef4a57e5785d2ccfd3d79bb5c054f6e241fbf",
+    "properties": {
+      "_TextureSample0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_ColorA": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_ColorB": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_sizeScroll": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_speed": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "FX/CrystalShader": {
+    "path": "Assets/(s)Shaders/CrystalShader.shader",
+    "sha256": "9346994ef82606b86b573b105caafe495a2332e0a1c142c212407a3ffabea302",
+    "properties": {
+      "_TextureMasks": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_BaseColor_A": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_BaseColor_B": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_EmissionColor": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_BlikSize": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Alpha": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "FX/DestructDesolve": {
+    "path": "Assets/(s)Shaders/DestructDesolve.shader",
+    "sha256": "476639f84968686d1b6ec0a01909d66b6a54d6ac5b4b320236cefa0757c0df5b",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Float0": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_Alpha": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_t": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Color0": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_DesolveTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "FX/HitShader": {
+    "path": "Assets/(s)Shaders/HitShader.shader",
+    "sha256": "e87835af09f4c617baab1103d872c5abc706728e7cca5d7b0fa8558d0ec045d8",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Color0": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_Color1": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "Off"
+  },
+  "FX/MagicPlatform": {
+    "path": "Assets/(s)Shaders/MagicPlatform.shader",
+    "sha256": "2886fa877cf819b737621adbd2879ea891e558d27bd33829935691cb9d9d177b",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_TextureSample0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_LinesColor": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_BaseColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_GradientColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Fresnel": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Vector1": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0.09,2.79,1.17,0)"
+      },
+      "_add": {
+        "type": "Float",
+        "hdr": false,
+        "default": "-0.25"
+      },
+      "_Mult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "-0.25"
+      },
+      "_Deesolve": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Size": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_a_min": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_a_max": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_a": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_DesolveLineWeight": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_a2": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": false,
+    "blend": "One One"
+  },
+  "FX/OnlyDepth": {
+    "path": "Assets/(s)Shaders/OnlyDepth.shader",
+    "sha256": "de887ada4a8fe7656ea6593d24c0196f817d2e441badcc1d5a6cbbe1075e2051",
+    "properties": {
+      "_offset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": true,
+    "blend": "Off"
+  },
+  "FX/RespawnPointtShine": {
+    "path": "Assets/(s)Shaders/RespawnPointtShine.shader",
+    "sha256": "6a9c78cd5a9fb179d624736a3ade3e52dac14d37ca5232d2ca2d8a7d582dc997",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_t": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_tt": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_s": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha One"
+  },
+  "FX/Rotten/RottenFlower": {
+    "path": "Assets/(s)Shaders/Rotten_Shaders/RottenFlower.shader",
+    "sha256": "c8e1f79bb425588aa802f53910b24e943ecf10d9c2ca6dc998f7fda5d8e217ff",
+    "properties": {
+      "_RottenTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_HealthTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_RottenValue": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_healthTint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(1,1,1,1)"
+      },
+      "_rottenTint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(1,1,1,1)"
+      },
+      "_met": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_smo": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "FX/Rotten/RottenObject": {
+    "path": "Assets/(s)Shaders/Rotten_Shaders/RottenObject.shader",
+    "sha256": "6e42373f50f2ad857754be9e47fc7e48623892864502e121259f5c9e0a8972e5",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_rottenTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_RottenColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_RottenValue": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_rottenTiling": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.1"
+      },
+      "_05": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_rottenForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.8"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "FX/Rotten/RottenObjectTransparent": {
+    "path": "Assets/(s)Shaders/Rotten_Shaders/RottenObjectTransparent.shader",
+    "sha256": "a1663cdc80a21d776f88aaafa460eecd3d51034babe031fd28a9a43af713aaa3",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_rottenTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_rottenTiling": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.1"
+      },
+      "_RottenColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_RottenValue": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_RottenForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.8"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "FX/Rotten/RottenZone": {
+    "path": "Assets/(s)Shaders/Rotten_Shaders/RottenZone.shader",
+    "sha256": "62b64ceb48696bcbb0d4bcb296846801d8946b8cf42dd95b422cff0a6f2b6dc8",
+    "properties": {
+      "_rottenTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_rottenTiling": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.1"
+      },
+      "_RottenColor": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_RottenTextureForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.5"
+      },
+      "_pool": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Texture0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "FX/Rotten/WaterDrop": {
+    "path": "Assets/(s)Shaders/Rotten_Shaders/WaterDrop.shader",
+    "sha256": "2ae2ce03f043b2a3f32f3036800bbe949ddb8a288b185acee41302d03cb86197",
+    "properties": {
+      "_timeSpeed": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Color0": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Color2": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_noiseSize": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_noiseForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_screenPosMult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_vor": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,1,2.53,1)"
+      },
+      "_fres": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,1,2.53,1)"
+      },
+      "_offset_time": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_offset_yMult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_offsetForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "Off"
+  },
+  "FX/RottenWater": {
+    "path": "Assets/(s)Shaders/Rotten_Shaders/RottenWater.shader",
+    "sha256": "442364e7b320c0cc911a4147dfe134b7037979aa5d9b53f4ab97948e4f6fcb26",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_Time_DirXY_L1Z_L2W": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Tiling": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(4.61,0.22,1,0)"
+      },
+      "_ColorBase_A": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_ColorBase_B": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_BaseMult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_poster": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "FX/StarShader": {
+    "path": "Assets/(s)Shaders/StarShader.shader",
+    "sha256": "623f37d8308ba0d048c627b1e4f27984aa132d2ac4cfc8446f203f6e74e717bf",
+    "properties": {
+      "_BodyColor": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_OutlineColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_OutlineWeight": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Tint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_Hue_offset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Hue_offset_force": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Noise": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Noise_Size": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Noise_Speed": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Front",
+    "depthWrite": true,
+    "blend": "Off"
+  },
+  "FX/StarShader_Eye": {
+    "path": "Assets/(s)Shaders/StarShader_Eye.shader",
+    "sha256": "40460da4bffb91f3ad707d5849b5df9716cd5f1533c38a5dbdc5026e54e3c0f6",
+    "properties": {
+      "_BodyColor": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Color0": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "FX/UnlitColorVertexOffsetScreenSpace": {
+    "path": "Assets/(s)Shaders/UnlitColorVertexOffsetScreenSpace.shader",
+    "sha256": "452e16fa6970d15527cf0909f67732871fd2c913d5deef9fe9b9efb2693d8ae0",
+    "properties": {
+      "_VertexOffset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Color": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      }
+    },
+    "cull": "Front",
+    "depthWrite": true,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "FX/UnlitColorVertexOffsetScreenSpaceFade": {
+    "path": "Assets/(s)Shaders/UnlitColorVertexOffsetScreenSpaceFade.shader",
+    "sha256": "ba0c673e4464bd58f69ca6695be578dc185bf264a7582a17d3c8941e221288cd",
+    "properties": {
+      "_VertexOffset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Color": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Gradient_Mult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Gradient_add": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Front",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "FX/WaterEdgedAndWaterFall": {
+    "path": "Assets/(s)Shaders/Water.shader",
+    "sha256": "27a53df990c957f812a9b2558604361160cf5fcbeeb5323b732f0e32549c3f54",
+    "properties": {
+      "_TextureSample0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_TextureSample1": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Time_1": {
+        "type": "Float",
+        "hdr": false,
+        "default": "5.51"
+      },
+      "_NoiseSize": {
+        "type": "Float",
+        "hdr": false,
+        "default": "5.51"
+      },
+      "_TileSize": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.62"
+      },
+      "_off": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_floor": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_floor1": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Fade_mult_add": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Color1": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_WaterFallHorizontalScale": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_floorWaterFall": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_yScale": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_waterFallScrollSpeed": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Texture0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": false,
+    "blend": "One Zero"
+  },
+  "FX/WaterFall": {
+    "path": "Assets/(s)Shaders/WaterFall.shader",
+    "sha256": "204c92db5ec62f25bc5d986a6f2b380a4d59df4b75dfb8b1402279aeab758ef7",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_Time_DirXY_L1Z_L2W": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Tiling": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(4.61,0.22,1,0)"
+      },
+      "_ColorBase_A": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_ColorBase_B": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_ColorBlick": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_BaseMult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_poster": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_BlickMult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_BlikScale": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_OffsetForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_SinSpeed": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_SinSize": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_BlickMask": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_FadeMask": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_noiseVor": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "FogShader": {
+    "path": "Assets/(s)Shaders/FogShader.shader",
+    "sha256": "71ae9688fe5c715ae243169f6bacd8f001506449d48742b2b95d825652fdc7f5",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Color": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,1)"
+      },
+      "PixelSnap": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_AlphaTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Texture0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_DepthFadeForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Noise_worldSize": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_OffsetDir": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_offsetCompensator": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_NoiseSpeed": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_EnableAlpha": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "GD/LitFadeDepthWright_NoLight": {
+    "path": "Assets/(s)Shaders/Lit_FadeDepthWright_NoLight.shader",
+    "sha256": "86d891fead0658eb3e49c4863cd469985a4ee4abd16c35eb45dc6d6d4965b483",
+    "properties": {
+      "_MainTint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_Emm": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_Gradient_Mult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Gradient_add": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_TextureSample0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "GD/Lit_FadeByVertexColor": {
+    "path": "Assets/(s)Shaders/Lit_FadeByVertexColor.shader",
+    "sha256": "13264150bccfb42cb2715532193f0c9163b48cce7895ae490e53ee7e193d62e6",
+    "properties": {
+      "_MainTint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_TextureSample0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Emisson": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,1)"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "GD/Standart_HUE": {
+    "path": "Assets/(s)Shaders/Standart_HUE.shader",
+    "sha256": "ce7d8942155ed31befea9d77075181cdd5d66ad51af915a0b1e6c698cd95bf6d",
+    "properties": {
+      "_MainTexture": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Tint": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,1)"
+      },
+      "_Hue": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Saturation": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Value": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_RecolorForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Emmission": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "Off"
+  },
+  "ItemOutline": {
+    "path": "Assets/(s)Shaders/ItemOutline.shader",
+    "sha256": "7b5c50d7ca4a7b4a36ce5cc039c28a38011fa51e5c2b3d29f76be7734867c7f5",
+    "properties": {
+      "_VertexOffset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Color": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      }
+    },
+    "cull": "Front",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "Lit_Simple": {
+    "path": "Assets/(s)Shaders/Lit_Simple.shader",
+    "sha256": "0e5216765d5b773d18d5e2ab1696233d74a8a9ffd1176c7089d55223f2f5ceae",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_EmissionMask": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_EmissionColor": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_MetalicSmoothness": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Emmission": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "Northern_lights": {
+    "path": "Assets/(s)Shaders/Northern lights/Northern_lights.shader",
+    "sha256": "e9be2c310a43674b5e9cb1cae4bb456fa62042d86827f4c8e49fe1ab9ebf9066",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_ColorMask": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.1"
+      },
+      "_TimeSpeed": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.3"
+      },
+      "_TimeSpeed1": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.3"
+      },
+      "_TimeSpeed2": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.3"
+      },
+      "_Intensity": {
+        "type": "Float",
+        "hdr": false,
+        "default": "4.11"
+      },
+      "_Yoffset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha One"
+  },
+  "ParticleAdditive_forwardOffset": {
+    "path": "Assets/(s)Shaders/ParticleAdditive_forwardOffset.shader",
+    "sha256": "8d04fe41fe889da947b1ffc7017fe6831f4f42ea7f245a1b67e14cad562e050a",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_offsetZ": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha One"
+  },
+  "PortalFX": {
+    "path": "Assets/(s)Shaders/PortalFX.shader",
+    "sha256": "c399a859a741569e3243e2edbccda2415555de2318c04a86c79c42ffc1c85c5a",
+    "properties": {
+      "_TextureSample0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_TextureSample1": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_a": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0.06243353,1.748174,6.618064,1)"
+      },
+      "_b": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,1)"
+      },
+      "_TimescrollSpeed": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_TimescrollSpeed1": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_offsetForce": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.3"
+      },
+      "_offfsetNoiseSize": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.18"
+      },
+      "_Alpha": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": true,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "SandSR": {
+    "path": "Assets/(s)Shaders/SandSR.shader",
+    "sha256": "6369e16465d59cd8c0fb8e29e4d510ab16a230f247a932c92820fc5b8e092b6e",
+    "properties": {
+      "_TextureSample1": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_TilingSize": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_DotForse": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_ColorDots": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.1999288,0.7948164,0.9056604,0)"
+      },
+      "_Float0": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_MaskCircle": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Sat": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "SparkShader": {
+    "path": "Assets/(s)Shaders/SparkShader.shader",
+    "sha256": "c984af06d5c2258d58dcff915969bc86877f9a106e95a3d7acb0185ed763b4da",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_SizeRings": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_CoreSize": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.76"
+      },
+      "_Color0": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Color1": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Float0": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.05"
+      },
+      "_Color2": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_addd": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "StartLine": {
+    "path": "Assets/(s)Shaders/StartLine.shader",
+    "sha256": "220dfdfb86d11f1a643463127f2ee71a07db9bbccce383d28e25797ffea58ac6",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Color": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,1)"
+      },
+      "PixelSnap": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_AlphaTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Albedo": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_additiveForced": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_PulseColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_Tint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "One OneMinusSrcAlpha"
+  },
+  "TrialWalls": {
+    "path": "Assets/(s)Shaders/TrialWalls.shader",
+    "sha256": "fc35dff73990728d0268296e6e61a74010d94176b09011b0702f18cc7322040b",
+    "properties": {
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Color": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,1)"
+      },
+      "PixelSnap": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_AlphaTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_BASE": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_A": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_C_ADD": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(0,0,0,0)"
+      },
+      "_ScrollSpeed": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_add": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_mult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Noise": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Tiling": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_alpha": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_playerPosition": {
+        "type": "Vector",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_distMult": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_distAdd": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_additiveForced": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "One OneMinusSrcAlpha"
+  },
+  "Tubishvat_Grass_Green": {
+    "path": "Assets/(s)Shaders/Tubishvat_Grass_Green.shader",
+    "sha256": "936476d0365bda25d6bab996466cb556764b34d8164989a1ca0e756c316a7bfb",
+    "properties": {
+      "_MainColorTint": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_VertexTint": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,0.5019608)"
+      },
+      "_Emission": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0.5019608)"
+      },
+      "_untitled_DefaultMaterial_BaseColor": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "Tubishvat_Grass_Yelow": {
+    "path": "Assets/(s)Shaders/Tubishvat_Grass_Yelow.shader",
+    "sha256": "d29f99776c37c2c8e13ac9e1343fa253faa7f39a4cc6ae415dbffde0617b0942",
+    "properties": {
+      "_MainColorTint": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_VertexTint": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,0.5019608)"
+      },
+      "_Emission": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0.5019608)"
+      },
+      "_untitled_DefaultMaterial_BaseColor": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "Tubishvat_Tree_VertexPaint": {
+    "path": "Assets/(s)Shaders/Tubishvat_Tree_VertexPaint.shader",
+    "sha256": "63313d43170b8acd03c55cbfe0252cc820e54a670f93bde9b06dc137164b6978",
+    "properties": {
+      "_MainColorTint": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      },
+      "_VertexTint": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,0.5019608)"
+      },
+      "_Emission": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0.5019608)"
+      },
+      "_untitled_DefaultMaterial_BaseColor": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "UnlitColorVertexOffset": {
+    "path": "Assets/(s)Shaders/UnlitColorVertexOffset.shader",
+    "sha256": "652f63d7e6f2b861d2e9f930a26055dbc8e8388c07a2588c81176974546a8e8d",
+    "properties": {
+      "_VertexOffset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Color": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0,0,0,0)"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  },
+  "Unlit_Monochrome_Alpha": {
+    "path": "Assets/(s)Shaders/Unlit_Monochrome_Alpha.shader",
+    "sha256": "fb5e535a708d6bf4a3040bbfbfd2d0463ddf531db7903d6b282dc2ceff485ba3",
+    "properties": {
+      "_TextureSample0": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_Tint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(1,1,1,1)"
+      },
+      "_saturation": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Float0": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Float1": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "SrcAlpha OneMinusSrcAlpha, SrcAlpha OneMinusSrcAlpha"
+  },
+  "VFX/Particle_ADD_DepthOffset": {
+    "path": "Assets/(s)Shaders/Particle_ADD_DepthOffset.shader",
+    "sha256": "306507d88eb987bffc0f846341b0b39148144f380130338f67bc377647365c18",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_Offset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_MoreTint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(1,1,1,1)"
+      },
+      "_Ingtencity": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_Alpha": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha One"
+  },
+  "VFX/Particle_ADD_Max_NoDepth": {
+    "path": "Assets/(s)Shaders/Particle_ADD_Max_NoDepth.shader",
+    "sha256": "a1f7301f0a76c06b6587181ae115310eabf07c2cb5203a8682688bcbcf73dea6",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_MoreTint": {
+        "type": "Color",
+        "hdr": true,
+        "default": "(1,1,1,1)"
+      },
+      "_Alpha": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha One, One One"
+  },
+  "VpColorAll": {
+    "path": "Assets/(s)Shaders/VPSimpleColor.shader",
+    "sha256": "0ced51239a04a5af9e138ff4c4f2561ec3fb96e7f19d385042777967442120d8",
+    "properties": {
+      "_DotForse1": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0"
+      },
+      "_Sat": {
+        "type": "Float",
+        "hdr": false,
+        "default": "0.5382037"
+      }
+    },
+    "cull": "Back",
+    "depthWrite": true,
+    "blend": "One Zero"
+  },
+  "g51/ParticleFromGrayscaleAlpha_V2": {
+    "path": "Assets/(s)Shaders/ParticleFromGrayscaleAlpha_V2.shader",
+    "sha256": "977d6021c2b2f1e18c7e6bb076a3065f7f483cfb4f364e593fb646dc39111e27",
+    "properties": {
+      "_TintColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(0.5,0.5,0.5,0.5)"
+      },
+      "_MainTex": {
+        "type": "2D",
+        "hdr": false,
+        "default": "\"white\" {}"
+      },
+      "_InvFade": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1.0"
+      },
+      "_SecondColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,1)"
+      },
+      "_BaseColor": {
+        "type": "Color",
+        "hdr": false,
+        "default": "(1,1,1,1)"
+      },
+      "_ColorLerpOffset": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      },
+      "_add": {
+        "type": "Float",
+        "hdr": false,
+        "default": "1"
+      }
+    },
+    "cull": "Off",
+    "depthWrite": false,
+    "blend": "SrcAlpha OneMinusSrcAlpha"
+  }
+}

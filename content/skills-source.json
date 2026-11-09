@@ -1,0 +1,1064 @@
+{
+  "schemaVersion": 1,
+  "animations": [
+    {
+      "name": "HungInAir",
+      "speed": 1
+    },
+    {
+      "name": "HungInAir",
+      "speed": 1
+    },
+    {
+      "name": "Gliding",
+      "speed": 1
+    },
+    {
+      "name": "HatThrow",
+      "speed": 3
+    },
+    {
+      "name": "OpenGlide",
+      "speed": 1
+    },
+    {
+      "name": "HatCatch",
+      "speed": 1
+    }
+  ],
+  "catchTree": {
+    "parameter": "HatPosition_X",
+    "parameterY": "HatPosition_Y",
+    "type": 2,
+    "children": [
+      {
+        "threshold": 0,
+        "position": {
+          "x": 0,
+          "y": 1
+        },
+        "speed": 1,
+        "motion": {
+          "clip": "Yasha_CatchHatInMotion"
+        }
+      },
+      {
+        "threshold": 0.33333334,
+        "position": {
+          "x": 0,
+          "y": -1
+        },
+        "speed": 1,
+        "motion": {
+          "clip": "Yasha_CatchHatInMotion"
+        }
+      },
+      {
+        "threshold": 0.6666667,
+        "position": {
+          "x": -1,
+          "y": 0
+        },
+        "speed": 1,
+        "motion": {
+          "clip": "Yasha_CatchHatInMotion"
+        }
+      },
+      {
+        "threshold": 1,
+        "position": {
+          "x": 1,
+          "y": 0
+        },
+        "speed": 1,
+        "motion": {
+          "clip": "Yasha_CatchHatInMotionRight"
+        }
+      }
+    ]
+  },
+  "clearOnHatHide": [
+    "Circle Wind",
+    "OutRing",
+    "AB Shine"
+  ],
+  "mask": [
+    {
+      "m_Path": null,
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Body",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint12",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint13",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint14",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint15",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint16",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint17",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint18",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint19",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint20",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint21",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint22",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint23",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint24",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint25",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider/joint26",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Glider1",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Hat",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "hat",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "head",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "head/hip",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Talit",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/curl_back",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/curl_back1",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/curl_back2",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/curl_back3",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/curl_main",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/curl_main/curl_main.001",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/curl_main/curl_main.001/curl_main.002",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/curl_main/curl_main.001/curl_main.002/curl_main.003",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eye_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eye_l/eye_lid",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eye_puple",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eye_puple/eye_lid",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eye_puple_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eye_puple_r/eye_lid",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eye_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eye_r/eye_lid",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyebrow_01_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyebrow_01_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyebrow_02_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyebrow_02_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyebrow_03_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyebrow_03_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyeld_lower",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyeld_upper",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyelid_lower",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/eyelid_upper",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/hair_top",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/hat",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/jaw",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/jaw/lip_down",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/jaw/lip_down_02_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/jaw/lip_down_02_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/jaw/lip_down_03_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/jaw/lip_down_03_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/jaw/teeth",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/lip_up",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/lip_up_02_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/lip_up_02_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/lip_up_03_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/lip_up_03_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/locator3",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/locator3/locator4",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/neck/head/locator3/locator5",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/talit_back_old",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_index_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_index_l/f_index.02.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_index_l/f_index.02.L/f_index.03.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_middle_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_middle_l/f_middle.02.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_middle_l/f_middle.02.L/f_middle.03.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_ring_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_ring_l/f_ring.02.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_ring_l/f_ring.02.L/f_ring.03.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_ring_l1",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_ring_l1/f_ring.02.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/f_ring_l1/f_ring.02.L/f_ring.03.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/thumb_l",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/thumb_l/thumb.02.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_l/upper_arm_l/forearm_l/hand_l/thumb_l/thumb.02.L/thumb.03.L",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_index.01.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_index.01.R/f_index.02.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_index.01.R/f_index.02.R/f_index.03.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_middle.01.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_middle.01.R/f_middle.02.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_middle.01.R/f_middle.02.R/f_middle.03.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_ring.01.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_ring.01.R/f_ring.02.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/f_ring.01.R/f_ring.02.R/f_ring.03.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/thumb.01.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/thumb.01.R/thumb.02.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/shoulder_r/upper_arm_r/forearm_r/hand_r/thumb.01.R/thumb.02.R/thumb.03.R",
+      "m_Weight": 1
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32/talit_front_02_l4",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32/talit_front_02_l4/transform22",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32/talit_front_02_l4/transform23",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32/talit_front_02_l4/transform26",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32/talit_front_02_l4/transform26/talit_front_02_l2",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32/talit_front_02_l4/transform26/talit_front_02_l2/transform21",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32/talit_front_02_l4/transform26/talit_front_02_l2/transform25",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform32/talit_front_02_l4/transform26/talit_front_02_l2/transform25/talit_front_02_l3",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform33",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform33/talit_front_02_r4",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform33/talit_front_02_r4/talit_front_02_r2",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/talit_back.001/talit_back.002/transform33/talit_front_02_r4/talit_front_02_r2/talit_front_02_r3",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004/transform31",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004/transform31/tali_shoulder_r",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004/transform31/tali_shoulder_r/transform19",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004/transform31/tali_shoulder_r/transform19/tali_front_r",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004/transform31/tali_shoulder_r/transform19/tali_front_r/talit_front_02_r",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004/transform31/tali_shoulder_r/transform19/tali_front_r/talit_front_02_r/talit_front_02_r1",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004/transform31/tali_shoulder_r/transform19/tali_front_r/talit_front_02_r/talit_front_02_r1/talit_front_02_r2",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform28/talit_back.004/transform31/tali_shoulder_r/transform19/tali_front_r/talit_front_02_r/talit_front_02_r1/talit_front_02_r2/talit_front_02_r3",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform24",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27/talit_front_02_l1",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27/talit_front_02_l1/transform22",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27/talit_front_02_l1/transform23",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27/talit_front_02_l1/transform26",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27/talit_front_02_l1/transform26/talit_front_02_l2",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27/talit_front_02_l1/transform26/talit_front_02_l2/transform21",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27/talit_front_02_l1/transform26/talit_front_02_l2/transform25",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/spine/spine_02/chest/transform34/talit_back/transform29/talit_back.003/transform30/tali_shoulder_l/transform20/tali_front_l/talit_front_02_l/transform27/talit_front_02_l1/transform26/talit_front_02_l2/transform25/talit_front_02_l3",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/thight_l",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/thight_l/shin_l",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/thight_l/shin_l/foot_l",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/thight_l/shin_l/foot_l/toe_l",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/thight_r",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/thight_r/shin_r",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/thight_r/shin_r/foot_r",
+      "m_Weight": 0
+    },
+    {
+      "m_Path": "Yasha_RIg/root/hip/thight_r/shin_r/foot_r/toe_r",
+      "m_Weight": 0
+    }
+  ],
+  "ui": {
+    "HatThrowIcon_Hud": "ui/HatThrowIcon_Hud.png",
+    "HatTeleportIcon_Hud": "ui/HatTeleportIcon_Hud.png",
+    "HatButtonBack_Hud": "ui/HatButtonBack_Hud.png",
+    "HatButtonOutline_Hud": "ui/HatButtonOutline_Hud.png",
+    "TalitProgressbarBack_Hud": "ui/TalitProgressbarBack_Hud.png",
+    "TalitProgressbarFill_Hud": "ui/TalitProgressbarFill_Hud.png",
+    "TalitProgressbarShine_Hud": "ui/TalitProgressbarShine_Hud.png",
+    "GlideButton_Hud": "ui/GlideButton_Hud.png",
+    "JumpButton_Hud": "ui/JumpButton_Hud.png"
+  },
+  "dependencies": [
+    {
+      "path": "Assets/(a)Animations/Npc/StoryTeller/Storyteller_Animation/Yasha_CatchHatInMotionRight.fbx",
+      "sha256": "9e6575dc1fb907225fb200dab65995355bb43a2688baef0e6e3054164149f055"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/YashaAnimator.controller",
+      "sha256": "dde4e2143c90a85b5afa1c95c1070d931975ed70c113b189133fd41305de083e"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/YashaAnimatorViaCode.controller",
+      "sha256": "975f8f6ccfc42fa0f071d10b83c3f09f5e023ca97068c0e83a82a9b9ab5e72af"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_CarryItem.fbx",
+      "sha256": "622e15cb21cdaa513a36137c784743c59559f474bf799f9c89c1eacf1433bed5"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_CatchHatInMotion.fbx",
+      "sha256": "b0f56eedfcce6435cf6c732abee7c101a27c8339b4d34c2622c4743e063088e5"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_FastTurn.fbx",
+      "sha256": "b6069000fb5eb6a3411aa3623e3df5d74fee6fb77a0be13542b41bf6d151a95b"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Fly.fbx",
+      "sha256": "cbf594fe73f30ff95ccfd65458db1bec00dff68eadc9c33a1a05c535d21c21e8"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Fright.fbx",
+      "sha256": "a4dd3480330ca5313faf163368e9561dd64dd56dbbc8a2a87b3ee4fd3f8da0f5"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_GliderUP.fbx",
+      "sha256": "9082d7ce20a1c05077717b6bf21fe265ae71b1a970d49498742649764b5de3f2"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_HatCatchFront.fbx",
+      "sha256": "e0411e3ff41916e7f0d523156a02391a0076953e1bcdd7b751b71ad554f9fd4a"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_HatCatchRight.fbx",
+      "sha256": "d41e74a0a9bdcf75beea329e25dda8da34c76a7c749266b140a535fb45b945b7"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Hat_backflip.fbx",
+      "sha256": "f57c840a17799294af2b9f77d8b8cc50f50c6385d25063c6e52f0317cb98dba4"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Hat_spin.fbx",
+      "sha256": "1840378835a8a5e15d40b0b8bb2f23b6e4f08fd1ac1c3ac4b7ff9bd8c1a6f2f8"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Idle.fbx",
+      "sha256": "8d91c8e83e65f8752850a7f5926e231e39d1653a04c84fc803e46b51adb032ab"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Idle02.fbx",
+      "sha256": "81c515a624e53c99a2bd3b5d9636b95933e8110fcdda7be768597b8d44678a20"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Idle04.fbx",
+      "sha256": "b089a05a0290ce13e4c28e287f2d5db2cf082d66d3c4864ee3ea40c277b85570"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Idle_book_cycle.fbx",
+      "sha256": "7acb9f7b972adc03bd511d92b2afa6e267f52507280a01c9ab1c7f884cc8e28c"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Idle_sit.fbx",
+      "sha256": "b4d3db575072940ab4e17081d16f6288f420e8a879baa37254fcb2f5ebd4ef6b"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_InAir.fbx",
+      "sha256": "06e1aff9ea8f7f8c9595c1db4511dd3d29f6ca74cdc702ad8b8b345ed6c9a482"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_InAir_05.fbx",
+      "sha256": "b2662bee0e251976123f8de69f62a41f6d54f4aff44e4216e78425977b5490f6"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Jump.fbx",
+      "sha256": "0357dc7a038c3def24e9aea8ecfb16704b566d9071b6d5abcadc9cf88d7838bf"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Jump_01.fbx",
+      "sha256": "6a68eef8af5364d160a9ee9a368802dd8493fd209b582da64734ab3a29a3cfe8"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Jump_02.fbx",
+      "sha256": "fb16f68a97e766617b39c68bf5671f960c08b9febf198f19ca7c6c3c862eb1c8"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Landing.fbx",
+      "sha256": "541ce0efdd32b15c3a6d2391bc5cd8ab104d10f6b99742d73294d7a788d66df8"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_LandingInMotion.fbx",
+      "sha256": "6bcb839444955f8b863b2da590b56fa98a84f37201e24ee8365ea4bf3c6703c2"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_LayHandsOnWheel.fbx",
+      "sha256": "f1aad208cebafb0e62db62183fcd2579220bfba4620ee8a64c9d407bc78b5ff3"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_LedgeClimbingUp.fbx",
+      "sha256": "24c14ae62f4e52041dc6eb6a64d31960b552cd8bf85c23f7d25307f216cd61d5"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_LedgeClimbingUp_01.fbx",
+      "sha256": "3c862dc72df3472df4c29f719baa54ba3f0f953c77f2131a888b4f9abb938bb2"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_LedgeGrab.fbx",
+      "sha256": "32aa40e957743fbd3d75f6fd5dc7aa91a9783db016391ee71a2bc7fc462271be"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_PickUpItem.fbx",
+      "sha256": "8e25b82ea88ae3116c842c24c47b1245d4b90dfbedf8ad0304e0afea433cce71"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Pull.fbx",
+      "sha256": "d5b232766b6dec55ca50518012a3ee37c9845a6f4dd026142ceb4fc9acff6482"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Push.fbx",
+      "sha256": "be2a33483fc818d1d44248e7d00dc95f1304c3ef84f54576d1acade7ff1978f5"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_PutDownItem.fbx",
+      "sha256": "95aa43540c55d59a6df1306eb5a776c6898218337d40841262763d1c88cc15ab"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Relief.fbx",
+      "sha256": "8af75202f0d8673788be2475b2ccb3fed7e2ab808fd0afc4f91cdb82101db212"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_Run.fbx",
+      "sha256": "1715babd5be04d0c0b4433072d3b1fd831e5dcb0f100af1263bf80b4479a1584"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_RunInFear.fbx",
+      "sha256": "d7b90073da817f6b66029ad41d32bb0f9804e47f2e93543c4978c441b2342321"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_RunWithItem.fbx",
+      "sha256": "95dd21a895e2706a22b3046f9e7a14db9c66db79571af56fa30111dca864d69d"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_SlideDown.fbx",
+      "sha256": "16198ce6da7db415646510b3ef3a0af77dfd59bcd6b922b30b018c9fd552d556"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_SlideZipLine_cycle.fbx",
+      "sha256": "4bdf08cef092852945f262975058f2f49241c428653fcac02674c559a0f4c14d"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_SlideZipLine_in.fbx",
+      "sha256": "efd8777e65e0c97aa6cd7598a911a530a6dc0aee45ff5ed33d9cf12c3e51f06e"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_SlideZipLine_out.fbx",
+      "sha256": "07c5653fe24e600d8316d56467a062103943cf08a54b5684edb2ff952d57b1a4"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_ThrowHat.fbx",
+      "sha256": "f8b7d6b1536c405185400d0084a4f786a9bb16dd2d04e0ed5410cf194cd23e32"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_WalkWitItem.fbx",
+      "sha256": "f17683cdfc860b6322b60b0c0dcb058c7ee9352cf6f57cc1307d8104f74a11b1"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_get_pushed01_fall_cycle.fbx",
+      "sha256": "14a2b9defdb892520d634e26fc5a3445fdc38e48dd2c3bb0d50129796a663837"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_get_pushed01_land.fbx",
+      "sha256": "ace2447689eda271ea3c8339929b02820bd151ed05780c1af54c31ae51ce69c2"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_get_pushed_fall_cycle.fbx",
+      "sha256": "c5a3cdbd905e64e6377f77c1a159aea3ecbd77b441481675083ba52a32d86e4b"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_get_pushed_sit_cycle.fbx",
+      "sha256": "6474e7472e6e9ad9bb381245e6f9e3c8390bb27513b34bf10e339f5e4a80678e"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_get_pushed_stand.fbx",
+      "sha256": "fd880b571e409e6f32e5afe620b79a8105d9da2e768e187ec4001ba523e592a4"
+    },
+    {
+      "path": "Assets/(a)Animations/Yasha_animations/Yasha_get_pushed_start.fbx",
+      "sha256": "b21afa1abbce07abe5a5f1f145da2c5150077ea4629d0fa92e7f02af8bac3479"
+    },
+    {
+      "path": "Assets/(m)Materials/FX_Materials/Particle_Add_05.mat",
+      "sha256": "c1f5fd27d3ca75c396e0fcf873014a3a0a1933d5b0fc1fe874556e5edebf2b8c"
+    },
+    {
+      "path": "Assets/(m)Materials/FX_Materials/Particle_Add_Max.mat",
+      "sha256": "0fa427d007f3c093b6f3f2033fcf4ff1696ada43d8dbbd5f8145633d810ea778"
+    },
+    {
+      "path": "Assets/(m)Materials/FX_Materials/ProjectorShadow.mat",
+      "sha256": "9c1cb02ca7b99f08ac481488ee1422e0965af32f3b4b906cfa3a2a680de170f5"
+    },
+    {
+      "path": "Assets/(m)Materials/Yasha/YashaMaterial.mat",
+      "sha256": "3b8522b4d7fd282b17c7fe8409a9650fd3e757c8cb1ac5d2e35b96dce74309f2"
+    },
+    {
+      "path": "Assets/(m)Materials/Yasha/YashaMaterial_Glide.mat",
+      "sha256": "ea9dd1221a3241c369cb3dc3bb56c858a38defe04701bcfbf599ead58e565f60"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Glasses/YashaGlasses.fbx",
+      "sha256": "5efca3a2b11e82a959674858d883cbc924846e4530f5749c5f403766e74a7659"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Glasses/YashaGlasses_01.mat",
+      "sha256": "2254a474a37ef2323eeca08433b23566bff55ae146ce3c40538da93a660a8b40"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Glasses/YashaGlasses_01_D.png",
+      "sha256": "a50aa828f5eb9dbcff946a1309fa5f31547e335b98d730e2bd4b2ad90af0f335"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Glasses/YashaGlasses_02.mat",
+      "sha256": "fdc188a726aa5535ad422546d0d91c65f228093237c1b48d1b3bfb5d336fc0ce"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Glasses/YashaGlasses_02_D.png",
+      "sha256": "08f2684a1d8a1fcd485304e79c6c904652b536905a3a19255f6b5e4c3d05d953"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Glasses/YashaGlasses_03.mat",
+      "sha256": "3fabab27742e39036a3b3eb9eeff13b0deacc959984cff88d36b92628e37c52e"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Glasses/YashaGlasses_03_D.png",
+      "sha256": "9dbf901c34e5ee398c6922fabe47d7a94c2682708893384545d783ded6912ff8"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_00_Borsalino.fbx",
+      "sha256": "c01ee687018523127f4c4abb76a85146558f9a51f5b4917e1abe46fc1e4af106"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.mat",
+      "sha256": "75a10c3085299eeefdb2e6e7ce9f3bec3639c26868abb33d641542a6562fcf95"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_01.png",
+      "sha256": "fecbf6eaeb38d2ac102a20e8fdfda2de53248a4cb0d9a3e97a1793eea0015a17"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.mat",
+      "sha256": "58b65e88a206763218a76c1d03100747c66b0dcc870167149565f76d92af43a7"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_01.png",
+      "sha256": "d2fff2a77dc7a24e89b7ddf037df1560aabdd207a545075088a9041899e55359"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.mat",
+      "sha256": "2672e4a7ccb30b9a269cbaa46c8d395f16fb1b35f3d511157bb12bd9e777141a"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Hats/YashaHat_All_Reskin_02.png",
+      "sha256": "21012d2c74d584720693b63e83bc9dd6546d8f73b30fcae05e3106e1121700a8"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Yasha_Hats.fbx",
+      "sha256": "8d7370091e7e2e8aaa42f175be33282ecf5fa5f8c83079576013edee3ade92ad"
+    },
+    {
+      "path": "Assets/(m)Models/Yasha_models/Actual/Yasha_upper_body.mask",
+      "sha256": "4f206d6b9af3ef62e2874ec1381e41d13899afb9bf327e3f7e24af7fc56ed030"
+    },
+    {
+      "path": "Assets/(p)Prefabs/FX/Hat/Default/ThrowFx_Default.prefab",
+      "sha256": "23312af573f1ef50fa5afeabd24126d21be3b3f8e1f2d2f31b441e1f1b60a6d7"
+    },
+    {
+      "path": "Assets/(p)Prefabs/Yasha_prefabs/YashaMesh.prefab",
+      "sha256": "ea6dbe5a9e98d48c577a6c2b99375d3b8e439dce81ebfef77a04e59d015703d3"
+    },
+    {
+      "path": "Assets/(s)Shaders/ProjectorShadow.shader",
+      "sha256": "c4621c17f7e0fc3b97122a52f31085122864304649fb36f5e1f47dd105cf6be5"
+    },
+    {
+      "path": "Assets/(t)Textures/FX_Textures/SparksTexture.png",
+      "sha256": "921dd755d3c462ded6d53e5142140a99ae50e1da6f69e543fced94c845b34d71"
+    },
+    {
+      "path": "Assets/(t)Textures/ShadowDecal.png",
+      "sha256": "100eb9d33f0c220bdd9d1d58bdfa3109e0c7c41dbc262a02d193709d65791e1b"
+    },
+    {
+      "path": "Assets/(t)Textures/Yasha_textures/Base_Color.png",
+      "sha256": "872b6e7f63db761e6c9f7bc2696de9e9bd8f984d6f0d20fa15c7868274760d97"
+    },
+    {
+      "path": "Assets/(t)Textures/Yasha_textures/Glider_D.png",
+      "sha256": "e51bac169d037a6ab84b5de5ff13b08d81939380665e8a107e9caf083e6219f8"
+    },
+    {
+      "path": "Assets/(t)Textures/Yasha_textures/Yasha_D.png",
+      "sha256": "668762122ffb8a83bef32b9eaebb649e7e8ecdbe9b5fef7865ced347f04319a4"
+    }
+  ]
+}

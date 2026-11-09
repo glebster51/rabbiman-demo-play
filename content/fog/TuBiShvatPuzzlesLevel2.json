@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "level": "TuBiShvatPuzzlesLevel2",
+  "sprites": [
+    {
+      "node": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-8507408850897321304-1991560883",
+      "renderer": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-638167776075111236-1991560883",
+      "material": "GlobalObjectId_V1-3-3120e9c0842d94549bdc0cd6a07696bd-2100000-0",
+      "enabled": true,
+      "texture": "textures/4d5004308e708354595425ae92b9da87.png",
+      "textureSize": [
+        256,
+        256
+      ],
+      "rect": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "pivot": [
+        128.0,
+        128.0
+      ],
+      "border": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "pixelsPerUnit": 100.0,
+      "size": [
+        1.0,
+        1.0
+      ],
+      "drawMode": 0,
+      "flipX": false,
+      "flipY": false,
+      "color": [
+        0.9481132,
+        0.9965545,
+        1.0,
+        1.0
+      ],
+      "sortingLayer": 0,
+      "sortingOrder": 11,
+      "wrapModeU": 1,
+      "wrapModeV": 1,
+      "packed": false,
+      "packingRotation": "None",
+      "vertices": [
+        [
+          1.28,
+          1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          1.28,
+          0.0
+        ],
+        [
+          1.28,
+          -1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          -1.28,
+          0.0
+        ]
+      ],
+      "uv": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          1.0
+        ]
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-1607823167376113494-1991560883",
+      "renderer": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-7537754562361940298-1991560883",
+      "material": "GlobalObjectId_V1-3-3120e9c0842d94549bdc0cd6a07696bd-2100000-0",
+      "enabled": true,
+      "texture": "textures/4d5004308e708354595425ae92b9da87.png",
+      "textureSize": [
+        256,
+        256
+      ],
+      "rect": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "pivot": [
+        128.0,
+        128.0
+      ],
+      "border": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "pixelsPerUnit": 100.0,
+      "size": [
+        1.0,
+        1.0
+      ],
+      "drawMode": 0,
+      "flipX": false,
+      "flipY": false,
+      "color": [
+        0.9481132,
+        0.9965545,
+        1.0,
+        1.0
+      ],
+      "sortingLayer": 0,
+      "sortingOrder": 1,
+      "wrapModeU": 1,
+      "wrapModeV": 1,
+      "packed": false,
+      "packingRotation": "None",
+      "vertices": [
+        [
+          1.28,
+          1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          1.28,
+          0.0
+        ],
+        [
+          1.28,
+          -1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          -1.28,
+          0.0
+        ]
+      ],
+      "uv": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          1.0
+        ]
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-5651750957929687262-1991560883",
+      "renderer": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-3505019859009146562-1991560883",
+      "material": "GlobalObjectId_V1-3-3120e9c0842d94549bdc0cd6a07696bd-2100000-0",
+      "enabled": true,
+      "texture": "textures/4d5004308e708354595425ae92b9da87.png",
+      "textureSize": [
+        256,
+        256
+      ],
+      "rect": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "pivot": [
+        128.0,
+        128.0
+      ],
+      "border": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "pixelsPerUnit": 100.0,
+      "size": [
+        1.0,
+        1.0
+      ],
+      "drawMode": 0,
+      "flipX": false,
+      "flipY": false,
+      "color": [
+        0.9481132,
+        0.9965545,
+        1.0,
+        1.0
+      ],
+      "sortingLayer": 0,
+      "sortingOrder": 2,
+      "wrapModeU": 1,
+      "wrapModeV": 1,
+      "packed": false,
+      "packingRotation": "None",
+      "vertices": [
+        [
+          1.28,
+          1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          1.28,
+          0.0
+        ],
+        [
+          1.28,
+          -1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          -1.28,
+          0.0
+        ]
+      ],
+      "uv": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          1.0
+        ]
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-7027553802348572727-1991560883",
+      "renderer": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-2255665162254013995-1991560883",
+      "material": "GlobalObjectId_V1-3-3120e9c0842d94549bdc0cd6a07696bd-2100000-0",
+      "enabled": true,
+      "texture": "textures/4d5004308e708354595425ae92b9da87.png",
+      "textureSize": [
+        256,
+        256
+      ],
+      "rect": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "pivot": [
+        128.0,
+        128.0
+      ],
+      "border": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "pixelsPerUnit": 100.0,
+      "size": [
+        1.0,
+        1.0
+      ],
+      "drawMode": 0,
+      "flipX": false,
+      "flipY": false,
+      "color": [
+        0.9481132,
+        0.9965545,
+        1.0,
+        1.0
+      ],
+      "sortingLayer": 0,
+      "sortingOrder": 4,
+      "wrapModeU": 1,
+      "wrapModeV": 1,
+      "packed": false,
+      "packingRotation": "None",
+      "vertices": [
+        [
+          1.28,
+          1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          1.28,
+          0.0
+        ],
+        [
+          1.28,
+          -1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          -1.28,
+          0.0
+        ]
+      ],
+      "uv": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          1.0
+        ]
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-3357597344534253755-1991560883",
+      "renderer": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-5788195957471655591-1991560883",
+      "material": "GlobalObjectId_V1-3-3120e9c0842d94549bdc0cd6a07696bd-2100000-0",
+      "enabled": true,
+      "texture": "textures/4d5004308e708354595425ae92b9da87.png",
+      "textureSize": [
+        256,
+        256
+      ],
+      "rect": [
+        0.0,
+        0.0,
+        256.0,
+        256.0
+      ],
+      "pivot": [
+        128.0,
+        128.0
+      ],
+      "border": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "pixelsPerUnit": 100.0,
+      "size": [
+        1.0,
+        1.0
+      ],
+      "drawMode": 0,
+      "flipX": false,
+      "flipY": false,
+      "color": [
+        0.9481132,
+        0.9965545,
+        1.0,
+        1.0
+      ],
+      "sortingLayer": 0,
+      "sortingOrder": 3,
+      "wrapModeU": 1,
+      "wrapModeV": 1,
+      "packed": false,
+      "packingRotation": "None",
+      "vertices": [
+        [
+          1.28,
+          1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          1.28,
+          0.0
+        ],
+        [
+          1.28,
+          -1.28,
+          0.0
+        ],
+        [
+          -1.28,
+          -1.28,
+          0.0
+        ]
+      ],
+      "uv": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          1.0
+        ]
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ]
+    }
+  ]
+}

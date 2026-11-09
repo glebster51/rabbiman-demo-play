@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "SecretRoom",
+  "sourceScene": "Assets/(s)Scenes/SecretRoom/Level1/SecretRoom_Level1_Start.unity",
+  "renderers": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6493216009708654556-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3838476877151441033-1912950625",
+      "name": "platform_06 5",
+      "index": 0,
+      "scaleOffset": [
+        0.12779748,
+        0.12779401,
+        0.4862408,
+        0.2265853
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2859874393349059688-1912950625",
+      "name": "platform_06 5",
+      "index": 0,
+      "scaleOffset": [
+        0.1277975,
+        0.12779403,
+        0.35744932,
+        0.2265853
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2624732207322595189-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2585176833676887736-1912950625",
+      "name": "platform_06 4",
+      "index": 0,
+      "scaleOffset": [
+        0.1292388,
+        0.12779437,
+        0.4683178,
+        0.35357064
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5055933968301452845-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1944063179383134219-1912950625",
+      "name": "platform_06 3",
+      "index": 0,
+      "scaleOffset": [
+        0.038155925,
+        0.0381256,
+        0.4671615,
+        0.8469076
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-380096961878271442-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2945142398474454575-1912950625",
+      "name": "platform_06 2",
+      "index": 0,
+      "scaleOffset": [
+        0.050498206,
+        0.050512828,
+        0.13991989,
+        0.8563514
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1261272013898934499-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6026323650158960070-1912950625",
+      "name": "platform_06",
+      "index": 0,
+      "scaleOffset": [
+        0.0904536,
+        0.09043467,
+        -0.0012734602,
+        0.90469146
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3864215582806911080-1912950625",
+      "name": "platform_07_roofTop 1",
+      "index": 0,
+      "scaleOffset": [
+        0.04667919,
+        0.04641836,
+        0.76600987,
+        0.44214946
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3934385700624571284-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3536792834290393689-1912950625",
+      "name": "platform_06 4",
+      "index": 0,
+      "scaleOffset": [
+        0.12923872,
+        0.12779431,
+        0.5906056,
+        0.35357064
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6115637408497633996-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-580931175135821034-1912950625",
+      "name": "platform_06 3",
+      "index": 0,
+      "scaleOffset": [
+        0.038155917,
+        0.038125597,
+        0.4671615,
+        0.88583213
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1707764580422402355-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4191282879116141262-1912950625",
+      "name": "platform_06 2",
+      "index": 0,
+      "scaleOffset": [
+        0.050498176,
+        0.0505128,
+        0.32248566,
+        0.92056614
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1542432090197418362-1912950625",
+      "name": "platform_06 1",
+      "index": 0,
+      "scaleOffset": [
+        0.026956353,
+        0.026957568,
+        0.56151664,
+        0.62477845
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-249284355228273666-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4707562970218330407-1912950625",
+      "name": "platform_06",
+      "index": 0,
+      "scaleOffset": [
+        0.0904536,
+        0.09043466,
+        0.08793914,
+        0.90469146
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-725654845537969279-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2921884567361107345-1912950625",
+      "name": "platform_05 4",
+      "index": 0,
+      "scaleOffset": [
+        0.042066853,
+        0.042022437,
+        0.4665501,
+        0.68278104
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2228786468918275624-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1057115487743208116-1912950625",
+      "name": "platform_05 3",
+      "index": 0,
+      "scaleOffset": [
+        0.05443961,
+        0.050053347,
+        0.79732543,
+        0.6206537
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6200743962061993977-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8623467854455608785-1912950625",
+      "name": "platform_05 2",
+      "index": 0,
+      "scaleOffset": [
+        0.19848372,
+        0.19848289,
+        0.79787266,
+        -0.006869849
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-716171774912656877-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5670111389381347377-1912950625",
+      "name": "platform_05",
+      "index": 0,
+      "scaleOffset": [
+        0.12091557,
+        0.11837873,
+        0.31893688,
+        0.66614485
+      ]
+    }
+  ]
+}

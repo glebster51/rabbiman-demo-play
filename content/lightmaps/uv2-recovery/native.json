@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "id": "SecretRoom",
+  "sourceScene": "Assets/(s)Scenes/SecretRoom/Level1/SecretRoom_Level1_Start.unity",
+  "unity": "6000.3.21f1",
+  "renderers": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6493216009708654556-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3838476877151441033-1912950625",
+      "name": "platform_06 5",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-11778047494468908935-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 5584,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/7138903d8c0cf0f682d7e3c1e23973682b742c3800e27cb97519204f59918249.bin",
+      "sha256": "7138903d8c0cf0f682d7e3c1e23973682b742c3800e27cb97519204f59918249",
+      "index": 0,
+      "scaleOffset": [
+        0.127797484,
+        0.127794012,
+        0.4862408,
+        0.2265853
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 12000,
+          "url": "lightmaps/uv2-recovery/c8ff3db629055b6f7a13df8113d0e8348176f947ab3c5e2e507e754c613bcfa7.bin",
+          "sha256": "c8ff3db629055b6f7a13df8113d0e8348176f947ab3c5e2e507e754c613bcfa7"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2859874393349059688-1912950625",
+      "name": "platform_06 5",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-11778047494468908935-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 5584,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/7138903d8c0cf0f682d7e3c1e23973682b742c3800e27cb97519204f59918249.bin",
+      "sha256": "7138903d8c0cf0f682d7e3c1e23973682b742c3800e27cb97519204f59918249",
+      "index": 0,
+      "scaleOffset": [
+        0.1277975,
+        0.127794027,
+        0.357449323,
+        0.2265853
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 12000,
+          "url": "lightmaps/uv2-recovery/c8ff3db629055b6f7a13df8113d0e8348176f947ab3c5e2e507e754c613bcfa7.bin",
+          "sha256": "c8ff3db629055b6f7a13df8113d0e8348176f947ab3c5e2e507e754c613bcfa7"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2624732207322595189-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2585176833676887736-1912950625",
+      "name": "platform_06 4",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-136290348218778634-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 12,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/db159d5b1cd1eafb0cf38780c8144409426f8cfc1de857107e25cdf36208ea61.bin",
+      "sha256": "db159d5b1cd1eafb0cf38780c8144409426f8cfc1de857107e25cdf36208ea61",
+      "index": 0,
+      "scaleOffset": [
+        0.1292388,
+        0.12779437,
+        0.4683178,
+        0.35357064
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 24,
+          "url": "lightmaps/uv2-recovery/734477a22daedd9e223e4c650f984689e7e4cff2a70c25697b73a6a6dd9b41d1.bin",
+          "sha256": "734477a22daedd9e223e4c650f984689e7e4cff2a70c25697b73a6a6dd9b41d1"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5055933968301452845-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1944063179383134219-1912950625",
+      "name": "platform_06 3",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-9562953990043016374-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 818,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/71523bfed62988428a5afa85e1f8e29e05b294c3a03ff990981ad45fce4c145b.bin",
+      "sha256": "71523bfed62988428a5afa85e1f8e29e05b294c3a03ff990981ad45fce4c145b",
+      "index": 0,
+      "scaleOffset": [
+        0.0381559245,
+        0.0381256,
+        0.4671615,
+        0.8469076
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1716,
+          "url": "lightmaps/uv2-recovery/1e6cb4bdacbef332ca4b748119481ae2db6e73ff32825baf2f6875caf19fd4c2.bin",
+          "sha256": "1e6cb4bdacbef332ca4b748119481ae2db6e73ff32825baf2f6875caf19fd4c2"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-380096961878271442-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2945142398474454575-1912950625",
+      "name": "platform_06 2",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-16054006066987860623-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 406,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/ee2775a04c3a25740a0c61b9845a745fb729d7f36504b3c36482dffe7e3fa3a8.bin",
+      "sha256": "ee2775a04c3a25740a0c61b9845a745fb729d7f36504b3c36482dffe7e3fa3a8",
+      "index": 0,
+      "scaleOffset": [
+        0.0504982062,
+        0.0505128279,
+        0.139919892,
+        0.8563514
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1428,
+          "url": "lightmaps/uv2-recovery/8b268f92cddf91dd5645562ecfda46381b744ba3df5cf53f07b2e8e61bd488b5.bin",
+          "sha256": "8b268f92cddf91dd5645562ecfda46381b744ba3df5cf53f07b2e8e61bd488b5"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1261272013898934499-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6026323650158960070-1912950625",
+      "name": "platform_06",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-17943463370223071301-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 659,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/b1cc9d64c96160df83cee1e3f4ec851d1166e317ca2d96bbc64ae540cb6d4886.bin",
+      "sha256": "b1cc9d64c96160df83cee1e3f4ec851d1166e317ca2d96bbc64ae540cb6d4886",
+      "index": 0,
+      "scaleOffset": [
+        0.0904536,
+        0.09043467,
+        -0.00127346022,
+        0.904691458
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1554,
+          "url": "lightmaps/uv2-recovery/cf3205bb58c95d0fd394ceda4538fefc9503f42773163bb9f6a5987f9c06f8d5.bin",
+          "sha256": "cf3205bb58c95d0fd394ceda4538fefc9503f42773163bb9f6a5987f9c06f8d5"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3864215582806911080-1912950625",
+      "name": "platform_07_roofTop 1",
+      "mesh": "GlobalObjectId_V1-1-f62f9bef004300d47a9448a379c85795-4684475678513340663-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_07_roofTop.FBX",
+      "vertexCount": 587,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/487704fe147f6ea548629e7f7c8531d356d6b52f8402940cb18e1f092a3d0dbe.bin",
+      "sha256": "487704fe147f6ea548629e7f7c8531d356d6b52f8402940cb18e1f092a3d0dbe",
+      "index": 0,
+      "scaleOffset": [
+        0.04667919,
+        0.04641836,
+        0.766009867,
+        0.44214946
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 2019,
+          "url": "lightmaps/uv2-recovery/1955686427754695ced8b269037511a23d14674c2f3925d47e2bbd14923438d0.bin",
+          "sha256": "1955686427754695ced8b269037511a23d14674c2f3925d47e2bbd14923438d0"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3934385700624571284-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3536792834290393689-1912950625",
+      "name": "platform_06 4",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-136290348218778634-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 12,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/db159d5b1cd1eafb0cf38780c8144409426f8cfc1de857107e25cdf36208ea61.bin",
+      "sha256": "db159d5b1cd1eafb0cf38780c8144409426f8cfc1de857107e25cdf36208ea61",
+      "index": 0,
+      "scaleOffset": [
+        0.129238725,
+        0.12779431,
+        0.5906056,
+        0.35357064
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 24,
+          "url": "lightmaps/uv2-recovery/734477a22daedd9e223e4c650f984689e7e4cff2a70c25697b73a6a6dd9b41d1.bin",
+          "sha256": "734477a22daedd9e223e4c650f984689e7e4cff2a70c25697b73a6a6dd9b41d1"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6115637408497633996-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-580931175135821034-1912950625",
+      "name": "platform_06 3",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-9562953990043016374-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 818,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/71523bfed62988428a5afa85e1f8e29e05b294c3a03ff990981ad45fce4c145b.bin",
+      "sha256": "71523bfed62988428a5afa85e1f8e29e05b294c3a03ff990981ad45fce4c145b",
+      "index": 0,
+      "scaleOffset": [
+        0.0381559171,
+        0.0381255969,
+        0.4671615,
+        0.885832131
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1716,
+          "url": "lightmaps/uv2-recovery/1e6cb4bdacbef332ca4b748119481ae2db6e73ff32825baf2f6875caf19fd4c2.bin",
+          "sha256": "1e6cb4bdacbef332ca4b748119481ae2db6e73ff32825baf2f6875caf19fd4c2"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1707764580422402355-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4191282879116141262-1912950625",
+      "name": "platform_06 2",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-16054006066987860623-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 406,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/ee2775a04c3a25740a0c61b9845a745fb729d7f36504b3c36482dffe7e3fa3a8.bin",
+      "sha256": "ee2775a04c3a25740a0c61b9845a745fb729d7f36504b3c36482dffe7e3fa3a8",
+      "index": 0,
+      "scaleOffset": [
+        0.0504981764,
+        0.0505128,
+        0.322485656,
+        0.920566142
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1428,
+          "url": "lightmaps/uv2-recovery/8b268f92cddf91dd5645562ecfda46381b744ba3df5cf53f07b2e8e61bd488b5.bin",
+          "sha256": "8b268f92cddf91dd5645562ecfda46381b744ba3df5cf53f07b2e8e61bd488b5"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1542432090197418362-1912950625",
+      "name": "platform_06 1",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-16766650912581800338-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 500,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/267a466433ead7ccd7c5f685e70814aac7fd561a1dc4371b512f914332af5950.bin",
+      "sha256": "267a466433ead7ccd7c5f685e70814aac7fd561a1dc4371b512f914332af5950",
+      "index": 0,
+      "scaleOffset": [
+        0.0269563533,
+        0.0269575678,
+        0.561516643,
+        0.62477845
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1284,
+          "url": "lightmaps/uv2-recovery/8996fe2d2373e7b185753d0f6cf81228612274cc5ac77c958bc5b755fd9f455c.bin",
+          "sha256": "8996fe2d2373e7b185753d0f6cf81228612274cc5ac77c958bc5b755fd9f455c"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-249284355228273666-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4707562970218330407-1912950625",
+      "name": "platform_06",
+      "mesh": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-17943463370223071301-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "vertexCount": 659,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/b1cc9d64c96160df83cee1e3f4ec851d1166e317ca2d96bbc64ae540cb6d4886.bin",
+      "sha256": "b1cc9d64c96160df83cee1e3f4ec851d1166e317ca2d96bbc64ae540cb6d4886",
+      "index": 0,
+      "scaleOffset": [
+        0.0904536,
+        0.09043466,
+        0.08793914,
+        0.904691458
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1554,
+          "url": "lightmaps/uv2-recovery/cf3205bb58c95d0fd394ceda4538fefc9503f42773163bb9f6a5987f9c06f8d5.bin",
+          "sha256": "cf3205bb58c95d0fd394ceda4538fefc9503f42773163bb9f6a5987f9c06f8d5"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-725654845537969279-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2921884567361107345-1912950625",
+      "name": "platform_05 4",
+      "mesh": "GlobalObjectId_V1-1-9f141afd82f9e1c448b4c9ef744d0bfc-6031546652072588176-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_05.FBX",
+      "vertexCount": 389,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/7a25c67a7f23cc65f42f58e57f3687d54c3f2892ee947c6c4bae4ef3b4048535.bin",
+      "sha256": "7a25c67a7f23cc65f42f58e57f3687d54c3f2892ee947c6c4bae4ef3b4048535",
+      "index": 0,
+      "scaleOffset": [
+        0.0420668535,
+        0.0420224369,
+        0.4665501,
+        0.682781041
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 816,
+          "url": "lightmaps/uv2-recovery/b83bad8f9cdaa409953054e9b8e401be0dd3f2afefef91fcbd221d1e22927fb9.bin",
+          "sha256": "b83bad8f9cdaa409953054e9b8e401be0dd3f2afefef91fcbd221d1e22927fb9"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2228786468918275624-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1057115487743208116-1912950625",
+      "name": "platform_05 3",
+      "mesh": "GlobalObjectId_V1-1-9f141afd82f9e1c448b4c9ef744d0bfc-14827585833560209113-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_05.FBX",
+      "vertexCount": 105,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/1c6fe2fea73c5c50b92212084b597341b847db262473acd04a8c2e44b00317c5.bin",
+      "sha256": "1c6fe2fea73c5c50b92212084b597341b847db262473acd04a8c2e44b00317c5",
+      "index": 0,
+      "scaleOffset": [
+        0.05443961,
+        0.0500533469,
+        0.797325432,
+        0.6206537
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 402,
+          "url": "lightmaps/uv2-recovery/547165d39766b812e9aab9fe73e37641503c6b70093b4460c6d26d1bfa1db4b9.bin",
+          "sha256": "547165d39766b812e9aab9fe73e37641503c6b70093b4460c6d26d1bfa1db4b9"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6200743962061993977-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8623467854455608785-1912950625",
+      "name": "platform_05 2",
+      "mesh": "GlobalObjectId_V1-1-9f141afd82f9e1c448b4c9ef744d0bfc-17571797617981023032-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_05.FBX",
+      "vertexCount": 1815,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/76b6a613d982a91f3ef6f89d05f4f8bbdf7b15d982e1e05c4f51a5489f412405.bin",
+      "sha256": "76b6a613d982a91f3ef6f89d05f4f8bbdf7b15d982e1e05c4f51a5489f412405",
+      "index": 0,
+      "scaleOffset": [
+        0.19848372,
+        0.198482886,
+        0.797872663,
+        -0.006869849
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 3786,
+          "url": "lightmaps/uv2-recovery/313d58883e61c6d8e3e885cac2694e63bf8ce390def0c20bd6b36a5cf0b7b4fa.bin",
+          "sha256": "313d58883e61c6d8e3e885cac2694e63bf8ce390def0c20bd6b36a5cf0b7b4fa"
+        },
+        {
+          "submesh": 1,
+          "indexCount": 966,
+          "url": "lightmaps/uv2-recovery/079f09ff88564abbf07a27b650e7668631f2ee60136da54faa645684f1155cac.bin",
+          "sha256": "079f09ff88564abbf07a27b650e7668631f2ee60136da54faa645684f1155cac"
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-716171774912656877-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5670111389381347377-1912950625",
+      "name": "platform_05",
+      "mesh": "GlobalObjectId_V1-1-9f141afd82f9e1c448b4c9ef744d0bfc-13640882323772190580-0",
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_05.FBX",
+      "vertexCount": 6,
+      "strideFloats": 10,
+      "layout": "position3-normal3-uv0_2-uv2_2",
+      "coordinates": "unity-local-left-handed-y-up",
+      "url": "lightmaps/uv2-recovery/44aecb26b3ab1843fe8ede4d5cbf2a14959baa3f4fc697464e9b1aaf09f1d366.bin",
+      "sha256": "44aecb26b3ab1843fe8ede4d5cbf2a14959baa3f4fc697464e9b1aaf09f1d366",
+      "index": 0,
+      "scaleOffset": [
+        0.120915569,
+        0.118378729,
+        0.318936884,
+        0.666144848
+      ],
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 12,
+          "url": "lightmaps/uv2-recovery/4b1961fdf9327430b956e6366c3aa4fab9457a3338966a63b39f3a1e1ef5b858.bin",
+          "sha256": "4b1961fdf9327430b956e6366c3aa4fab9457a3338966a63b39f3a1e1ef5b858"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

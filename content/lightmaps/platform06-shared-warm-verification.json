@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "method": "shared-FBX-mesh-identity-and-full-float32-ordered-corners",
+  "comparison": "All position3/normal3/UV0xy/UV2xy float32 corners. Reflected X/winding and float32 V flip; signed-zero equivalence explicitly counted, no epsilon/ULP exceptions.",
+  "baselineSidecarSha256": "eea48b1542e76237b782f63a78c06ed9e8a2c89a9f879aced71e9b755c694fe5",
+  "modelSha256": "e95f2e954e24f2cb91885c29f375e00f768d59a95dfa15a22e8bad445781ac70",
+  "nativeSha256": "08d4e12fdc77a5d68b1140188e35933d16659eded653fc09ad71511f52f2267f",
+  "group": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-685901122315105150-1912950625",
+  "sourceFbx": {
+    "sourceAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+    "destinationAsset": "Assets/__RabbimanPlatformWarmProbe/70478d5f352d455d8098ac0426ee6fdd/Platform_06/Platform_06.FBX",
+    "sourceFbxSha256": "20ea6ff61b9e89a15346938b58fe6030439ffb449777aee79690d7e06a537a90",
+    "sourceMetaSha256": "27a6985a0ba1f3a696640d4fe7a02f88cf2c0d20c6afcdaa1c147039b0b5849a",
+    "copyFbxSha256": "20ea6ff61b9e89a15346938b58fe6030439ffb449777aee79690d7e06a537a90",
+    "originalExtraProperties": [
+      "#BAKERY{\"meshName\":[\"platform_06\"],\"padding\":[31],\"unwrapper\":[0]}"
+    ],
+    "copiedExtraProperties": [
+      "#BAKERY{\"meshName\":[\"platform_06\"],\"padding\":[31],\"unwrapper\":[0]}"
+    ],
+    "originalGenerateSecondaryUV": true,
+    "copiedGenerateSecondaryUV": true
+  },
+  "rows": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-249284355228273666-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4707562970218330407-1912950625",
+      "name": "platform_06",
+      "donorRenderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1261272013898934499-1912950625",
+      "donorNode": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6026323650158960070-1912950625",
+      "meshReference": {
+        "id": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-17943463370223071301-0",
+        "asset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+        "type": "UnityEngine.Mesh"
+      },
+      "meshLocalFileIdUnsigned": "17943463370223071301",
+      "meshLocalFileIdSigned": "-503280703486480315",
+      "materials": [
+        "GlobalObjectId_V1-3-e791e597ca98e1540a67df7b04be5c2a-2100000-0"
+      ],
+      "materialName": "SR_Bilding",
+      "ownIndex": 0,
+      "ownScaleOffset": [
+        0.0904536,
+        0.09043466,
+        0.08793914,
+        0.90469146
+      ],
+      "donorScaleOffset": [
+        0.0904536,
+        0.09043467,
+        -0.00127346022,
+        0.904691458
+      ],
+      "metadataBeforeSha256": "edb3a3ce55f880b5e61de35319ef26a1803824f073f49be06a49ca2f761aa512",
+      "metadataAfterSha256": "edb3a3ce55f880b5e61de35319ef26a1803824f073f49be06a49ca2f761aa512",
+      "descriptor": {
+        "url": "lightmaps/uv2-recovery/a7976395d267766459e533d74adb1378353a14d3b25710581676fcabe4d94bcc.bin",
+        "sha256": "a7976395d267766459e533d74adb1378353a14d3b25710581676fcabe4d94bcc",
+        "vertexCount": 732,
+        "strideFloats": 10,
+        "layout": "position3-normal3-uv0_2-uv2_2",
+        "coordinates": "unity-local-left-handed-y-up",
+        "submeshes": [
+          {
+            "submesh": 0,
+            "indexCount": 1554,
+            "url": "lightmaps/uv2-recovery/0dedc56a7d314b5e7ffa15ca794032d7faed8f9f2b6514654110559ec540ce19.bin",
+            "sha256": "0dedc56a7d314b5e7ffa15ca794032d7faed8f9f2b6514654110559ec540ce19"
+          }
+        ]
+      },
+      "vertexCount": 732,
+      "corners": 1554,
+      "componentsChecked": 15540,
+      "strictRotation": 1,
+      "precisionExceptionsConsumed": 0,
+      "signedZeroEquivalentComponents": 0,
+      "canonicalFullCornerSha256": "607b8881fab91d82ff6b3e5879374ddf590b6917c476c5b7d99c5e40fc71ffad",
+      "nativeStream": {
+        "path": "proof/streams/249284355228273666-native-corners.f32.bin",
+        "sha256": "1ef4a63f20daeaf913611b16f1658e02153100d770f717be484738fe41877169",
+        "bytes": 62160
+      },
+      "glbStream": {
+        "path": "proof/streams/249284355228273666-glb-corners.f32.bin",
+        "sha256": "1ef4a63f20daeaf913611b16f1658e02153100d770f717be484738fe41877169",
+        "bytes": 62160
+      }
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1707764580422402355-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4191282879116141262-1912950625",
+      "name": "platform_06 2",
+      "donorRenderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-380096961878271442-1912950625",
+      "donorNode": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2945142398474454575-1912950625",
+      "meshReference": {
+        "id": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-16054006066987860623-0",
+        "asset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+        "type": "UnityEngine.Mesh"
+      },
+      "meshLocalFileIdUnsigned": "16054006066987860623",
+      "meshLocalFileIdSigned": "-2392738006721690993",
+      "materials": [
+        "GlobalObjectId_V1-3-1de9fd6ca94473448bc18108f592202d-2100000-0"
+      ],
+      "materialName": "Sand",
+      "ownIndex": 0,
+      "ownScaleOffset": [
+        0.050498176,
+        0.0505128,
+        0.32248566,
+        0.92056614
+      ],
+      "donorScaleOffset": [
+        0.0504982062,
+        0.0505128279,
+        0.139919892,
+        0.8563514
+      ],
+      "metadataBeforeSha256": "5ee1eb7a74716372021f807ab3c7bb2c006580ba75dcf9f9610b533fb04f6c26",
+      "metadataAfterSha256": "5ee1eb7a74716372021f807ab3c7bb2c006580ba75dcf9f9610b533fb04f6c26",
+      "descriptor": {
+        "url": "lightmaps/uv2-recovery/b063245139aaad1e66f69d251fe5690dd143af881711704c93a18686d6b69e19.bin",
+        "sha256": "b063245139aaad1e66f69d251fe5690dd143af881711704c93a18686d6b69e19",
+        "vertexCount": 402,
+        "strideFloats": 10,
+        "layout": "position3-normal3-uv0_2-uv2_2",
+        "coordinates": "unity-local-left-handed-y-up",
+        "submeshes": [
+          {
+            "submesh": 0,
+            "indexCount": 1428,
+            "url": "lightmaps/uv2-recovery/5eb675cfd790556628b14ce8a774406ef9d52c7f389f1ff3ef5c255eef0b50a4.bin",
+            "sha256": "5eb675cfd790556628b14ce8a774406ef9d52c7f389f1ff3ef5c255eef0b50a4"
+          }
+        ]
+      },
+      "vertexCount": 402,
+      "corners": 1428,
+      "componentsChecked": 14280,
+      "strictRotation": 1,
+      "precisionExceptionsConsumed": 0,
+      "signedZeroEquivalentComponents": 0,
+      "canonicalFullCornerSha256": "bb67603c9e298784fd676fb69935b300116a2889acebb81a86e8f05f3a208266",
+      "nativeStream": {
+        "path": "proof/streams/1707764580422402355-native-corners.f32.bin",
+        "sha256": "70f37d0d7b5531db1ce8686cb47008acff584c312860456aeb444b23ede3d3b4",
+        "bytes": 57120
+      },
+      "glbStream": {
+        "path": "proof/streams/1707764580422402355-glb-corners.f32.bin",
+        "sha256": "70f37d0d7b5531db1ce8686cb47008acff584c312860456aeb444b23ede3d3b4",
+        "bytes": 57120
+      }
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6115637408497633996-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-580931175135821034-1912950625",
+      "name": "platform_06 3",
+      "donorRenderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5055933968301452845-1912950625",
+      "donorNode": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1944063179383134219-1912950625",
+      "meshReference": {
+        "id": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-9562953990043016374-0",
+        "asset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+        "type": "UnityEngine.Mesh"
+      },
+      "meshLocalFileIdUnsigned": "9562953990043016374",
+      "meshLocalFileIdSigned": "-8883790083666535242",
+      "materials": [
+        "GlobalObjectId_V1-3-3c3eadefdc3da52498de52a7d4aa984e-2100000-0"
+      ],
+      "materialName": "SecretRoom_Bridge_01",
+      "ownIndex": 0,
+      "ownScaleOffset": [
+        0.038155917,
+        0.038125597,
+        0.4671615,
+        0.88583213
+      ],
+      "donorScaleOffset": [
+        0.0381559245,
+        0.0381256,
+        0.4671615,
+        0.8469076
+      ],
+      "metadataBeforeSha256": "351e3f2aa5d21b947459dbf4908b3065a809df50e81d9ee545922473c0b46fb1",
+      "metadataAfterSha256": "351e3f2aa5d21b947459dbf4908b3065a809df50e81d9ee545922473c0b46fb1",
+      "descriptor": {
+        "url": "lightmaps/uv2-recovery/b7f64f9956f654cab4764aaa50f59f4afe62999a52e4bef5b06921147bdc5f22.bin",
+        "sha256": "b7f64f9956f654cab4764aaa50f59f4afe62999a52e4bef5b06921147bdc5f22",
+        "vertexCount": 774,
+        "strideFloats": 10,
+        "layout": "position3-normal3-uv0_2-uv2_2",
+        "coordinates": "unity-local-left-handed-y-up",
+        "submeshes": [
+          {
+            "submesh": 0,
+            "indexCount": 1716,
+            "url": "lightmaps/uv2-recovery/406d37f952c4bc5c3c35997e19dbecf96b4f61a4694a9f995db90f1bd946ca1e.bin",
+            "sha256": "406d37f952c4bc5c3c35997e19dbecf96b4f61a4694a9f995db90f1bd946ca1e"
+          }
+        ]
+      },
+      "vertexCount": 774,
+      "corners": 1716,
+      "componentsChecked": 17160,
+      "strictRotation": 1,
+      "precisionExceptionsConsumed": 0,
+      "signedZeroEquivalentComponents": 0,
+      "canonicalFullCornerSha256": "11994b0e3891762ef42fb53b5cc0482f385184b6e2d1e037070ed19f5d3cd20d",
+      "nativeStream": {
+        "path": "proof/streams/6115637408497633996-native-corners.f32.bin",
+        "sha256": "11994b0e3891762ef42fb53b5cc0482f385184b6e2d1e037070ed19f5d3cd20d",
+        "bytes": 68640
+      },
+      "glbStream": {
+        "path": "proof/streams/6115637408497633996-glb-corners.f32.bin",
+        "sha256": "11994b0e3891762ef42fb53b5cc0482f385184b6e2d1e037070ed19f5d3cd20d",
+        "bytes": 68640
+      }
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3934385700624571284-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3536792834290393689-1912950625",
+      "name": "platform_06 4",
+      "donorRenderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2624732207322595189-1912950625",
+      "donorNode": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2585176833676887736-1912950625",
+      "meshReference": {
+        "id": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-136290348218778634-0",
+        "asset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+        "type": "UnityEngine.Mesh"
+      },
+      "meshLocalFileIdUnsigned": "136290348218778634",
+      "meshLocalFileIdSigned": "136290348218778634",
+      "materials": [
+        "GlobalObjectId_V1-3-be5735e45589cd44e9cb4d9229c9904f-2100000-0"
+      ],
+      "materialName": "SecretRoom_Ground_01",
+      "ownIndex": 0,
+      "ownScaleOffset": [
+        0.12923872,
+        0.12779431,
+        0.5906056,
+        0.35357064
+      ],
+      "donorScaleOffset": [
+        0.1292388,
+        0.12779437,
+        0.4683178,
+        0.35357064
+      ],
+      "metadataBeforeSha256": "71124638f0cf8f381d5233c5d8efc4c966ba9a5e63372260041b7b70e63c9d76",
+      "metadataAfterSha256": "71124638f0cf8f381d5233c5d8efc4c966ba9a5e63372260041b7b70e63c9d76",
+      "descriptor": {
+        "url": "lightmaps/uv2-recovery/e2f2d990f3c643ac24a95e3c585595c1fdf97023501362cb4e5664773ffddd88.bin",
+        "sha256": "e2f2d990f3c643ac24a95e3c585595c1fdf97023501362cb4e5664773ffddd88",
+        "vertexCount": 12,
+        "strideFloats": 10,
+        "layout": "position3-normal3-uv0_2-uv2_2",
+        "coordinates": "unity-local-left-handed-y-up",
+        "submeshes": [
+          {
+            "submesh": 0,
+            "indexCount": 24,
+            "url": "lightmaps/uv2-recovery/734477a22daedd9e223e4c650f984689e7e4cff2a70c25697b73a6a6dd9b41d1.bin",
+            "sha256": "734477a22daedd9e223e4c650f984689e7e4cff2a70c25697b73a6a6dd9b41d1"
+          }
+        ]
+      },
+      "vertexCount": 12,
+      "corners": 24,
+      "componentsChecked": 240,
+      "strictRotation": 1,
+      "precisionExceptionsConsumed": 0,
+      "signedZeroEquivalentComponents": 0,
+      "canonicalFullCornerSha256": "9d45c9fe7868d42db14c1dc09d10805fa745dccddacfe07bdb59d3450e778efa",
+      "nativeStream": {
+        "path": "proof/streams/3934385700624571284-native-corners.f32.bin",
+        "sha256": "6f576be34f747b4be96fea22328c4ffe9ef6ff2dd1ef3b87c8077add30ab5998",
+        "bytes": 960
+      },
+      "glbStream": {
+        "path": "proof/streams/3934385700624571284-glb-corners.f32.bin",
+        "sha256": "6f576be34f747b4be96fea22328c4ffe9ef6ff2dd1ef3b87c8077add30ab5998",
+        "bytes": 960
+      }
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6493216009708654556-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3838476877151441033-1912950625",
+      "name": "platform_06 5",
+      "donorRenderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+      "donorNode": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2859874393349059688-1912950625",
+      "meshReference": {
+        "id": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-11778047494468908935-0",
+        "asset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+        "type": "UnityEngine.Mesh"
+      },
+      "meshLocalFileIdUnsigned": "11778047494468908935",
+      "meshLocalFileIdSigned": "-6668696579240642681",
+      "materials": [
+        "GlobalObjectId_V1-3-b2069b55d8b7d4d4b814be2ca77130ca-2100000-0"
+      ],
+      "materialName": "SR_Blocks",
+      "ownIndex": 0,
+      "ownScaleOffset": [
+        0.12779748,
+        0.12779401,
+        0.4862408,
+        0.2265853
+      ],
+      "donorScaleOffset": [
+        0.1277975,
+        0.127794027,
+        0.357449323,
+        0.2265853
+      ],
+      "metadataBeforeSha256": "5d6b5132eed8f0346bd317014ccf29204d7194441dc274a9e6496cbce041dd97",
+      "metadataAfterSha256": "5d6b5132eed8f0346bd317014ccf29204d7194441dc274a9e6496cbce041dd97",
+      "descriptor": {
+        "url": "lightmaps/uv2-recovery/acdbd259943ab62981fc2efda1093686f2ed823ea36397d795aa886757cda407.bin",
+        "sha256": "acdbd259943ab62981fc2efda1093686f2ed823ea36397d795aa886757cda407",
+        "vertexCount": 5869,
+        "strideFloats": 10,
+        "layout": "position3-normal3-uv0_2-uv2_2",
+        "coordinates": "unity-local-left-handed-y-up",
+        "submeshes": [
+          {
+            "submesh": 0,
+            "indexCount": 12000,
+            "url": "lightmaps/uv2-recovery/14997bdec2f9ccacd74937463c24b02ff8007219be31e2c94b084bde57b9338a.bin",
+            "sha256": "14997bdec2f9ccacd74937463c24b02ff8007219be31e2c94b084bde57b9338a"
+          }
+        ]
+      },
+      "vertexCount": 5869,
+      "corners": 12000,
+      "componentsChecked": 120000,
+      "strictRotation": 1,
+      "precisionExceptionsConsumed": 0,
+      "signedZeroEquivalentComponents": 0,
+      "canonicalFullCornerSha256": "38fd2f916707748b031df5c3731cb392946fcc287be085e030082369e002c075",
+      "nativeStream": {
+        "path": "proof/streams/6493216009708654556-native-corners.f32.bin",
+        "sha256": "1766252c3c463d3958ade0abb826996f8c38fcbc281485826da7d4710e754a26",
+        "bytes": 480000
+      },
+      "glbStream": {
+        "path": "proof/streams/6493216009708654556-glb-corners.f32.bin",
+        "sha256": "1766252c3c463d3958ade0abb826996f8c38fcbc281485826da7d4710e754a26",
+        "bytes": 480000
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3864215582806911080-1912950625",
+      "name": "platform_07_roofTop 1",
+      "reason": "Needs its own new native probe; unchanged"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1542432090197418362-1912950625",
+      "name": "platform_06 1",
+      "reason": "Needs its own new native probe; unchanged"
+    }
+  ],
+  "cornerCount": 16722,
+  "componentCount": 167220,
+  "otherBindingsUnchanged": 498,
+  "unchangedOtherBindingsSha256": "26ab04e0f70dae165ff97a9c34ee317e2c9e2d52e24e344d68470e2872171b5f"
+}

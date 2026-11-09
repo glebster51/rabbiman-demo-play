@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "parentNode": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-1366151862784952881-600847560",
+  "template": "e9e4e27edeb8ab0ce58f",
+  "materialId": "hub-portal-fire-fx-fire-1",
+  "material": {
+    "name": "FX_Fire_1",
+    "shader": "Mobile/Particles/Alpha Blended",
+    "renderQueue": 3000,
+    "keywords": [
+      "_COLORADDSUBDIFF_ON",
+      "_FLIPBOOKBLENDING_OFF",
+      "_RECEIVE_SHADOWS_OFF",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ],
+    "properties": {
+      "_MainTex": {
+        "texture": "textures/d1c562628c0ade44c99a532f536ec70e.png",
+        "scale": [1, 1],
+        "offset": [0, 0]
+      }
+    },
+    "status": "pending"
+  },
+  "renderMode": 3,
+  "allowRoll": true,
+  "scale": [3.06902742, 2.485406, 3.06902742],
+  "emitters": [
+    { "position": [-2.27, 2.4, 0.22] },
+    { "position": [2.32, 2.4, 0.22] }
+  ]
+}

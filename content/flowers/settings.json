@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "projectile": {
+    "speed": 5,
+    "lifetime": 10,
+    "destroyDelay": 0.1,
+    "pushHeight": 2,
+    "pushLength": 3,
+    "stunDuration": 0,
+    "radius": 0.42655671743698,
+    "center": [
+      0,
+      4.30703373822476e-8,
+      0
+    ],
+    "layer": 0
+  },
+  "source": [
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed.controller",
+      "sha256": "46d3e703ffd9f2963e928304c72f8ac157a0d5f03e17527784e610c4c132c717"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_AimOnPlayerLeft.fbx",
+      "sha256": "17cf3c73267210cd735a15fdabd8deee7f405122b52dc3c155be74fcb86dc61e"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_AimOnPlayerRight.fbx",
+      "sha256": "445b059cd36624fcf4c54d116cc07a51e39d0dfd4c24338bbf9626567953dd55"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_Idle.fbx",
+      "sha256": "54337568affd2be13fa2e0fc275df03f243ed8206977aeeaa80c0838a8d50503"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_Idle02.fbx",
+      "sha256": "f5b0902d9631f16ee2ba2ca07f76b3427ad0f6e47d696e429f0c8175018d723d"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_Notice.fbx",
+      "sha256": "bbe02d19415f9d91b688b8a3da543bf7df38def38db3b547533404f38495b4e4"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_ShoutCycle.fbx",
+      "sha256": "9121bc59570b484af375a843217447276beafc7b7f857757e96a74954bd9217b"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_ShoutDelayCycle.fbx",
+      "sha256": "3cc10dfd494005c2bf260570221051fff31786fda1a203882f5e12f1c9285c9f"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_ShoutDelayIn.fbx",
+      "sha256": "69b70e1f72cb134fa42634b10dca67170a798a8b04fb9e4dc4b712aa6011a5be"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_ShoutIn.fbx",
+      "sha256": "0090e68d0182b0a8bca4c806eec87db310d68590ef05bdfadc230e9dff59fbb0"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_ShoutOut.fbx",
+      "sha256": "4cf0660ae7fcabefadb0369ece65e47457bb50e00b9db80cb1d8b7b98dc89cd5"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_StunCycle.fbx",
+      "sha256": "c2f5b600fc411314f9ae003aef3171363f911fed3526c031a9605e9d9578c889"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_StunIn.fbx",
+      "sha256": "e93da52ed2892aed67d47744000ecf215f69f3325adf72e2a6fe03ca22e24ed8"
+    },
+    {
+      "path": "Assets/(a)Animations/Npc/SpittingNpc/Weed/Weed_StunOut.fbx",
+      "sha256": "1de5a2b5b0cd36f18e85b963c2b9023c77199200f02016b4018944440f61097a"
+    },
+    {
+      "path": "Assets/(m)Materials/Weed/Weed_material.mat",
+      "sha256": "d70d56beeb1fb1096468bd288cb39ece3d5144a95b129ca3aed590915fc51f1d"
+    },
+    {
+      "path": "Assets/(m)Models/Weed_model/weed_projectile.fbx",
+      "sha256": "93b7c4ecde2840b40932c645abdac72154267fd7c3a269d75012f1137d5fae57"
+    },
+    {
+      "path": "Assets/(m)Models/Weed_model/Weed_Rig.fbx",
+      "sha256": "748d89a62072a918525101ad3bab0cc59c26d4b13c38b0e38459b00e94f93e18"
+    },
+    {
+      "path": "Assets/(p)Prefabs/Environment_prefabs/ForLevels/TuBiShvat_Prefabs/WeedProjectile.prefab",
+      "sha256": "74501ebd92c99d3a37b5f340c0ef7fa7b20c5483fef9511c474dadb76408a19d"
+    },
+    {
+      "path": "Assets/(p)Prefabs/LevelDesign/TuBishvat/Level3/Interactive_Chunk3_TuBishvat_Level3.prefab",
+      "sha256": "46a7181faa92b4b7c5c626608ad02f5afdb3bf5071d51de3f6f2f00cf768576a"
+    },
+    {
+      "path": "Assets/(p)Prefabs/Npc/SpittingNpc/Weed.prefab",
+      "sha256": "4423dc53c3316f752b86afc7dc7562d11627c2e2a61370e6ab158c7e4ffbe3dd"
+    },
+    {
+      "path": "Assets/Configs/Npc/SpittingNpc/Weed/WeedAbilitiesConfig.asset",
+      "sha256": "fb60c61571befa30afc3a69b0c4b00e4d6fceae632c169c6a9f01c6fec23ddb9"
+    },
+    {
+      "path": "Assets/Configs/Npc/SpittingNpc/Weed/WeedConfig.asset",
+      "sha256": "8ad73ebde22791a10255c9b1ca7942eb37bc3edcd627288e08ace3bc68367f7e"
+    },
+    {
+      "path": "Assets/Configs/Npc/SpittingNpc/Weed/WeedConfigsInstaller.asset",
+      "sha256": "3a525b7a43e0c40d42a967dbdc63321062e56e7f357d57daeb7fc848d9759cfc"
+    },
+    {
+      "path": "Assets/Configs/Npc/SpittingNpc/Weed/WeedStateTimeConfig.asset",
+      "sha256": "1f043190d7a3eeb5a2ebf5f1dfb1fb7b8b1ea92cbdfc2bc795aa8ce8b958854a"
+    },
+    {
+      "path": "Assets/Configs/Npc/SpittingNpc/WeedStraight/WeedStraightAbilitiesConfig.asset",
+      "sha256": "0603bdec88808477de76eeda686c3eff25a7d7ca96820ce39e89cccb6f5de0ec"
+    },
+    {
+      "path": "Assets/Configs/Npc/SpittingNpc/WeedStraight/WeedStraightConfig.asset",
+      "sha256": "901f618d5d65e950817ecbf378ac1a6e340013847f6a0d508cd028c228ff5c5e"
+    },
+    {
+      "path": "Assets/Configs/Npc/SpittingNpc/WeedStraight/WeedStraightConfigsInstaller.asset",
+      "sha256": "a8737633791e91111ad64b7959d7e378539a9a61e65a32bb3c80b61dde83f428"
+    },
+    {
+      "path": "Assets/Configs/Npc/SpittingNpc/WeedStraight/WeedStraightStateTimeConfig.asset",
+      "sha256": "8c4269512e2069fa52a4866d7ac6feb45d2069f9eacb310881c96a2622e753cc"
+    },
+    {
+      "path": "Assets/Scripts/Gameplay/Views/Projectiles/WeedProjectileView.cs",
+      "sha256": "dd634b76d643b5dc00add83e0e04001d068bc788f0c8606cc50ff9bdb311a5a8"
+    },
+    {
+      "path": "Assets/Scripts/Install/Npc/SpittingNpc/WeedInstaller.cs",
+      "sha256": "3248bb58139ed3fbf99dbe651e5cb5cff3376f5035cd8c2901a024d6d792488d"
+    },
+    {
+      "path": "Assets/Scripts/Install/Projectiles/WeedProjectileInstaller.cs",
+      "sha256": "f428cfd01c8879eceff97a82bc4ecf2898e5b02fdb382b98dcc713197e061b80"
+    }
+  ]
+}

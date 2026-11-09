@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "nativeSha256": "08d4e12fdc77a5d68b1140188e35933d16659eded653fc09ad71511f52f2267f",
+  "metadataGpuAndIndexPayloadChecksPassed": true,
+  "sameSettingsReimportStable": true,
+  "exactGlbFullCornerMatch": true,
+  "comparison": "Every ordered triangle corner; reflected X and winding, float32 V flip, signed-zero equivalence only; no precision exception or epsilon.",
+  "rows": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-716171774912656877-1912950625",
+      "name": "platform_05",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "f130797fc38c49d2e7fdb70f062f8f1dbe56ea138fb3e22904df627f1313676b",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 12,
+          "material": "SecretRoom_Ground_01",
+          "glbVertices": 6,
+          "nativeVertices": 6,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6200743962061993977-1912950625",
+      "name": "platform_05 2",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "dde0c393d81c3da946b363df60729ceaed15098174b0f38905576cf1d01b2c65",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 3786,
+          "material": "SR_Bilding",
+          "glbVertices": 1972,
+          "nativeVertices": 1972,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        },
+        {
+          "submesh": 1,
+          "indexCount": 966,
+          "material": "SecretRoom_Ground_01_D",
+          "glbVertices": 1972,
+          "nativeVertices": 1972,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2228786468918275624-1912950625",
+      "name": "platform_05 3",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "2b599adbbd61ad3b3ecb6d2e8730733ccbf6e7abeb80e222a142827a4179a8c7",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 402,
+          "material": "Sand",
+          "glbVertices": 105,
+          "nativeVertices": 105,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-725654845537969279-1912950625",
+      "name": "platform_05 4",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "066867fccbd15dc6977253d8b0c8a4fc179f39cf83d7e0541fc4980ce76b5490",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 816,
+          "material": "SecretRoom_Bridge_01",
+          "glbVertices": 381,
+          "nativeVertices": 381,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1261272013898934499-1912950625",
+      "name": "platform_06",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "a7976395d267766459e533d74adb1378353a14d3b25710581676fcabe4d94bcc",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1554,
+          "material": "SR_Bilding",
+          "glbVertices": 732,
+          "nativeVertices": 732,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-380096961878271442-1912950625",
+      "name": "platform_06 2",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "b063245139aaad1e66f69d251fe5690dd143af881711704c93a18686d6b69e19",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1428,
+          "material": "Sand",
+          "glbVertices": 402,
+          "nativeVertices": 402,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5055933968301452845-1912950625",
+      "name": "platform_06 3",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "b7f64f9956f654cab4764aaa50f59f4afe62999a52e4bef5b06921147bdc5f22",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1716,
+          "material": "SecretRoom_Bridge_01",
+          "glbVertices": 774,
+          "nativeVertices": 774,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2624732207322595189-1912950625",
+      "name": "platform_06 4",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "e2f2d990f3c643ac24a95e3c585595c1fdf97023501362cb4e5664773ffddd88",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 24,
+          "material": "SecretRoom_Ground_01",
+          "glbVertices": 12,
+          "nativeVertices": 12,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+      "name": "platform_06 5",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "acdbd259943ab62981fc2efda1093686f2ed823ea36397d795aa886757cda407",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 12000,
+          "material": "SR_Blocks",
+          "glbVertices": 5869,
+          "nativeVertices": 5869,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1556724495065225229-1912950625",
+      "name": "platform_06_carpet",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "20655f85bbd7854c78b8d73bd8c9348f4f76a6c0ba9075947257ed75a36f7637",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 4812,
+          "material": "Carpets",
+          "glbVertices": 1028,
+          "nativeVertices": 1028,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1030184352064160417-1912950625",
+      "name": "platform_06_carpet2",
+      "stableCpuAndIndices": true,
+      "cpuSha256": "60f3527fd6a5b09757becf96a9058af82de7b7c8dc6b3d3c1ce58a9ff48d2e78",
+      "submeshes": [
+        {
+          "submesh": 0,
+          "indexCount": 1704,
+          "material": "Carpets",
+          "glbVertices": 394,
+          "nativeVertices": 394,
+          "exactFullCornerMatch": true,
+          "bestRotation": {
+            "rotation": 1,
+            "geometryCornerMismatches": 0,
+            "uv2CornerMismatches": 0,
+            "firstGeometryMismatch": null
+          }
+        }
+      ]
+    }
+  ]
+}

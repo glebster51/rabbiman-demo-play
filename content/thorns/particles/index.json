@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "levels": {
+    "Player": [
+      {
+        "node": "GlobalObjectId_V1-2-f7237acc520036c489fc541e2dc57dee-7845013122899487570-4956692839089840357",
+        "template": "thorns-210c79782e5c0d8801fc",
+        "materials": [
+          "thorns-210c79782e5c0d8801fc-material"
+        ],
+        "playOnAwake": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-f7237acc520036c489fc541e2dc57dee-3048866523601517779-4956692839089840357",
+        "template": "thorns-eb48b8697c45141bdfc0",
+        "materials": [
+          "thorns-eb48b8697c45141bdfc0-material"
+        ],
+        "playOnAwake": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-f7237acc520036c489fc541e2dc57dee-5455625656056051397-4956692839089840357",
+        "template": "thorns-0aecf9fe55bcb8b45e76",
+        "materials": [
+          "thorns-0aecf9fe55bcb8b45e76-material"
+        ],
+        "playOnAwake": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-f7237acc520036c489fc541e2dc57dee-2262186783767870411-0",
+        "template": "thorns-9f5ebf9d7db4326d2f3f",
+        "materials": [
+          "thorns-9f5ebf9d7db4326d2f3f-material"
+        ],
+        "playOnAwake": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-f7237acc520036c489fc541e2dc57dee-4492453472194708027-0",
+        "template": "thorns-5075e3770fef06aab1f9",
+        "materials": [
+          "thorns-5075e3770fef06aab1f9-material"
+        ],
+        "playOnAwake": false
+      }
+    ],
+    "ThornsVignette": [
+      {
+        "node": "n10",
+        "template": "thorns-6c64d16963d9be3c3da0",
+        "materials": [
+          "",
+          "thorns-6c64d16963d9be3c3da0-trail-material"
+        ],
+        "playOnAwake": false
+      },
+      {
+        "node": "n11",
+        "template": "thorns-615b30dc6e787ad78be2",
+        "materials": [
+          "",
+          "thorns-615b30dc6e787ad78be2-trail-material"
+        ],
+        "playOnAwake": false
+      },
+      {
+        "node": "n12",
+        "template": "thorns-c43168240aa1faf08c81",
+        "materials": [
+          "",
+          "thorns-c43168240aa1faf08c81-trail-material"
+        ],
+        "playOnAwake": false
+      },
+      {
+        "node": "n13",
+        "template": "thorns-43a743489769332ef713",
+        "materials": [
+          "",
+          "thorns-43a743489769332ef713-trail-material"
+        ],
+        "playOnAwake": false
+      }
+    ]
+  }
+}

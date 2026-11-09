@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "cinemachineVersion": "2.10.7",
+  "point": {
+    "_guid": null,
+    "_followSpeed": 10,
+    "_cameraViewPortBorders": {
+      "x": 0.2,
+      "y": 0.9
+    },
+    "_followOnLandingTime": 0.2,
+    "_dampingSpeed": 5,
+    "_dampingMaxLength": 20
+  },
+  "blends": {
+    "Assets/(p)Prefabs/Camera/Zone/MainCamera_Blends.asset": [
+      {
+        "m_From": "Portal Virtual Confined Camera",
+        "m_To": "Portal Virtual Confined Camera",
+        "m_Blend": {
+          "m_Style": 0,
+          "m_Time": 1,
+          "m_CustomCurve": {
+            "serializedVersion": 2,
+            "m_Curve": [],
+            "m_PreInfinity": 0,
+            "m_PostInfinity": 0,
+            "m_RotationOrder": 0
+          }
+        }
+      }
+    ],
+    "Assets/(p)Prefabs/Camera/Zone/MainCamera_Blends_1sec.asset": [
+      {
+        "m_From": "**ANY CAMERA**",
+        "m_To": "Virtual Confined Camera",
+        "m_Blend": {
+          "m_Style": 1,
+          "m_Time": 1,
+          "m_CustomCurve": {
+            "serializedVersion": 2,
+            "m_Curve": [],
+            "m_PreInfinity": 0,
+            "m_PostInfinity": 0,
+            "m_RotationOrder": 0
+          }
+        }
+      }
+    ]
+  },
+  "coverage": [
+    {
+      "id": "SecretRoom",
+      "exportedZones": 33,
+      "initiallyActiveZones": 16,
+      "exportedDollyZones": 7,
+      "initiallyActiveDollyZones": 1
+    },
+    {
+      "id": "TuBiShvatLevel1",
+      "exportedZones": 84,
+      "initiallyActiveZones": 34,
+      "exportedDollyZones": 21,
+      "initiallyActiveDollyZones": 0
+    },
+    {
+      "id": "TuBishvatLevel2",
+      "exportedZones": 40,
+      "initiallyActiveZones": 14,
+      "exportedDollyZones": 23,
+      "initiallyActiveDollyZones": 0
+    },
+    {
+      "id": "TuBishvatLevel3",
+      "exportedZones": 47,
+      "initiallyActiveZones": 22,
+      "exportedDollyZones": 19,
+      "initiallyActiveDollyZones": 0
+    },
+    {
+      "id": "TuBiShvatPuzzlesLevel2",
+      "exportedZones": 2,
+      "initiallyActiveZones": 1,
+      "exportedDollyZones": 0,
+      "initiallyActiveDollyZones": 0
+    },
+    {
+      "id": "TrialsLevel12",
+      "exportedZones": 4,
+      "initiallyActiveZones": 2,
+      "exportedDollyZones": 0,
+      "initiallyActiveDollyZones": 0
+    },
+    {
+      "id": "Hub",
+      "exportedZones": 1,
+      "initiallyActiveZones": 1,
+      "exportedDollyZones": 0,
+      "initiallyActiveDollyZones": 0
+    }
+  ],
+  "sourceHashes": {
+    "Assets/Scripts/CharacterController/Views/Player/CharacterCameraPointView.cs.meta": "80616943d7917621d63a158e5aaa79504d00549e79017aa51bd4bf132f0087c5",
+    "Assets/(s)Scenes/Core/GameCore.unity": "dc8cd7e3956b779eaafc32b47529495b475b92ac9b341e3a0e7469b16c989458",
+    "Assets/(p)Prefabs/Camera/Zone/MainCamera_Blends.asset": "4f595a78d77411544ee8ea3ea2b7b19916a1c08764e6c77ff1eb17a052e9baa8",
+    "Assets/(p)Prefabs/Camera/Zone/MainCamera_Blends_1sec.asset": "0844f117a9257b33489dadd66fd83e360e1e9880d9eaab611a626965732ad364",
+    "Assets/Scripts/CharacterController/Presenters/Player/CharacterCameraPointPresenter.cs": "145532298a37322a5de85539c49808425ae7adaf51b5d81dda71a05e7c7c8752",
+    "Assets/Scripts/Gameplay/Views/Camera/TriggeredVirtualCameraView.cs": "882c3af9af21686787aa096f1c3602310a19839716feef45a4e644a2544cd141"
+  }
+}

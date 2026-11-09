@@ -1,0 +1,1474 @@
+{
+  "clips": {
+    "SecretRoom_Bridge_Appear": {
+      "duration": 9.766666,
+      "tracks": [
+        {
+          "path": "Gear_01",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": -2071.1484,
+                "inTangent": -250.54216,
+                "outTangent": -250.54216,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": -2071.1484,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": -2071.1484,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Gear_02",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 2071.148,
+                "inTangent": 250.5421,
+                "outTangent": 250.5421,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 2071.148,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 2071.148,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform/Pandus_a",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.483333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.616667,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.75,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": -180,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": -180,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.483333,
+                "value": -180,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.616667,
+                "value": -180,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.75,
+                "value": -180,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": -180,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 123.76,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 123.76,
+                "inTangent": 0,
+                "outTangent": -353.6001,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.483333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.616667,
+                "value": 9.6,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.75,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform/Pandus_b",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.483333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.616667,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.75,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.483333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.616667,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.75,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 123.76,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 123.76,
+                "inTangent": 0,
+                "outTangent": -353.6001,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.483333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.616667,
+                "value": 9.6,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.75,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Cylinders_Down",
+          "property": "position",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 18.48,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": -4.57642,
+                "outTangent": -4.57642,
+                "weightedMode": 0,
+                "inWeight": 0.04223643,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform",
+          "property": "position",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": -18.48,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 2.235484,
+                "outTangent": 2.235484,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.133333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 4.633333,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "RopeTile",
+          "property": "material._RopeOffset",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": -2.5889513,
+                "inTangent": 0,
+                "outTangent": 0
+              },
+              {
+                "time": 4.133333,
+                "value": -1.74,
+                "inTangent": 0.10269573,
+                "outTangent": 0.10269573
+              },
+              {
+                "time": 4.633333,
+                "value": -1.74,
+                "inTangent": 0,
+                "outTangent": 0
+              },
+              {
+                "time": 9.766666,
+                "value": -1.74,
+                "inTangent": 0,
+                "outTangent": 0
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform/FogFluids",
+          "property": "m_IsActive",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              },
+              {
+                "time": 0.5,
+                "value": 1,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              },
+              {
+                "time": 8.783334,
+                "value": 0,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              },
+              {
+                "time": 9.766666,
+                "value": 0,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform/PandusDusts",
+          "property": "m_IsActive",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              },
+              {
+                "time": 4.35,
+                "value": 1,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              },
+              {
+                "time": 9.766666,
+                "value": 1,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              }
+            ]
+          ]
+        }
+      ],
+      "source": "Assets/(a)Animations/Platforms_Animation/SecretRoom_Bridge_Appear.anim"
+    },
+    "SecretRoom_Bridge_Idle0": {
+      "duration": 0,
+      "tracks": [
+        {
+          "path": "Gear_01",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Gear_02",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform/Pandus_a",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": -180,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 123.76,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform/Pandus_b",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 123.76,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Cylinders_Down",
+          "property": "position",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 18.48,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform",
+          "property": "position",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": -18.48,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform/FogFluids",
+          "property": "m_IsActive",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Platform/PandusDusts",
+          "property": "m_IsActive",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": "Infinity",
+                "outTangent": "Infinity"
+              }
+            ]
+          ]
+        },
+        {
+          "path": "RopeTile",
+          "property": "material._RopeOffset",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": -2.5889513,
+                "inTangent": 0,
+                "outTangent": 0
+              }
+            ]
+          ]
+        }
+      ],
+      "source": "Assets/(a)Animations/Platforms_Animation/SecretRoom_Bridge_Idle0.anim"
+    },
+    "SecretRoom_ClockGate_OpenApear": {
+      "duration": 3.5,
+      "tracks": [
+        {
+          "path": "Hands/SecretRoom_ClockGate_part_06",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 3.5,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 3.5,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": -28.348,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 3.5,
+                "value": 44.182,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "Hands/SecretRoom_ClockGate_part_07",
+          "property": "euler",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 3.5,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 3.5,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 3.5,
+                "value": 899.102,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        }
+      ],
+      "source": "Assets/(a)Animations/SecretRoom/ClockGate_Animation/SecretRoom_ClockGate_OpenApear.anim"
+    },
+    "MagicPlatform_Appear": {
+      "duration": 1,
+      "tracks": [
+        {
+          "path": "",
+          "property": "material._a",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 1
+              },
+              {
+                "time": 1,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0
+              }
+            ]
+          ]
+        },
+        {
+          "path": "",
+          "property": "material._a2",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0
+              },
+              {
+                "time": 1,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0
+              }
+            ]
+          ]
+        }
+      ],
+      "source": "Assets/ImportedAssets/SecretRoom/MagicPlatform_Appear.anim"
+    },
+    "MagicPlatform_Hide": {
+      "duration": 2.5,
+      "tracks": [
+        {
+          "path": "",
+          "property": "material._a",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0
+              },
+              {
+                "time": 2.5,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0
+              }
+            ]
+          ]
+        },
+        {
+          "path": "",
+          "property": "material._a2",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0
+              },
+              {
+                "time": 2.5,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0
+              }
+            ]
+          ]
+        }
+      ],
+      "source": "Assets/ImportedAssets/SecretRoom/MagicPlatform_Hide.anim"
+    },
+    "MagicPlatform_Def": {
+      "duration": 0,
+      "tracks": [
+        {
+          "path": "",
+          "property": "material._a",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 1
+              }
+            ]
+          ]
+        },
+        {
+          "path": "",
+          "property": "material._a2",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0
+              }
+            ]
+          ]
+        }
+      ],
+      "source": "Assets/ImportedAssets/SecretRoom/MagicPlatform_Def.anim"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "staticEvidenceOnly": true,
+  "levels": [
+    {
+      "id": "SecretRoom",
+      "sourceScene": "Assets/(s)Scenes/SecretRoom/Level1/SecretRoom_Level1_Start.unity",
+      "renderers": [
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-7218521613822955269-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8387527649286321258-2073419178",
+          "name": "Rope_01 (2)",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 269,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1527925536132767144-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-396146285535487687-2073419178",
+          "name": "Rope_01 (1)",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 270,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-9197617554973289610-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8065855345732065253-2073419178",
+          "name": "ZRope_01",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 292,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4016734890899070981-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2879317241594846058-2073419178",
+          "name": "Rope_01",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 293,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5040854628037489692-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6178826878683516787-2073419178",
+          "name": "Wall_part_06",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 335,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-566510986768301180-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1699979533634094867-2073419178",
+          "name": "Wall_part_07",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 336,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5636115913661958657-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6808507309990392174-2073419178",
+          "name": "Wall_part_06",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 450,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5840930090845661765-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6868141740924973035-2073419178",
+          "name": "start_platform_fence",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 464,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0",
+          "serializedPrefab": [
+            "  m_AdditionalVertexStreams: {fileID: 0}"
+          ]
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6183892462183291711-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3094922111911282241-2073419178",
+          "name": "start_platform",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 465,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0",
+          "serializedPrefab": [
+            "  m_AdditionalVertexStreams: {fileID: 0}"
+          ]
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-7634912906644454348-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8772875781510103203-2073419178",
+          "name": "Rope_01 (4)",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 467,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6790580211387078082-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5654216992796307117-2073419178",
+          "name": "ZRope_01 (1)",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 468,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "SecretRoom",
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6118571932927436073-2073419178",
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4945695788736929350-2073419178",
+          "name": "Rope_01 (3)",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 469,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        }
+      ]
+    },
+    {
+      "id": "TuBiShvatLevel1",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvat/Level1/TuBishvat_Level1_Start.unity",
+      "renderers": [
+        {
+          "level": "TuBiShvatLevel1",
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641258-656181511",
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641044-656181511",
+          "name": "respawnPoint_base",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 30,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "TuBiShvatLevel1",
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593858-797939693",
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593724-797939693",
+          "name": "respawnPoint_base",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 35,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "TuBiShvatLevel1",
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643847-797939693",
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643705-797939693",
+          "name": "respawnPoint_base",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 36,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "TuBiShvatLevel1",
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-314605275922036090-1554118913",
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2204868694826297825-1554118913",
+          "name": "liana",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 56,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        },
+        {
+          "level": "TuBiShvatLevel1",
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448547-532023075",
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448477-532023075",
+          "name": "respawnPoint_base",
+          "serializedAdditional": null,
+          "serializedEnlighten": null,
+          "bakeryStorageIndex": 58,
+          "bakeryVertexOffset": -1,
+          "bakeryVertexColorMeshFileID": "0"
+        }
+      ]
+    }
+  ],
+  "sourceCode": [
+    {
+      "path": "Assets/Bakery/ftLightmaps.cs",
+      "sha256": "b8de2d0bdda53ddfcae8a2eac148fa270641dc22b416dadd1410d1f31f15dcd9"
+    },
+    {
+      "path": "Assets/Bakery/ftLightmapsStorage.cs",
+      "sha256": "5c8cb8865cce07315c43d4e370d4c3e10437898a8e014b0b34c8c7fe12ceca05"
+    }
+  ]
+}

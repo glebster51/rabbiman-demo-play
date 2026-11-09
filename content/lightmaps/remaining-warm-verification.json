@@ -1,0 +1,390 @@
+{
+  "schemaVersion": 1,
+  "method": "own-warm-native-full-float32-ordered-corners",
+  "comparison": "Reflected X/winding and float32 V flip. All 10 components match raw bits, including signed zero. No epsilon, exceptions or fallback.",
+  "nativeSha256": "5b02cd5119204d589a1b61f4ec45e77502f26c3259efa605a197c10ea13a4b4f",
+  "baselineSidecarSha256": "bec2d41bf43ff914aa0253421a8a48c45a1c9c3b80c3e978a0d05c32bcb49265",
+  "modelSha256": "e95f2e954e24f2cb91885c29f375e00f768d59a95dfa15a22e8bad445781ac70",
+  "rows": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1542432090197418362-1912950625",
+      "name": "platform_06 1",
+      "meshReference": {
+        "id": "GlobalObjectId_V1-1-6851c80a6d492b54a9db5b78848ae6bb-16766650912581800338-0",
+        "asset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+        "type": "UnityEngine.Mesh"
+      },
+      "meshLocalFileIdSigned": "-1680093161127751278",
+      "material": 11,
+      "materials": [
+        "GlobalObjectId_V1-3-b2069b55d8b7d4d4b814be2ca77130ca-2100000-0"
+      ],
+      "index": 0,
+      "scaleOffset": [
+        0.026956353,
+        0.026957568,
+        0.56151664,
+        0.62477845
+      ],
+      "descriptor": {
+        "url": "lightmaps/uv2-recovery/5cfe6c3a358df3b5ed73e8badfe85e29f38838f203a5f714ede88b1a459a962b.bin",
+        "sha256": "5cfe6c3a358df3b5ed73e8badfe85e29f38838f203a5f714ede88b1a459a962b",
+        "vertexCount": 534,
+        "strideFloats": 10,
+        "layout": "position3-normal3-uv0_2-uv2_2",
+        "coordinates": "unity-local-left-handed-y-up",
+        "submeshes": [
+          {
+            "submesh": 0,
+            "indexCount": 1284,
+            "url": "lightmaps/uv2-recovery/57ef439340d70eae77e62b0804946fb230b1e0f833b36d7b88a7cc6d90b65a1f.bin",
+            "sha256": "57ef439340d70eae77e62b0804946fb230b1e0f833b36d7b88a7cc6d90b65a1f"
+          }
+        ]
+      },
+      "corners": 1284,
+      "components": 12840,
+      "strictRotation": 1,
+      "precisionExceptionsConsumed": 0,
+      "signedZeroDifferences": 0,
+      "fullCornerStream": {
+        "path": "tests/fixtures/remaining-warm/5717569948033642117-corners.f32.bin",
+        "sha256": "e2c956a39f868853695473128546ca5cc1e02a1d9a239d42a19844fafa4a6ec0",
+        "bytes": 51360
+      },
+      "metadataSha256": "00959721a3945917e5e7e8b3cc05458feb0f27e574f760ee3a3cbbc687efc811",
+      "nativeSourceRow": {
+        "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625",
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1542432090197418362-1912950625",
+        "name": "platform_06 1",
+        "meshName": "platform_06",
+        "meshAsset": "Assets/__RabbimanRemainingWarmProbe/508ab86e84164152a75193053ec7efa3/Platform_06/Platform_06.FBX",
+        "importerGenerateSecondaryUv": true,
+        "importerExtraUserProperties": [
+          "#BAKERY{\"meshName\":[\"platform_06\"],\"padding\":[31],\"unwrapper\":[0]}"
+        ],
+        "vertexCount": 534,
+        "referencedVertices": 534,
+        "readoutPixels": 534,
+        "exactUv0Uv1PositionStMatches": true,
+        "gpuLayout": "uint32 vertexId; float32x4 UV0xy/UV1xy, localPositionxyz/vertexId, actualLightmapST, actualMarker; stride68",
+        "gpuUrl": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-gpu.bin",
+        "gpuSha256": "69dd8c09694e11bc40d9ee3e2044770ecfcc9a725e092da1b6a27268e114eaa4",
+        "cpuLayout": "float32 position3,normal3,uv0xy,uv1xy; stride40",
+        "cpuUrl": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-cpu.bin",
+        "cpuSha256": "5cfe6c3a358df3b5ed73e8badfe85e29f38838f203a5f714ede88b1a459a962b",
+        "streamsBefore": {
+          "additional": null,
+          "serializedAdditional": null,
+          "enlighten": null,
+          "serializedEnlighten": null,
+          "error": null,
+          "enlightenGetterAvailable": true,
+          "HasMesh": false
+        },
+        "streamsAfter": {
+          "additional": null,
+          "serializedAdditional": null,
+          "enlighten": null,
+          "serializedEnlighten": null,
+          "error": null,
+          "enlightenGetterAvailable": true,
+          "HasMesh": false
+        },
+        "isPartOfStaticBatch": false,
+        "receiveGI": "Lightmaps",
+        "st": [
+          0.0269563533,
+          0.0269575678,
+          0.561516643,
+          0.62477845
+        ],
+        "targetDepth": 32,
+        "scope": "All indexed source vertices. Unreferenced vertices intentionally do not draw. Diagnostic material is not an instrumented original source shader.",
+        "meshLocalFileId": "-1680093161127751278",
+        "historicalColdVertexCount": 500,
+        "webTargetVertexCount": 534,
+        "sourceMeshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+        "index": 0,
+        "submeshes": [
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-submesh0.bin",
+            "sha256": "57ef439340d70eae77e62b0804946fb230b1e0f833b36d7b88a7cc6d90b65a1f",
+            "byteLength": 5136,
+            "submesh": 0,
+            "indexCount": 1284,
+            "topology": "Triangles",
+            "baseVertexApplied": true,
+            "rawBaseVertex": 0,
+            "rawIndices": {
+              "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-submesh0-raw.bin",
+              "sha256": "57ef439340d70eae77e62b0804946fb230b1e0f833b36d7b88a7cc6d90b65a1f",
+              "byteLength": 5136
+            }
+          }
+        ],
+        "cpuAllAttributes": [
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-attribute-Position.bin",
+            "sha256": "6e5844faf15b916d6b3e9f8a481620a6b9c7540864d529a62b8c7618bc773e3e",
+            "byteLength": 6408,
+            "attribute": "Position",
+            "sourceFormat": "Float32",
+            "dimension": 3,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-attribute-Normal.bin",
+            "sha256": "b6b9fda31159bf88d2f9b5868e15078a6286bd7fee545740b68d7193ebc7e738",
+            "byteLength": 6408,
+            "attribute": "Normal",
+            "sourceFormat": "Float32",
+            "dimension": 3,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-attribute-Tangent.bin",
+            "sha256": "011075fc39fac5f0adc94d16fbdbaaba99ce2eef415d9aef3981d748d3852246",
+            "byteLength": 8544,
+            "attribute": "Tangent",
+            "sourceFormat": "Float32",
+            "dimension": 4,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-attribute-Color.bin",
+            "sha256": "692265952bd2fd3b7680bea1b18dec141a84cd2988005b426a009cde3ca9444d",
+            "byteLength": 8544,
+            "attribute": "Color",
+            "sourceFormat": "UNorm8",
+            "dimension": 4,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-attribute-TexCoord0.bin",
+            "sha256": "bcd717f4c619abc40303b534c4859d382a8165af33e4cf44dcb4183dca40054f",
+            "byteLength": 4272,
+            "attribute": "TexCoord0",
+            "sourceFormat": "Float32",
+            "dimension": 2,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625-attribute-TexCoord1.bin",
+            "sha256": "3ff3cfa5cec61ef62e66a478ded242d0ad3bb3540413ebe539b2036273301649",
+            "byteLength": 4272,
+            "attribute": "TexCoord1",
+            "sourceFormat": "Float32",
+            "dimension": 2,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          }
+        ]
+      }
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3864215582806911080-1912950625",
+      "name": "platform_07_roofTop 1",
+      "meshReference": {
+        "id": "GlobalObjectId_V1-1-f62f9bef004300d47a9448a379c85795-4684475678513340663-0",
+        "asset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_07_roofTop.FBX",
+        "type": "UnityEngine.Mesh"
+      },
+      "meshLocalFileIdSigned": "4684475678513340663",
+      "material": 19,
+      "materials": [
+        "GlobalObjectId_V1-3-1de9fd6ca94473448bc18108f592202d-2100000-0"
+      ],
+      "index": 0,
+      "scaleOffset": [
+        0.04667919,
+        0.04641836,
+        0.76600987,
+        0.44214946
+      ],
+      "descriptor": {
+        "url": "lightmaps/uv2-recovery/687ed32adc93205dc10c8837f5dbae1eb19d252d368270e30c8926fd130bb1ad.bin",
+        "sha256": "687ed32adc93205dc10c8837f5dbae1eb19d252d368270e30c8926fd130bb1ad",
+        "vertexCount": 594,
+        "strideFloats": 10,
+        "layout": "position3-normal3-uv0_2-uv2_2",
+        "coordinates": "unity-local-left-handed-y-up",
+        "submeshes": [
+          {
+            "submesh": 0,
+            "indexCount": 2019,
+            "url": "lightmaps/uv2-recovery/cff7443cf1a1b8ee55d78e66dc4d7624fa59c605394bcc9071e3fe1f86ac558d.bin",
+            "sha256": "cff7443cf1a1b8ee55d78e66dc4d7624fa59c605394bcc9071e3fe1f86ac558d"
+          }
+        ]
+      },
+      "corners": 2019,
+      "components": 20190,
+      "strictRotation": 1,
+      "precisionExceptionsConsumed": 0,
+      "signedZeroDifferences": 0,
+      "fullCornerStream": {
+        "path": "tests/fixtures/remaining-warm/3798569600010639575-corners.f32.bin",
+        "sha256": "9e62a4f13438d469663ee2249d1b648c6557e15378298ccf38b1de63d0350753",
+        "bytes": 80760
+      },
+      "metadataSha256": "5d4ddde1381db5612092a2c9da227cfaf8debf8ff262ca0889b70f2bdc2c9bed",
+      "nativeSourceRow": {
+        "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625",
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3864215582806911080-1912950625",
+        "name": "platform_07_roofTop 1",
+        "meshName": "platform_07_roofTop",
+        "meshAsset": "Assets/__RabbimanRemainingWarmProbe/508ab86e84164152a75193053ec7efa3/Platform_07_roofTop/Platform_07_roofTop.FBX",
+        "importerGenerateSecondaryUv": true,
+        "importerExtraUserProperties": [
+          "#BAKERY{\"meshName\":[\"platform_07_roofTop\"],\"padding\":[7],\"unwrapper\":[0]}"
+        ],
+        "vertexCount": 594,
+        "referencedVertices": 594,
+        "readoutPixels": 594,
+        "exactUv0Uv1PositionStMatches": true,
+        "gpuLayout": "uint32 vertexId; float32x4 UV0xy/UV1xy, localPositionxyz/vertexId, actualLightmapST, actualMarker; stride68",
+        "gpuUrl": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-gpu.bin",
+        "gpuSha256": "4aeb8a3a29b6ff843e2709e7cbb270206b84cf33ecdef59b3d405cf50832405b",
+        "cpuLayout": "float32 position3,normal3,uv0xy,uv1xy; stride40",
+        "cpuUrl": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-cpu.bin",
+        "cpuSha256": "687ed32adc93205dc10c8837f5dbae1eb19d252d368270e30c8926fd130bb1ad",
+        "streamsBefore": {
+          "additional": null,
+          "serializedAdditional": null,
+          "enlighten": null,
+          "serializedEnlighten": null,
+          "error": null,
+          "enlightenGetterAvailable": true,
+          "HasMesh": false
+        },
+        "streamsAfter": {
+          "additional": null,
+          "serializedAdditional": null,
+          "enlighten": null,
+          "serializedEnlighten": null,
+          "error": null,
+          "enlightenGetterAvailable": true,
+          "HasMesh": false
+        },
+        "isPartOfStaticBatch": false,
+        "receiveGI": "Lightmaps",
+        "st": [
+          0.04667919,
+          0.04641836,
+          0.766009867,
+          0.44214946
+        ],
+        "targetDepth": 32,
+        "scope": "All indexed source vertices. Unreferenced vertices intentionally do not draw. Diagnostic material is not an instrumented original source shader.",
+        "meshLocalFileId": "4684475678513340663",
+        "historicalColdVertexCount": 587,
+        "webTargetVertexCount": 594,
+        "sourceMeshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_07_roofTop.FBX",
+        "index": 0,
+        "submeshes": [
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-submesh0.bin",
+            "sha256": "cff7443cf1a1b8ee55d78e66dc4d7624fa59c605394bcc9071e3fe1f86ac558d",
+            "byteLength": 8076,
+            "submesh": 0,
+            "indexCount": 2019,
+            "topology": "Triangles",
+            "baseVertexApplied": true,
+            "rawBaseVertex": 0,
+            "rawIndices": {
+              "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-submesh0-raw.bin",
+              "sha256": "cff7443cf1a1b8ee55d78e66dc4d7624fa59c605394bcc9071e3fe1f86ac558d",
+              "byteLength": 8076
+            }
+          }
+        ],
+        "cpuAllAttributes": [
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-attribute-Position.bin",
+            "sha256": "fbd87303a5f525aba9f61ed40080ad74ca2ee31ba47055ea79153b1bd37049a5",
+            "byteLength": 7128,
+            "attribute": "Position",
+            "sourceFormat": "Float32",
+            "dimension": 3,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-attribute-Normal.bin",
+            "sha256": "a9eb4076ef1182feac5fae46c4cf87162ce5ae3cf36a14f0827fbbf2fbf63d0d",
+            "byteLength": 7128,
+            "attribute": "Normal",
+            "sourceFormat": "Float32",
+            "dimension": 3,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-attribute-Tangent.bin",
+            "sha256": "2552ae6fa4309b2cb055912deef748a9077f7a1d85fdd251ca2b8b934fb55f7d",
+            "byteLength": 9504,
+            "attribute": "Tangent",
+            "sourceFormat": "Float32",
+            "dimension": 4,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-attribute-Color.bin",
+            "sha256": "371851c1ae9175ddd0b42e831d0765e11b56be282f876ef9472da8f79d3c636b",
+            "byteLength": 9504,
+            "attribute": "Color",
+            "sourceFormat": "UNorm8",
+            "dimension": 4,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-attribute-TexCoord0.bin",
+            "sha256": "19b295386e7a1eb785d5683886f8e8498947a67dad514241b13828b62af524ae",
+            "byteLength": 4752,
+            "attribute": "TexCoord0",
+            "sourceFormat": "Float32",
+            "dimension": 2,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          },
+          {
+            "url": "lightmaps/remaining-warm-import-v1/repeat-same-settings-reimport/65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625-attribute-TexCoord1.bin",
+            "sha256": "4e817621ed15bf235d24b2ffc34ddbbe0ed71f1e647506bd651312febf2ac44b",
+            "byteLength": 4752,
+            "attribute": "TexCoord1",
+            "sourceFormat": "Float32",
+            "dimension": 2,
+            "sourceStream": 0,
+            "sourceStrideBytes": 60,
+            "encoding": "decoded float32 little-endian, vertex order, source dimension"
+          }
+        ]
+      }
+    }
+  ],
+  "corners": 3303,
+  "components": 33030,
+  "unchangedBindings": 501,
+  "unchangedBindingsSha256": "959906bbceb9f89df98509041e4dac6367a8fb7f804b6b36ea526a4fafb83a13"
+}

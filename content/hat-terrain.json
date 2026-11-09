@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "source": "Assets/(p)Prefabs/Yasha_prefabs/Hat.prefab",
+  "front": [
+    0.0,
+    0.0,
+    0.68
+  ],
+  "back": [
+    0.0,
+    0.0,
+    -0.68
+  ],
+  "left": [
+    0.6,
+    0.0,
+    0.0
+  ],
+  "right": [
+    -0.6,
+    0.0,
+    0.0
+  ]
+}

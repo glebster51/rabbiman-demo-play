@@ -1,0 +1,3682 @@
+{
+  "schemaVersion": 1,
+  "source": "Unity LevelsConfig",
+  "demoIds": [
+    "SecretRoom",
+    "TuBiShvatLevel1",
+    "TuBishvatLevel2",
+    "TuBishvatLevel3",
+    "TuBiShvatPuzzlesLevel2",
+    "TrialsLevel12"
+  ],
+  "hubId": "Hub",
+  "levels": [
+    {
+      "id": "SecretRoom",
+      "biome": "Tutorial",
+      "type": 0,
+      "demo": true,
+      "opensAfter": null,
+      "sourceScene": "Assets/(s)Scenes/SecretRoom/Level1/SecretRoom_Level1_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          18,
+          44,
+          70
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 88
+        },
+        {
+          "_currencyId": 1,
+          "_count": 2
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 3
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "Hub",
+      "biome": null,
+      "type": 4,
+      "demo": false,
+      "opensAfter": null,
+      "sourceScene": "Assets/(s)Scenes/Hub/Hub_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahLevel1",
+      "biome": "Hanukkah",
+      "type": 0,
+      "demo": false,
+      "opensAfter": null,
+      "sourceScene": "Assets/(s)Scenes/Hanukkah/Level1/Hanukkah_Level1_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          43,
+          108,
+          173
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 216
+        },
+        {
+          "_currencyId": 1,
+          "_count": 8
+        },
+        {
+          "_currencyId": 2,
+          "_count": 6
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahLevel2",
+      "biome": "Hanukkah",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "HanukkahLevel1",
+      "sourceScene": "Assets/(s)Scenes/Hanukkah/Level2/Hanukkah_Level2_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          59,
+          146,
+          234
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 293
+        },
+        {
+          "_currencyId": 1,
+          "_count": 9
+        },
+        {
+          "_currencyId": 2,
+          "_count": 5
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahLevel3",
+      "biome": "Hanukkah",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "HanukkahLevel2",
+      "sourceScene": "Assets/(s)Scenes/Hanukkah/Level3/Hanukkah_Level3_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          73,
+          182,
+          291
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 364
+        },
+        {
+          "_currencyId": 1,
+          "_count": 7
+        },
+        {
+          "_currencyId": 2,
+          "_count": 4
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahLevel4",
+      "biome": "Hanukkah",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "HanukkahLevel3",
+      "sourceScene": "Assets/(s)Scenes/Hanukkah/Level4/Hanukkah_Level4_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          43,
+          108,
+          172
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 215
+        },
+        {
+          "_currencyId": 1,
+          "_count": 8
+        },
+        {
+          "_currencyId": 2,
+          "_count": 2
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahLevel5",
+      "biome": "Hanukkah",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "HanukkahLevel4",
+      "sourceScene": "Assets/(s)Scenes/Hanukkah/Level5/Hanukkah_Level5_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          49,
+          122,
+          194
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 243
+        },
+        {
+          "_currencyId": 1,
+          "_count": 8
+        },
+        {
+          "_currencyId": 2,
+          "_count": 5
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 1
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "MetricsDesign",
+      "biome": null,
+      "type": 4,
+      "demo": false,
+      "opensAfter": null,
+      "sourceScene": "Assets/(s)Scenes/Test/MetricsDesign_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          6,
+          16,
+          26
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 32
+        },
+        {
+          "_currencyId": 1,
+          "_count": 2
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 10
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel1",
+      "biome": "Hanukkah",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "HanukkahLevel1",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level1/Trials_Level1_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          80,
+          50,
+          30
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 1
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel2",
+      "biome": "Hanukkah",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "HanukkahLevel4",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level2/Trials_Level2_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          95,
+          75,
+          55
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 1
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel3",
+      "biome": "TuBiShvat",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "TuBishvatLevel4",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level3/Trials_Level3_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          110,
+          80,
+          50
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 1
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel4",
+      "biome": "TuBiShvat",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "TuBishvatLevel6",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level4/Trials_Level4_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          105,
+          75,
+          45
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 1
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel5",
+      "biome": "Hanukkah",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "HanukkahLevel2",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level5/Trials_Level5_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          2,
+          6,
+          10
+        ],
+        "timeThresholds": [
+          70,
+          45,
+          25
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 12
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 2
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahLevel6",
+      "biome": "Hanukkah",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "HanukkahLevel5",
+      "sourceScene": "Assets/(s)Scenes/Hanukkah/Level6/Hanukkah_Level6_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          8,
+          19,
+          30
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 38
+        },
+        {
+          "_currencyId": 1,
+          "_count": 2
+        },
+        {
+          "_currencyId": 2,
+          "_count": 1
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBiShvatLevel1",
+      "biome": "TuBiShvat",
+      "type": 0,
+      "demo": true,
+      "opensAfter": null,
+      "sourceScene": "Assets/(s)Scenes/TuBiShvat/Level1/TuBishvat_Level1_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          44,
+          110,
+          175
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 219
+        },
+        {
+          "_currencyId": 1,
+          "_count": 5
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 3
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel8",
+      "biome": "SecretRoom",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel4",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level8/Trials_Level8_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          80,
+          60,
+          40
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 2
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "SecretRoomLevel4",
+      "biome": "SecretRoom",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel3",
+      "sourceScene": "Assets/(s)Scenes/SecretRoom/Level4/SecretRoom_Level4_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          48,
+          120,
+          192
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 240
+        },
+        {
+          "_currencyId": 1,
+          "_count": 5
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 4
+        },
+        {
+          "_currencyId": 5,
+          "_count": 3
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 1
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel6",
+      "biome": "SecretRoom",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel5",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level6/Trials_Level6_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          90,
+          70,
+          50
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 3
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "SecretRoomLevel5",
+      "biome": "SecretRoom",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel4",
+      "sourceScene": "Assets/(s)Scenes/SecretRoom/Level5/SecretRoom_Level5_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          63,
+          157,
+          251
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 314
+        },
+        {
+          "_currencyId": 1,
+          "_count": 6
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 5
+        },
+        {
+          "_currencyId": 5,
+          "_count": 4
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel7",
+      "biome": "SecretRoom",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel3",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level7/Trials_Level7_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          80,
+          60,
+          40
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 1
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel9",
+      "biome": "SecretRoom",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel2",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level9/Trials_Level9_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          95,
+          75,
+          50
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 1
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel10",
+      "biome": "SecretRoom",
+      "type": 1,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel2",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level10/Trials_Level10_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          100,
+          80,
+          60
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 3
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "SecretRoomLevel2",
+      "biome": "SecretRoom",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "SecretRoom",
+      "sourceScene": "Assets/(s)Scenes/SecretRoom/Level2/SecretRoom_Level2_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          85,
+          212,
+          338
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 423
+        },
+        {
+          "_currencyId": 1,
+          "_count": 7
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 5
+        },
+        {
+          "_currencyId": 5,
+          "_count": 5
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 1
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "SecretRoomLevel3",
+      "biome": "SecretRoom",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel2",
+      "sourceScene": "Assets/(s)Scenes/SecretRoom/Level3/SecretRoom_Level3_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          64,
+          160,
+          255
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 319
+        },
+        {
+          "_currencyId": 1,
+          "_count": 5
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 5
+        },
+        {
+          "_currencyId": 5,
+          "_count": 4
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 1
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBishvatLevel2",
+      "biome": "TuBiShvat",
+      "type": 0,
+      "demo": true,
+      "opensAfter": "TuBiShvatLevel1",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvat/Level2/TuBishvat_Level2_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          37,
+          92,
+          146
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": {
+        "_rewardType": 1,
+        "_currencyId": 0,
+        "_collectionId": "danya",
+        "_count": 0,
+        "_hatType": 0,
+        "_glassesType": 0
+      },
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 183
+        },
+        {
+          "_currencyId": 1,
+          "_count": 4
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 3
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBishvatLevel3",
+      "biome": "TuBiShvat",
+      "type": 0,
+      "demo": true,
+      "opensAfter": "TuBishvatLevel2",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvat/Level3/TuBishvat_Level3_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          49,
+          124,
+          198
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": {
+        "_rewardType": 1,
+        "_currencyId": 0,
+        "_collectionId": "dina",
+        "_count": 0,
+        "_hatType": 0,
+        "_glassesType": 0
+      },
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 247
+        },
+        {
+          "_currencyId": 1,
+          "_count": 5
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 3
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBishvatLevel4",
+      "biome": "TuBiShvat",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "TuBishvatLevel3",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvat/Level4/TuBishvat_Level4_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          64,
+          160,
+          255
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 319
+        },
+        {
+          "_currencyId": 1,
+          "_count": 7
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 4
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBishvatLevel5",
+      "biome": "TuBiShvat",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "TuBishvatLevel6",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvat/Level5/TuBishvat_Level5_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          65,
+          162,
+          260
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 325
+        },
+        {
+          "_currencyId": 1,
+          "_count": 4
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 4
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBishvatLevel6",
+      "biome": "TuBiShvat",
+      "type": 0,
+      "demo": false,
+      "opensAfter": "TuBishvatLevel4",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvat/Level6/TuBishvat_Level6_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          51,
+          128,
+          204
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 255
+        },
+        {
+          "_currencyId": 1,
+          "_count": 3
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 4
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "SecretRoomPuzzleLevel2",
+      "biome": "SecretRoom",
+      "type": 2,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel4",
+      "sourceScene": "Assets/(s)Scenes/SecretRoomPuzzles/SecretRoomPuzzles_Level2_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBiShvatPuzzlesLevel1",
+      "biome": "TuBiShvat",
+      "type": 2,
+      "demo": false,
+      "opensAfter": "TuBishvatLevel4",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvatPuzzles/TuBiShvatPuzzles_Level1_Start/TuBiShvatPuzzles_Level1_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 5,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBiShvatPuzzlesLevel2",
+      "biome": "TuBiShvat",
+      "type": 2,
+      "demo": true,
+      "opensAfter": "TuBishvatLevel2",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvatPuzzles/TuBiShvatPuzzles_Level2_Start/TuBiShvatPuzzles_Level2_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 6,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahPuzzlesLevel1",
+      "biome": "Hanukkah",
+      "type": 2,
+      "demo": false,
+      "opensAfter": "HanukkahLevel5",
+      "sourceScene": "Assets/(s)Scenes/HanukkahPuzzles/HanukkahPuzzles_Level1_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 2,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "SecretRoomPuzzleLevel3",
+      "biome": "SecretRoom",
+      "type": 2,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel5",
+      "sourceScene": "Assets/(s)Scenes/SecretRoomPuzzles/SecretRoomPuzzles_Level3_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 1,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahPuzzlesLevel2",
+      "biome": "Hanukkah",
+      "type": 2,
+      "demo": false,
+      "opensAfter": "HanukkahLevel1",
+      "sourceScene": "Assets/(s)Scenes/HanukkahPuzzles/HanukkahPuzzles_Level2_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 3,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "HanukkahPuzzlesLevel3",
+      "biome": "Hanukkah",
+      "type": 2,
+      "demo": false,
+      "opensAfter": "HanukkahLevel3",
+      "sourceScene": "Assets/(s)Scenes/HanukkahPuzzles/HanukkahPuzzles_Level3_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 4,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TuBiShvatPuzzlesLevel3",
+      "biome": "TuBiShvat",
+      "type": 2,
+      "demo": false,
+      "opensAfter": "TuBishvatLevel3",
+      "sourceScene": "Assets/(s)Scenes/TuBiShvatPuzzles/TuBiShvatPuzzles_Level3_Start/TuBiShvatPuzzles_Level3_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": {
+        "_rewardType": 0,
+        "_currencyId": 0,
+        "_collectionId": null,
+        "_count": 0,
+        "_hatType": 0,
+        "_glassesType": 0
+      },
+      "puzzleIndex": 7,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TrialsLevel12",
+      "biome": "TuBiShvat",
+      "type": 1,
+      "demo": true,
+      "opensAfter": "TuBishvatLevel3",
+      "sourceScene": "Assets/(s)Scenes/Trials/Level12/Trials_Level12_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          80,
+          60,
+          50
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 8,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 1
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "SecretRoomPuzzleLevel1",
+      "biome": "SecretRoom",
+      "type": 2,
+      "demo": false,
+      "opensAfter": "SecretRoomLevel3",
+      "sourceScene": "Assets/(s)Scenes/SecretRoomPuzzles/SecretRoomPuzzles_Level1_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": null,
+      "puzzleIndex": 8,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 1
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TutorialLevel1",
+      "biome": "Tutorial",
+      "type": 3,
+      "demo": false,
+      "opensAfter": "TutorialLevel2",
+      "sourceScene": "Assets/(s)Scenes/Tutorials/Tutorial_Level1_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": {
+        "_rewardType": 0,
+        "_currencyId": 0,
+        "_collectionId": null,
+        "_count": 5,
+        "_hatType": 0,
+        "_glassesType": 0
+      },
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TutorialLevel2",
+      "biome": "Tutorial",
+      "type": 3,
+      "demo": false,
+      "opensAfter": "TutorialLevel1",
+      "sourceScene": "Assets/(s)Scenes/Tutorials/Tutorial_Level2_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": {
+        "_rewardType": 0,
+        "_currencyId": 0,
+        "_collectionId": null,
+        "_count": 5,
+        "_hatType": 0,
+        "_glassesType": 0
+      },
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "id": "TutorialLevel3",
+      "biome": "Tutorial",
+      "type": 3,
+      "demo": false,
+      "opensAfter": "TutorialLevel2",
+      "sourceScene": "Assets/(s)Scenes/Tutorials/Tutorial_Level3_Start.unity",
+      "stars": {
+        "sparkThresholds": [
+          0,
+          0,
+          0
+        ],
+        "timeThresholds": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reward": {
+        "_rewardType": 0,
+        "_currencyId": 0,
+        "_collectionId": null,
+        "_count": 5,
+        "_hatType": 0,
+        "_glassesType": 0
+      },
+      "puzzleIndex": 0,
+      "collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 0
+        },
+        {
+          "_currencyId": 1,
+          "_count": 0
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    }
+  ],
+  "biomes": [
+    {
+      "_id": "Tutorial",
+      "_sprite": {
+        "fileID": 21300000,
+        "guid": "0fbd89ed8efe01043abb82132d08c140",
+        "type": 3
+      },
+      "_hasMap": 0,
+      "_mapSprite": {
+        "fileID": 0
+      },
+      "_achievementsSprite": {
+        "fileID": 21300000,
+        "guid": "4637cd3edb6e1c944b78a0e2212d3873",
+        "type": 3
+      },
+      "_newBiomeSprite": {
+        "fileID": 0
+      },
+      "_starRewards": [],
+      "_biomeCollectableId": 5,
+      "_levelIds": [
+        "SecretRoom",
+        "TutorialLevel1",
+        "TutorialLevel2",
+        "TutorialLevel3"
+      ],
+      "_collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 88
+        },
+        {
+          "_currencyId": 1,
+          "_count": 2
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 0
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 3
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 0
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "_id": "TuBiShvat",
+      "_sprite": {
+        "fileID": 21300000,
+        "guid": "55307c7b913951e4496018810d347628",
+        "type": 3
+      },
+      "_hasMap": 1,
+      "_mapSprite": {
+        "fileID": 21300000,
+        "guid": "e5f3817d7cbe13c41ae8dae4a18b275c",
+        "type": 3
+      },
+      "_achievementsSprite": {
+        "fileID": 21300000,
+        "guid": "6fff11f680d6ba64081cd14288770a7d",
+        "type": 3
+      },
+      "_newBiomeSprite": {
+        "fileID": 21300000,
+        "guid": "6fff11f680d6ba64081cd14288770a7d",
+        "type": 3
+      },
+      "_starRewards": [
+        {
+          "_starsCount": 3,
+          "_gemsCount": 3
+        },
+        {
+          "_starsCount": 6,
+          "_gemsCount": 3
+        },
+        {
+          "_starsCount": 9,
+          "_gemsCount": 5
+        },
+        {
+          "_starsCount": 12,
+          "_gemsCount": 6
+        },
+        {
+          "_starsCount": 15,
+          "_gemsCount": 7
+        },
+        {
+          "_starsCount": 18,
+          "_gemsCount": 10
+        }
+      ],
+      "_biomeCollectableId": 6,
+      "_levelIds": [
+        "TrialsLevel3",
+        "TrialsLevel4",
+        "TuBiShvatLevel1",
+        "TuBishvatLevel2",
+        "TuBishvatLevel3",
+        "TuBishvatLevel4",
+        "TuBishvatLevel5",
+        "TuBishvatLevel6",
+        "TuBiShvatPuzzlesLevel1",
+        "TuBiShvatPuzzlesLevel2",
+        "TuBiShvatPuzzlesLevel3",
+        "TrialsLevel12"
+      ],
+      "_collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 1548
+        },
+        {
+          "_currencyId": 1,
+          "_count": 28
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 3
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 21
+        },
+        {
+          "_currencyId": 7,
+          "_count": 3
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "_id": "Hanukkah",
+      "_sprite": {
+        "fileID": 21300000,
+        "guid": "d556aef5b1285fa4982e2ed3e2ce393f",
+        "type": 3
+      },
+      "_hasMap": 1,
+      "_mapSprite": {
+        "fileID": 21300000,
+        "guid": "ba424f4d35f83af4e9f8c556cfa20382",
+        "type": 3
+      },
+      "_achievementsSprite": {
+        "fileID": 21300000,
+        "guid": "c64763da1a442d742a0f1a29d666feef",
+        "type": 3
+      },
+      "_newBiomeSprite": {
+        "fileID": 21300000,
+        "guid": "c64763da1a442d742a0f1a29d666feef",
+        "type": 3
+      },
+      "_starRewards": [
+        {
+          "_starsCount": 3,
+          "_gemsCount": 3
+        },
+        {
+          "_starsCount": 6,
+          "_gemsCount": 5
+        },
+        {
+          "_starsCount": 9,
+          "_gemsCount": 5
+        },
+        {
+          "_starsCount": 12,
+          "_gemsCount": 7
+        },
+        {
+          "_starsCount": 15,
+          "_gemsCount": 8
+        },
+        {
+          "_starsCount": 18,
+          "_gemsCount": 10
+        }
+      ],
+      "_biomeCollectableId": 2,
+      "_levelIds": [
+        "HanukkahLevel1",
+        "HanukkahLevel2",
+        "HanukkahLevel3",
+        "HanukkahLevel4",
+        "HanukkahLevel5",
+        "TrialsLevel1",
+        "TrialsLevel2",
+        "TrialsLevel5",
+        "HanukkahLevel6",
+        "HanukkahPuzzlesLevel1",
+        "HanukkahPuzzlesLevel2",
+        "HanukkahPuzzlesLevel3"
+      ],
+      "_collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 1381
+        },
+        {
+          "_currencyId": 1,
+          "_count": 42
+        },
+        {
+          "_currencyId": 2,
+          "_count": 23
+        },
+        {
+          "_currencyId": 3,
+          "_count": 4
+        },
+        {
+          "_currencyId": 4,
+          "_count": 0
+        },
+        {
+          "_currencyId": 5,
+          "_count": 0
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 3
+        },
+        {
+          "_currencyId": 8,
+          "_count": 1
+        },
+        {
+          "_currencyId": 9,
+          "_count": 0
+        },
+        {
+          "_currencyId": 10,
+          "_count": 0
+        },
+        {
+          "_currencyId": 11,
+          "_count": 0
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    },
+    {
+      "_id": "SecretRoom",
+      "_sprite": {
+        "fileID": 21300000,
+        "guid": "412ff4aa47b0a7744aa4c508ab408d43",
+        "type": 3
+      },
+      "_hasMap": 1,
+      "_mapSprite": {
+        "fileID": 21300000,
+        "guid": "1950a0b6f3d787d44a4058d6cf31a0d4",
+        "type": 3
+      },
+      "_achievementsSprite": {
+        "fileID": 21300000,
+        "guid": "55dd71a2ee7c8ff498ab3c41abcd7308",
+        "type": 3
+      },
+      "_newBiomeSprite": {
+        "fileID": 21300000,
+        "guid": "55dd71a2ee7c8ff498ab3c41abcd7308",
+        "type": 3
+      },
+      "_starRewards": [
+        {
+          "_starsCount": 3,
+          "_gemsCount": 3
+        },
+        {
+          "_starsCount": 6,
+          "_gemsCount": 9
+        },
+        {
+          "_starsCount": 9,
+          "_gemsCount": 15
+        },
+        {
+          "_starsCount": 12,
+          "_gemsCount": 18
+        }
+      ],
+      "_biomeCollectableId": 4,
+      "_levelIds": [
+        "TrialsLevel8",
+        "SecretRoomLevel4",
+        "TrialsLevel6",
+        "SecretRoomLevel5",
+        "TrialsLevel7",
+        "TrialsLevel9",
+        "TrialsLevel10",
+        "SecretRoomLevel2",
+        "SecretRoomLevel3",
+        "SecretRoomPuzzleLevel2",
+        "SecretRoomPuzzleLevel3",
+        "SecretRoomPuzzleLevel1"
+      ],
+      "_collectables": [
+        {
+          "_currencyId": 0,
+          "_count": 1296
+        },
+        {
+          "_currencyId": 1,
+          "_count": 23
+        },
+        {
+          "_currencyId": 2,
+          "_count": 0
+        },
+        {
+          "_currencyId": 3,
+          "_count": 10
+        },
+        {
+          "_currencyId": 4,
+          "_count": 19
+        },
+        {
+          "_currencyId": 5,
+          "_count": 16
+        },
+        {
+          "_currencyId": 6,
+          "_count": 0
+        },
+        {
+          "_currencyId": 7,
+          "_count": 3
+        },
+        {
+          "_currencyId": 8,
+          "_count": 0
+        },
+        {
+          "_currencyId": 9,
+          "_count": 1
+        },
+        {
+          "_currencyId": 10,
+          "_count": 1
+        },
+        {
+          "_currencyId": 11,
+          "_count": 1
+        },
+        {
+          "_currencyId": 12,
+          "_count": 0
+        }
+      ]
+    }
+  ]
+}

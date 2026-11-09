@@ -1,0 +1,643 @@
+{
+  "schemaVersion": 1,
+  "materials": {
+    "GlobalObjectId_V1-3-370e06ce771b21745a2ffcaf861c3e06-2100000-0": {
+      "name": "RobotPAck_D Hit",
+      "shader": "Standard",
+      "renderQueue": 2000,
+      "keywords": [
+        "_EMISSION"
+      ],
+      "properties": {
+        "_Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_MainTex": {
+          "texture": "textures/3a4cea547503e2e4b9c4a8c4001c56a1.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Cutoff": 0.5,
+        "_Glossiness": 0.0,
+        "_GlossMapScale": 1.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_Metallic": 0.0,
+        "_MetallicGlossMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_SpecularHighlights": 1.0,
+        "_GlossyReflections": 1.0,
+        "_BumpScale": 1.0,
+        "_BumpMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Parallax": 0.02,
+        "_ParallaxMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OcclusionStrength": 1.0,
+        "_OcclusionMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_EmissionColor": [
+          3.02677655,
+          3.02677655,
+          3.02677655,
+          1.0
+        ],
+        "_EmissionMap": {
+          "texture": "textures/3a4cea547503e2e4b9c4a8c4001c56a1.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailMask": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailAlbedoMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_UVSec": 0.0,
+        "_Mode": 0.0,
+        "_SrcBlend": 1.0,
+        "_DstBlend": 0.0,
+        "_ZWrite": 1.0
+      },
+      "status": "pending"
+    },
+    "GlobalObjectId_V1-3-82b5a9525fcc5c640aef7e9d2c521d0c-2100000-0": {
+      "name": "achivment_book_01_Hit",
+      "shader": "Standard",
+      "renderQueue": 2000,
+      "keywords": [
+        "_EMISSION"
+      ],
+      "properties": {
+        "_Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_MainTex": {
+          "texture": "textures/62661806e9bcd204b9733a6bd20ab86e.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Cutoff": 0.5,
+        "_Glossiness": 0.0,
+        "_GlossMapScale": 1.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_Metallic": 0.0,
+        "_MetallicGlossMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_SpecularHighlights": 1.0,
+        "_GlossyReflections": 1.0,
+        "_BumpScale": 1.0,
+        "_BumpMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Parallax": 0.02,
+        "_ParallaxMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OcclusionStrength": 1.0,
+        "_OcclusionMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_EmissionColor": [
+          3.90117812,
+          3.90117812,
+          3.90117812,
+          1.0
+        ],
+        "_EmissionMap": {
+          "texture": "textures/62661806e9bcd204b9733a6bd20ab86e.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailMask": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailAlbedoMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_UVSec": 0.0,
+        "_Mode": 0.0,
+        "_SrcBlend": 1.0,
+        "_DstBlend": 0.0,
+        "_ZWrite": 1.0
+      },
+      "status": "pending"
+    },
+    "GlobalObjectId_V1-3-35686d2466dbc4b42ab0bf8d6f987c63-2100000-0": {
+      "name": "portal_01_Hit",
+      "shader": "Standard",
+      "renderQueue": 2000,
+      "keywords": [
+        "_EMISSION"
+      ],
+      "properties": {
+        "_Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_MainTex": {
+          "texture": "textures/695f8256f351728469d14c5aac453ae2.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Cutoff": 0.5,
+        "_Glossiness": 0.0,
+        "_GlossMapScale": 1.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_Metallic": 0.0,
+        "_MetallicGlossMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_SpecularHighlights": 1.0,
+        "_GlossyReflections": 1.0,
+        "_BumpScale": 1.0,
+        "_BumpMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Parallax": 0.02,
+        "_ParallaxMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OcclusionStrength": 1.0,
+        "_OcclusionMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_EmissionColor": [
+          2.0,
+          2.0,
+          2.0,
+          1.0
+        ],
+        "_EmissionMap": {
+          "texture": "textures/695f8256f351728469d14c5aac453ae2.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailMask": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailAlbedoMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_UVSec": 0.0,
+        "_Mode": 0.0,
+        "_SrcBlend": 1.0,
+        "_DstBlend": 0.0,
+        "_ZWrite": 1.0
+      },
+      "status": "pending"
+    },
+    "GlobalObjectId_V1-3-80060b17be72e6048a4085d644e8f680-2100000-0": {
+      "name": "Dreidel_Base_Hit",
+      "shader": "Standard",
+      "renderQueue": 2000,
+      "keywords": [
+        "_EMISSION"
+      ],
+      "properties": {
+        "_Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_MainTex": {
+          "texture": "textures/82071489247f2f34f9cf28b37b6b7d83.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Cutoff": 0.5,
+        "_Glossiness": 0.1,
+        "_GlossMapScale": 1.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_Metallic": 0.0,
+        "_MetallicGlossMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_SpecularHighlights": 1.0,
+        "_GlossyReflections": 1.0,
+        "_BumpScale": 1.0,
+        "_BumpMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Parallax": 0.02,
+        "_ParallaxMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OcclusionStrength": 1.0,
+        "_OcclusionMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_EmissionColor": [
+          4.0,
+          4.0,
+          4.0,
+          1.0
+        ],
+        "_EmissionMap": {
+          "texture": "textures/82071489247f2f34f9cf28b37b6b7d83.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailMask": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailAlbedoMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalMap": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_UVSec": 0.0,
+        "_Mode": 0.0,
+        "_SrcBlend": 1.0,
+        "_DstBlend": 0.0,
+        "_ZWrite": 1.0
+      },
+      "status": "pending"
+    },
+    "GlobalObjectId_V1-3-0a1ea6a7f0b742f4dbdd966485bc0a75-2100000-0": {
+      "name": "SecretRoom_box_little_Hit",
+      "shader": "FX/HitShader",
+      "renderQueue": 2000,
+      "keywords": [],
+      "properties": {
+        "_MainTex": {
+          "texture": "textures/feec82cff08a40541a517d6c1e654b28.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Color0": [
+          0.813011765,
+          0.8181362,
+          0.8490566,
+          1.0
+        ],
+        "_Color1": [
+          2.670157,
+          0.4392452,
+          0.415637672,
+          0.403921574
+        ],
+        "_texcoord": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "status": "pending"
+    },
+    "GlobalObjectId_V1-3-1c9bf6901a495cd44933c426f61b3319-2100000-0": {
+      "name": "BoxLittle_Hanukkah_Hit",
+      "shader": "FX/HitShader",
+      "renderQueue": 2000,
+      "keywords": [],
+      "properties": {
+        "_MainTex": {
+          "texture": "textures/4379e8e5af3cd0b49a589a32ee237ff1.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Color0": [
+          0.813011765,
+          0.8181362,
+          0.8490566,
+          1.0
+        ],
+        "_Color1": [
+          2.670157,
+          0.4392452,
+          0.415637672,
+          0.403921574
+        ],
+        "_texcoord": {
+          "texture": null,
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "status": "pending"
+    }
+  }
+}

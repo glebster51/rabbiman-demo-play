@@ -1,0 +1,723 @@
+{
+  "schemaVersion": 1,
+  "switchClip": {
+    "duration": 0.33333334,
+    "tracks": [
+      {
+        "path": "swipe_02/Hand",
+        "property": "rotation",
+        "axes": [
+          [
+            {
+              "time": 0,
+              "value": 60,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.33333334,
+              "value": -60,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ],
+          [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.33333334,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ],
+          [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.33333334,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        ]
+      },
+      {
+        "path": "swipe_02",
+        "property": "scale",
+        "axes": [
+          [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.083333336,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ],
+          [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.083333336,
+              "value": 1.1726451,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ],
+          [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.083333336,
+              "value": 0.92506,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "ui": {
+    "InteractionButtonHover_Hud.png": "ui/InteractionButtonHover_Hud.png",
+    "InteractionButtonPressed_Hud.png": "ui/InteractionButtonPressed_Hud.png",
+    "InteractionButtonShineOutline_Hud.png": "ui/InteractionButtonShineOutline_Hud.png",
+    "InteractionButtonShine_Hud.png": "ui/InteractionButtonShine_Hud.png",
+    "InteractionButton_Hud.png": "ui/InteractionButton_Hud.png"
+  },
+  "source": "Assets/(a)Animations/Trigger_Animation/SecretRoom_Trigger_var1_OpenAnim.anim",
+  "switchClips": {
+    "Assets/(a)Animations/Trigger_Animation/SecretRoom_Trigger_var1.overrideController": {
+      "duration": 0.33333334,
+      "tracks": [
+        {
+          "path": "swipe_02/Hand",
+          "property": "rotation",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 60,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": -60,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "swipe_02",
+          "property": "scale",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 1.1726451,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 0.92506,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "Assets/(a)Animations/Trigger_Animation/SecretRoom_Trigger_var2.overrideController": {
+      "duration": 0.33333334,
+      "tracks": [
+        {
+          "path": "swipe_01/Hand",
+          "property": "rotation",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 63.86,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "swipe_01",
+          "property": "scale",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 0.91161,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 1.0086054,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 0.91161,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "Assets/(a)Animations/Trigger_Animation/SecretRoom_Trigger_var3.overrideController": {
+      "duration": 0.33333334,
+      "tracks": [
+        {
+          "path": "swipe_03/Hand",
+          "property": "rotation",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 86.923,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 0,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 90,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 90,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        },
+        {
+          "path": "swipe_03",
+          "property": "scale",
+          "axes": [
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 0.93813,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 1.1653451,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            [
+              {
+                "time": 0,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.083333336,
+                "value": 0.93813,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.16666667,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.33333334,
+                "value": 1,
+                "inTangent": 0,
+                "outTangent": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

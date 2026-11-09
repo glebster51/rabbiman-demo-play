@@ -1,0 +1,1792 @@
+{
+  "schemaVersion": 1,
+  "timelines": {
+    "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable": {
+      "tracks": [
+        {
+          "id": "17342079206793232898",
+          "clips": [
+            {
+              "guid": "586b8d1d7482e4b4aa1efb0403b43655",
+              "start": 0,
+              "duration": 5,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "1665919077556558781",
+          "clips": [
+            {
+              "guid": "00545371d72a43e499e9a86882715f04",
+              "start": 0,
+              "duration": 5,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2121876469681364312",
+          "clips": [
+            {
+              "guid": "586b8d1d7482e4b4aa1efb0403b43655",
+              "start": 0,
+              "duration": 5,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2566289281583982598",
+          "clips": [
+            {
+              "guid": "586b8d1d7482e4b4aa1efb0403b43655",
+              "start": 0,
+              "duration": 5,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "5649071957677891080",
+          "clips": [
+            {
+              "guid": "586b8d1d7482e4b4aa1efb0403b43655",
+              "start": 0,
+              "duration": 5,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "6914127482826411665",
+          "clips": [
+            {
+              "guid": "586b8d1d7482e4b4aa1efb0403b43655",
+              "start": 0,
+              "duration": 5,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "9219561618610887280",
+          "clips": [
+            {
+              "guid": "586b8d1d7482e4b4aa1efb0403b43655",
+              "start": 0,
+              "duration": 5,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        }
+      ],
+      "duration": 5
+    },
+    "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable": {
+      "tracks": [
+        {
+          "id": "17342079206793232898",
+          "clips": [
+            {
+              "guid": "d53ff8e219fa3d044a401d9b3a041548",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "1665919077556558781",
+          "clips": [
+            {
+              "guid": "6a8f9b13f24e5be4493e60d700ae4c89",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2121876469681364312",
+          "clips": [
+            {
+              "guid": "d53ff8e219fa3d044a401d9b3a041548",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2566289281583982598",
+          "clips": [
+            {
+              "guid": "d53ff8e219fa3d044a401d9b3a041548",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "5649071957677891080",
+          "clips": [
+            {
+              "guid": "d53ff8e219fa3d044a401d9b3a041548",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "6914127482826411665",
+          "clips": [
+            {
+              "guid": "d53ff8e219fa3d044a401d9b3a041548",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "9219561618610887280",
+          "clips": [
+            {
+              "guid": "d53ff8e219fa3d044a401d9b3a041548",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        }
+      ],
+      "duration": 1.5166666666666666
+    },
+    "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable": {
+      "tracks": [
+        {
+          "id": "17342079206793232898",
+          "clips": [
+            {
+              "guid": "e4dd7640b52013b43a3d929b14538a0e",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "1665919077556558781",
+          "clips": [
+            {
+              "guid": "67c6fbdd9a5f66c42b1c4450b8416852",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2121876469681364312",
+          "clips": [
+            {
+              "guid": "e4dd7640b52013b43a3d929b14538a0e",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2566289281583982598",
+          "clips": [
+            {
+              "guid": "e4dd7640b52013b43a3d929b14538a0e",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "5649071957677891080",
+          "clips": [
+            {
+              "guid": "e4dd7640b52013b43a3d929b14538a0e",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "6914127482826411665",
+          "clips": [
+            {
+              "guid": "e4dd7640b52013b43a3d929b14538a0e",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "9219561618610887280",
+          "clips": [
+            {
+              "guid": "e4dd7640b52013b43a3d929b14538a0e",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        }
+      ],
+      "duration": 1.5166666666666666
+    },
+    "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable": {
+      "tracks": [
+        {
+          "id": "17342079206793232898",
+          "clips": [
+            {
+              "guid": "6e53c49ffe8c1104788e1620ad59e8ec",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "1665919077556558781",
+          "clips": [
+            {
+              "guid": "37c25f15f72d2d047b243c407e2fd04d",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2121876469681364312",
+          "clips": [
+            {
+              "guid": "6e53c49ffe8c1104788e1620ad59e8ec",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2566289281583982598",
+          "clips": [
+            {
+              "guid": "6e53c49ffe8c1104788e1620ad59e8ec",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "5649071957677891080",
+          "clips": [
+            {
+              "guid": "6e53c49ffe8c1104788e1620ad59e8ec",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "6914127482826411665",
+          "clips": [
+            {
+              "guid": "6e53c49ffe8c1104788e1620ad59e8ec",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "9219561618610887280",
+          "clips": [
+            {
+              "guid": "6e53c49ffe8c1104788e1620ad59e8ec",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        }
+      ],
+      "duration": 1.5166666666666666
+    },
+    "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable": {
+      "tracks": [
+        {
+          "id": "17342079206793232898",
+          "clips": [
+            {
+              "guid": "bc8bab1d145b0394e84b45994e4d7a76",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "1665919077556558781",
+          "clips": [
+            {
+              "guid": "b1f19df9a9a30044cab90c22a2839852",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2121876469681364312",
+          "clips": [
+            {
+              "guid": "bc8bab1d145b0394e84b45994e4d7a76",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "2566289281583982598",
+          "clips": [
+            {
+              "guid": "bc8bab1d145b0394e84b45994e4d7a76",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "5649071957677891080",
+          "clips": [
+            {
+              "guid": "bc8bab1d145b0394e84b45994e4d7a76",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "6914127482826411665",
+          "clips": [
+            {
+              "guid": "bc8bab1d145b0394e84b45994e4d7a76",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        },
+        {
+          "id": "9219561618610887280",
+          "clips": [
+            {
+              "guid": "bc8bab1d145b0394e84b45994e4d7a76",
+              "start": 0,
+              "duration": 1.5166666666666666,
+              "clipIn": 0,
+              "speed": 1
+            }
+          ]
+        }
+      ],
+      "duration": 1.5166666666666666
+    }
+  },
+  "levels": {
+    "SecretRoom": [
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1219405699121929402-2124787268",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138339818234562-2124787268",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341019985588-2124787268",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138340071517044-2124787268",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341234751836-2124787268",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341298127258-2124787268",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341040371759-2124787268",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341245054282-2124787268"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3589185981008973466-2124787268",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138339818234562-2124787268",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341019985588-2124787268",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138340071517044-2124787268",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341234751836-2124787268",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341298127258-2124787268",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341040371759-2124787268",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341245054282-2124787268"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-169244836239486802-2124787268"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-169244836239486802-2124787268",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138339818234562-2124787268",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341019985588-2124787268",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138340071517044-2124787268",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341234751836-2124787268",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341298127258-2124787268",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341040371759-2124787268",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341245054282-2124787268"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5423866539428545215-2124787268",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138339818234562-2124787268",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341019985588-2124787268",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138340071517044-2124787268",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341234751836-2124787268",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341298127258-2124787268",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341040371759-2124787268",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341245054282-2124787268"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4762858348522541709-2124787268",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138339818234562-2124787268",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341019985588-2124787268",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138340071517044-2124787268",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341234751836-2124787268",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341298127258-2124787268",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341040371759-2124787268",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5463138341245054282-2124787268"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-169244836239486802-2124787268"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4731605759339507395-1457089841",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447446188219-1457089841",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448400508109-1457089841",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447200381197-1457089841",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448179059493-1457089841",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448120792035-1457089841",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448236337750-1457089841",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448168365875-1457089841"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6956197724655615203-1457089841",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447446188219-1457089841",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448400508109-1457089841",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447200381197-1457089841",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448179059493-1457089841",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448120792035-1457089841",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448236337750-1457089841",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448168365875-1457089841"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5989644651974352171-1457089841"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5989644651974352171-1457089841",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447446188219-1457089841",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448400508109-1457089841",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447200381197-1457089841",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448179059493-1457089841",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448120792035-1457089841",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448236337750-1457089841",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448168365875-1457089841"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1874421837046509766-1457089841",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447446188219-1457089841",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448400508109-1457089841",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447200381197-1457089841",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448179059493-1457089841",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448120792035-1457089841",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448236337750-1457089841",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448168365875-1457089841"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1395881917493076212-1457089841",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447446188219-1457089841",
+          "6914127482826411665": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448400508109-1457089841",
+          "2121876469681364312": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945447200381197-1457089841",
+          "17342079206793232898": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448179059493-1457089841",
+          "2566289281583982598": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448120792035-1457089841",
+          "5649071957677891080": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448236337750-1457089841",
+          "1665919077556558781": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1915945448168365875-1457089841"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5989644651974352171-1457089841"
+        }
+      }
+    ],
+    "TuBiShvatLevel1": [
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-8629957472150877267-532023075",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344310372907-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345238445661-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344057189277-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345024340405-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344977635699-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345235759302-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448547-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-6260195068081219187-532023075",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344310372907-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345238445661-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344057189277-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345024340405-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344977635699-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345235759302-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448547-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-7311225474349762491-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-7311225474349762491-532023075",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344310372907-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345238445661-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344057189277-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345024340405-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344977635699-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345235759302-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448547-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3200518353554516566-532023075",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344310372907-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345238445661-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344057189277-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345024340405-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344977635699-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345235759302-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448547-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2681583463547058788-532023075",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344310372907-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345238445661-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344057189277-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345024340405-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311344977635699-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345235759302-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448547-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-7311225474349762491-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-5184116188599089946-656181511",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900442117474-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901386178836-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900154203348-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901139443452-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901108594234-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901198557071-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641258-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-7409200473089583418-656181511",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900442117474-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901386178836-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900154203348-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901139443452-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901108594234-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901198557071-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641258-656181511"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-6144276005183588594-656181511"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-6144276005183588594-656181511",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900442117474-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901386178836-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900154203348-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901139443452-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901108594234-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901198557071-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641258-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2042642810405332255-656181511",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900442117474-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901386178836-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900154203348-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901139443452-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901108594234-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901198557071-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641258-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-1514493016407258413-656181511",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900442117474-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901386178836-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431900154203348-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901139443452-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901108594234-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901198557071-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641258-656181511"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-6144276005183588594-656181511"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-8010830756562808114-797939693",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767064812065610-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065763829564-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065099983612-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066010568916-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066024652818-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066203113895-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593858-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-5624813994055761682-797939693",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767064812065610-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065763829564-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065099983612-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066010568916-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066024652818-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066203113895-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593858-797939693"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-9050340159602777818-797939693"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-9050340159602777818-797939693",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767064812065610-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065763829564-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065099983612-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066010568916-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066024652818-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066203113895-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593858-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3784557256507978551-797939693",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767064812065610-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065763829564-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065099983612-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066010568916-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066024652818-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066203113895-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593858-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4456612317508690693-797939693",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767064812065610-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065763829564-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767065099983612-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066010568916-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066024652818-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066203113895-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593858-797939693"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-9050340159602777818-797939693"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-7266935217992762167-797939693",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311768890703-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310555081017-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311518754041-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310333499089-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310296321559-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310541510562-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643847-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-5042410575458062615-797939693",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311768890703-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310555081017-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311518754041-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310333499089-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310296321559-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310541510562-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643847-797939693"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-8533234262728274143-797939693"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-8533234262728274143-797939693",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311768890703-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310555081017-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311518754041-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310333499089-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310296321559-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310541510562-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643847-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4571177744612187442-797939693",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311768890703-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310555081017-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311518754041-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310333499089-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310296321559-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310541510562-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643847-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3903625265195207936-797939693",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311768890703-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310555081017-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248311518754041-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310333499089-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310296321559-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310541510562-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643847-797939693"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-8533234262728274143-797939693"
+        }
+      }
+    ],
+    "TuBishvatLevel2": [
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7869069543117648088-532023075",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603463364256-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602513500886-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603746002710-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602837316926-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602787466744-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602642936909-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602843423016-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5483105785552216824-532023075",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603463364256-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602513500886-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603746002710-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602837316926-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602787466744-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602642936909-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602843423016-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-9187898782237262640-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-9187898782237262640-532023075",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603463364256-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602513500886-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603746002710-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602837316926-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602787466744-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602642936909-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602843423016-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3935530253667315421-532023075",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603463364256-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602513500886-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603746002710-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602837316926-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602787466744-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602642936909-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602843423016-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-4594142646973251311-532023075",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603463364256-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602513500886-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442603746002710-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602837316926-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602787466744-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602642936909-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3893442602843423016-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-9187898782237262640-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-2091790925220760512-532023075",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883349345720-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882133668302-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883636182030-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882448567846-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882413385440-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882658938709-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882459400752-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-4333837662337014240-532023075",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883349345720-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882133668302-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883636182030-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882448567846-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882413385440-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882658938709-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882459400752-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-1131244144967759912-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-1131244144967759912-532023075",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883349345720-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882133668302-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883636182030-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882448567846-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882413385440-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882658938709-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882459400752-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5093230498408338885-532023075",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883349345720-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882133668302-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883636182030-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882448567846-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882413385440-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882658938709-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882459400752-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5760853415133709815-532023075",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883349345720-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882133668302-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722883636182030-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882448567846-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882413385440-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882658938709-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5060722882459400752-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-1131244144967759912-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-1599415205155981510-656181511",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659586463422-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658655474376-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659839614728-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658937212192-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658918938086-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658728152147-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658930874678-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3967997827812661990-656181511",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659586463422-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658655474376-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659839614728-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658937212192-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658918938086-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658728152147-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658930874678-656181511"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-326290977420360494-656181511"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-326290977420360494-656181511",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659586463422-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658655474376-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659839614728-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658937212192-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658918938086-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658728152147-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658930874678-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5592064749942970051-656181511",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659586463422-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658655474376-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659839614728-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658937212192-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658918938086-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658728152147-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658930874678-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-4956038545566402289-656181511",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659586463422-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658655474376-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524659839614728-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658937212192-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658918938086-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658728152147-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5552524658930874678-656181511"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-326290977420360494-656181511"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-4032842629204248550-797939693",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671856425374-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670922522088-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671603273768-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670641299968-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670644886214-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670433026931-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670630344214-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-1645190070147241414-797939693",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671856425374-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670922522088-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671603273768-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670641299968-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670644886214-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670433026931-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670630344214-797939693"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-2684986834918175758-797939693"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-2684986834918175758-797939693",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671856425374-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670922522088-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671603273768-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670641299968-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670644886214-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670433026931-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670630344214-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7808902991104072163-797939693",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671856425374-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670922522088-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671603273768-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670641299968-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670644886214-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670433026931-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670630344214-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7278565121990511057-797939693",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671856425374-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670922522088-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444671603273768-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670641299968-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670644886214-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670433026931-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-7839444670630344214-797939693"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-2684986834918175758-797939693"
+        }
+      }
+    ],
+    "TuBishvatLevel3": [
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-8682599846976882580-532023075",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543335459308-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544275688858-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543043510362-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543961436786-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544001723060-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544020812545-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543955461732-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-6439479140668069300-532023075",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543335459308-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544275688858-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543043510362-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543961436786-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544001723060-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544020812545-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543955461732-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7695454133302293628-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7695454133302293628-532023075",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543335459308-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544275688858-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543043510362-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543961436786-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544001723060-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544020812545-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543955461732-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2582682901494684049-532023075",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543335459308-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544275688858-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543043510362-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543961436786-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544001723060-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544020812545-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543955461732-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3065803343690746275-532023075",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543335459308-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544275688858-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543043510362-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543961436786-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544001723060-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609544020812545-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2540609543955461732-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7695454133302293628-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-8186874715740625339-532023075",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836787229452227-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786011874229-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786975092341-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785731058781-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785748427931-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785804852526-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785737558091-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5818357743806647195-532023075",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836787229452227-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786011874229-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786975092341-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785731058781-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785748427931-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785804852526-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785737558091-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7145219608276413011-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7145219608276413011-532023075",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836787229452227-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786011874229-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786975092341-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785731058781-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785748427931-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785804852526-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785737558091-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3041299504522528702-532023075",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836787229452227-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786011874229-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786975092341-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785731058781-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785748427931-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785804852526-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785737558091-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2551498399754459020-532023075",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836787229452227-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786011874229-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836786975092341-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785731058781-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785748427931-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785804852526-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3071836785737558091-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7145219608276413011-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-692448811472477220-656181511",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980822639196-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994982034155050-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980565265386-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981752945090-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981758648580-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981676791985-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981746208212-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2936197567665442308-656181511",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980822639196-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994982034155050-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980565265386-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981752945090-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981758648580-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981676791985-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981746208212-656181511"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-1957208537781579724-656181511"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-1957208537781579724-656181511",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980822639196-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994982034155050-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980565265386-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981752945090-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981758648580-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981676791985-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981746208212-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5923729269968503329-656181511",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980822639196-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994982034155050-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980565265386-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981752945090-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981758648580-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981676791985-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981746208212-656181511"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-6586853024599773715-656181511",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980822639196-656181511",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994982034155050-656181511",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994980565265386-656181511",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981752945090-656181511",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981758648580-656181511",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981676791985-656181511",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-5953994981746208212-656181511"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-1957208537781579724-656181511"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-4017345460548526636-797939693",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811502525524-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812707682338-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811257730530-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812418074570-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812446875404-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812226578105-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812423926748-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-1649180368581963788-797939693",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811502525524-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812707682338-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811257730530-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812418074570-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812446875404-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812226578105-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812423926748-797939693"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2699079102566339012-797939693"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2699079102566339012-797939693",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811502525524-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812707682338-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811257730530-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812418074570-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812446875404-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812226578105-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812423926748-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7811837210767801385-797939693",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811502525524-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812707682338-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811257730530-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812418074570-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812446875404-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812226578105-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812423926748-797939693"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7292835237791968283-797939693",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811502525524-797939693",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812707682338-797939693",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360811257730530-797939693",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812418074570-797939693",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812446875404-797939693",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812226578105-797939693",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7853360812423926748-797939693"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2699079102566339012-797939693"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-8367692333857619509-764075277",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787384373325-764075277",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788583011387-764075277",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787097672187-764075277",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788268248019-764075277",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788320072469-764075277",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788074916512-764075277",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788274323397-764075277"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-6125855848292051989-764075277",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787384373325-764075277",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788583011387-764075277",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787097672187-764075277",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788268248019-764075277",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788320072469-764075277",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788074916512-764075277",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788274323397-764075277"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7391945867117710813-764075277"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7391945867117710813-764075277",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787384373325-764075277",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788583011387-764075277",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787097672187-764075277",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788268248019-764075277",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788320072469-764075277",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788074916512-764075277",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788274323397-764075277"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3425340680093589552-764075277",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787384373325-764075277",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788583011387-764075277",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787097672187-764075277",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788268248019-764075277",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788320072469-764075277",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788074916512-764075277",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788274323397-764075277"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2798180938009866242-764075277",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787384373325-764075277",
+          "6914127482826411665": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788583011387-764075277",
+          "2121876469681364312": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807787097672187-764075277",
+          "17342079206793232898": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788268248019-764075277",
+          "2566289281583982598": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788320072469-764075277",
+          "5649071957677891080": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788074916512-764075277",
+          "1665919077556558781": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-3394807788274323397-764075277"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-7391945867117710813-764075277"
+        }
+      }
+    ],
+    "TuBiShvatPuzzlesLevel2": [],
+    "TrialsLevel12": [
+      {
+        "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5540196644205858404-532023075",
+        "state": "Idle Passive",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdlePassive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863406833692-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862211048554-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863661197738-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862491343746-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862471856964-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862683888369-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862485368724-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7908833151791029316-532023075",
+        "state": "Activation",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Activation.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863406833692-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862211048554-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863661197738-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862491343746-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862471856964-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862683888369-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862485368724-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 0.5,
+          "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6798129981673438604-532023075"
+        }
+      },
+      {
+        "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6798129981673438604-532023075",
+        "state": "Idle Active",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_IdleActive.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863406833692-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862211048554-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863661197738-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862491343746-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862471856964-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862683888369-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862485368724-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1678709726370091105-532023075",
+        "state": "Open",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Open.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863406833692-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862211048554-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863661197738-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862491343746-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862471856964-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862683888369-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862485368724-532023075"
+        },
+        "loop": false
+      },
+      {
+        "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2168371162830913619-532023075",
+        "state": "Close",
+        "asset": "Assets/(a)Animations/FX/RespawnPoint/RespawnPoint_D_Close.playable",
+        "bindings": {
+          "9219561618610887280": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863406833692-532023075",
+          "6914127482826411665": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862211048554-532023075",
+          "2121876469681364312": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951863661197738-532023075",
+          "17342079206793232898": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862491343746-532023075",
+          "2566289281583982598": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862471856964-532023075",
+          "5649071957677891080": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862683888369-532023075",
+          "1665919077556558781": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1719951862485368724-532023075"
+        },
+        "loop": false,
+        "next": {
+          "delay": 1.5,
+          "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6798129981673438604-532023075"
+        }
+      }
+    ],
+    "Hub": []
+  }
+}

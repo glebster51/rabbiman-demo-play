@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8",
+  "levels": [
+    {
+      "id": "SecretRoom",
+      "modelSha256": "e95f2e954e24f2cb91885c29f375e00f768d59a95dfa15a22e8bad445781ac70",
+      "markedBindings": 12,
+      "unchangedOtherBindingsSha256Before": "8afe6036573c6380429c82b6518fb03a33d99b41ce1338ddc292ddfe7bba1dfa",
+      "unchangedOtherBindingsSha256After": "8afe6036573c6380429c82b6518fb03a33d99b41ce1338ddc292ddfe7bba1dfa"
+    },
+    {
+      "id": "TuBiShvatLevel1",
+      "modelSha256": "cf8fe1037bf386e7836c4e563b154d14e5cb520a1ec0943be210b5c42c506c16",
+      "markedBindings": 5,
+      "unchangedOtherBindingsSha256Before": "6d98a56fc779d5ed4991688fe61976f4ef179300e62382792439dd2888785bd0",
+      "unchangedOtherBindingsSha256After": "6d98a56fc779d5ed4991688fe61976f4ef179300e62382792439dd2888785bd0"
+    }
+  ],
+  "runtimeMethod": "audited-native-uv0-input"
+}

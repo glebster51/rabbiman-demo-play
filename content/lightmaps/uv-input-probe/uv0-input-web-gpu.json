@@ -1,0 +1,128 @@
+{
+  "done": true,
+  "pass": true,
+  "rows": [
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8387527649286321258-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-7218521613822955269-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-396146285535487687-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1527925536132767144-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8065855345732065253-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-9197617554973289610-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2879317241594846058-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4016734890899070981-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6178826878683516787-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5040854628037489692-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1699979533634094867-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-566510986768301180-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6808507309990392174-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5636115913661958657-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6868141740924973035-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5840930090845661765-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3094922111911282241-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6183892462183291711-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8772875781510103203-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-7634912906644454348-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5654216992796307117-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6790580211387078082-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "SecretRoom",
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4945695788736929350-2073419178",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6118571932927436073-2073419178",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "TuBiShvatLevel1",
+      "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641044-656181511",
+      "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641258-656181511",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "TuBiShvatLevel1",
+      "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593724-797939693",
+      "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593858-797939693",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "TuBiShvatLevel1",
+      "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643705-797939693",
+      "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643847-797939693",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "TuBiShvatLevel1",
+      "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2204868694826297825-1554118913",
+      "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-314605275922036090-1554118913",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    },
+    {
+      "level": "TuBiShvatLevel1",
+      "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448477-532023075",
+      "node": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448547-532023075",
+      "primitives": 1,
+      "proofSha256": "cb88a4da8e0d185a3be2c4ad456af9b4b569e5c65a2fdf3c24444f091d40abf8"
+    }
+  ],
+  "errors": [],
+  "scope": "Actual LevelScene/LinearFrame load and GPU draw check; no final-image or PlayMode acceptance",
+  "browserErrors": []
+}

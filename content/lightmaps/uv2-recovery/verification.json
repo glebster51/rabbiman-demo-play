@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "SecretRoom",
+  "modelSha256": "e95f2e954e24f2cb91885c29f375e00f768d59a95dfa15a22e8bad445781ac70",
+  "nativeSha256": "85baf05cca67ca80fd47e1823ed63add990e9e7b550f39f69bb71e41f86c9a64",
+  "verified": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2624732207322595189-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2585176833676887736-1912950625",
+      "name": "platform_06 4",
+      "sha256": "db159d5b1cd1eafb0cf38780c8144409426f8cfc1de857107e25cdf36208ea61",
+      "primitives": [
+        {
+          "primitive": 0,
+          "vertices": 12,
+          "indices": 24
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3934385700624571284-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3536792834290393689-1912950625",
+      "name": "platform_06 4",
+      "sha256": "db159d5b1cd1eafb0cf38780c8144409426f8cfc1de857107e25cdf36208ea61",
+      "primitives": [
+        {
+          "primitive": 0,
+          "vertices": 12,
+          "indices": 24
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2228786468918275624-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1057115487743208116-1912950625",
+      "name": "platform_05 3",
+      "sha256": "1c6fe2fea73c5c50b92212084b597341b847db262473acd04a8c2e44b00317c5",
+      "primitives": [
+        {
+          "primitive": 0,
+          "vertices": 105,
+          "indices": 402
+        }
+      ]
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-716171774912656877-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5670111389381347377-1912950625",
+      "name": "platform_05",
+      "sha256": "44aecb26b3ab1843fe8ede4d5cbf2a14959baa3f4fc697464e9b1aaf09f1d366",
+      "primitives": [
+        {
+          "primitive": 0,
+          "vertices": 6,
+          "indices": 12
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6493216009708654556-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3838476877151441033-1912950625",
+      "name": "platform_06 5",
+      "primitive": 0,
+      "nativeVertexCount": 5584,
+      "glbVertexCount": 5869,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2859874393349059688-1912950625",
+      "name": "platform_06 5",
+      "primitive": 0,
+      "nativeVertexCount": 5584,
+      "glbVertexCount": 5869,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5055933968301452845-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1944063179383134219-1912950625",
+      "name": "platform_06 3",
+      "primitive": 0,
+      "nativeVertexCount": 818,
+      "glbVertexCount": 774,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-380096961878271442-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2945142398474454575-1912950625",
+      "name": "platform_06 2",
+      "primitive": 0,
+      "nativeVertexCount": 406,
+      "glbVertexCount": 402,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1261272013898934499-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6026323650158960070-1912950625",
+      "name": "platform_06",
+      "primitive": 0,
+      "nativeVertexCount": 659,
+      "glbVertexCount": 732,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3864215582806911080-1912950625",
+      "name": "platform_07_roofTop 1",
+      "primitive": 0,
+      "nativeVertexCount": 587,
+      "glbVertexCount": 594,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_07_roofTop.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6115637408497633996-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-580931175135821034-1912950625",
+      "name": "platform_06 3",
+      "primitive": 0,
+      "nativeVertexCount": 818,
+      "glbVertexCount": 774,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1707764580422402355-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4191282879116141262-1912950625",
+      "name": "platform_06 2",
+      "primitive": 0,
+      "nativeVertexCount": 406,
+      "glbVertexCount": 402,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1542432090197418362-1912950625",
+      "name": "platform_06 1",
+      "primitive": 0,
+      "nativeVertexCount": 500,
+      "glbVertexCount": 534,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-249284355228273666-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4707562970218330407-1912950625",
+      "name": "platform_06",
+      "primitive": 0,
+      "nativeVertexCount": 659,
+      "glbVertexCount": 732,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_06.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-725654845537969279-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2921884567361107345-1912950625",
+      "name": "platform_05 4",
+      "primitive": 0,
+      "nativeVertexCount": 389,
+      "glbVertexCount": 381,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_05.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6200743962061993977-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8623467854455608785-1912950625",
+      "name": "platform_05 2",
+      "primitive": 0,
+      "nativeVertexCount": 1815,
+      "glbVertexCount": 1972,
+      "meshAsset": "Assets/(m)Models/SecretRoom_Models/ver2/ST_bilding_pack/Platform_05.FBX",
+      "ok": false,
+      "reason": "vertex-count-or-attributes"
+    }
+  ]
+}

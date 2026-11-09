@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "method": "approved-exact-bit-pairs-only",
+  "modelSha256": "e95f2e954e24f2cb91885c29f375e00f768d59a95dfa15a22e8bad445781ac70",
+  "nativeJsonSha256": "85baf05cca67ca80fd47e1823ed63add990e9e7b550f39f69bb71e41f86c9a64",
+  "verified": [
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6493216009708654556-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3838476877151441033-1912950625",
+      "name": "platform_06 5",
+      "precisionException": {
+        "version": 1,
+        "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6493216009708654556-1912950625",
+        "submesh": 0,
+        "rotation": 1,
+        "triangle": 113,
+        "corner": 0,
+        "sourceVertexSha256": "7138903d8c0cf0f682d7e3c1e23973682b742c3800e27cb97519204f59918249",
+        "sourceIndexSha256": "c8ff3db629055b6f7a13df8113d0e8348176f947ab3c5e2e507e754c613bcfa7",
+        "components": [
+          {
+            "component": 1,
+            "nativeBits": 1067924591,
+            "webBits": 1067924615,
+            "maxULP": 24
+          },
+          {
+            "component": 6,
+            "nativeBits": 1064769750,
+            "webBits": 1064769754,
+            "maxULP": 4
+          },
+          {
+            "component": 7,
+            "nativeBits": 1061131934,
+            "webBits": 1061131930,
+            "maxULP": 4
+          }
+        ]
+      },
+      "precisionExceptionsConsumed": 3,
+      "componentsChecked": 96000,
+      "strictComponents": 95997,
+      "originalVertices": 5869,
+      "resultVertices": 6546,
+      "addedVertices": 677,
+      "indexCount": 12000,
+      "triangleAttributesBefore": "1d1e4b75565ad341e643da3354bea75361bc1ff83df9386ad2373d5bc9497f4b",
+      "triangleAttributesAfter": "1d1e4b75565ad341e643da3354bea75361bc1ff83df9386ad2373d5bc9497f4b",
+      "surfaceBefore": "6acf999f196b96a79bd9bf099b3939949da163533d59d5f5b16984ea3b759720",
+      "surfaceAfter": "6acf999f196b96a79bd9bf099b3939949da163533d59d5f5b16984ea3b759720",
+      "groupsPreserved": true,
+      "drawRangePreserved": true,
+      "boundsPreserved": true
+    },
+    {
+      "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+      "node": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2859874393349059688-1912950625",
+      "name": "platform_06 5",
+      "precisionException": {
+        "version": 1,
+        "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+        "submesh": 0,
+        "rotation": 1,
+        "triangle": 113,
+        "corner": 0,
+        "sourceVertexSha256": "7138903d8c0cf0f682d7e3c1e23973682b742c3800e27cb97519204f59918249",
+        "sourceIndexSha256": "c8ff3db629055b6f7a13df8113d0e8348176f947ab3c5e2e507e754c613bcfa7",
+        "components": [
+          {
+            "component": 1,
+            "nativeBits": 1067924591,
+            "webBits": 1067924615,
+            "maxULP": 24
+          },
+          {
+            "component": 6,
+            "nativeBits": 1064769750,
+            "webBits": 1064769754,
+            "maxULP": 4
+          },
+          {
+            "component": 7,
+            "nativeBits": 1061131934,
+            "webBits": 1061131930,
+            "maxULP": 4
+          }
+        ]
+      },
+      "precisionExceptionsConsumed": 3,
+      "componentsChecked": 96000,
+      "strictComponents": 95997,
+      "originalVertices": 5869,
+      "resultVertices": 6546,
+      "addedVertices": 677,
+      "indexCount": 12000,
+      "triangleAttributesBefore": "1d1e4b75565ad341e643da3354bea75361bc1ff83df9386ad2373d5bc9497f4b",
+      "triangleAttributesAfter": "1d1e4b75565ad341e643da3354bea75361bc1ff83df9386ad2373d5bc9497f4b",
+      "surfaceBefore": "6acf999f196b96a79bd9bf099b3939949da163533d59d5f5b16984ea3b759720",
+      "surfaceAfter": "6acf999f196b96a79bd9bf099b3939949da163533d59d5f5b16984ea3b759720",
+      "groupsPreserved": true,
+      "drawRangePreserved": true,
+      "boundsPreserved": true
+    }
+  ],
+  "rejected": [],
+  "unchangedOtherBindingsSha256Before": "8ff4e624bb97e6688699d0fe4993585815251d2c5b13bcda43251b339acc51f0",
+  "unchangedOtherBindingsSha256After": "8ff4e624bb97e6688699d0fe4993585815251d2c5b13bcda43251b339acc51f0"
+}

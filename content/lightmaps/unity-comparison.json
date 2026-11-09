@@ -1,0 +1,1069 @@
+{
+  "schemaVersion": 1,
+  "unity": "6000.3.21f1",
+  "errors": [],
+  "levels": [
+    {
+      "id": "SecretRoom",
+      "checkedUv2Renderers": 475,
+      "checkedUv2Samples": 2374,
+      "missingUv2": [
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8387527649286321258-2073419178",
+          "name": "Rope_01 (2)",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-396146285535487687-2073419178",
+          "name": "Rope_01 (1)",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8065855345732065253-2073419178",
+          "name": "ZRope_01",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2879317241594846058-2073419178",
+          "name": "Rope_01",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6178826878683516787-2073419178",
+          "name": "Wall_part_06",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1699979533634094867-2073419178",
+          "name": "Wall_part_07",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6808507309990392174-2073419178",
+          "name": "Wall_part_06",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6868141740924973035-2073419178",
+          "name": "start_platform_fence",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3094922111911282241-2073419178",
+          "name": "start_platform",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-8772875781510103203-2073419178",
+          "name": "Rope_01 (4)",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5654216992796307117-2073419178",
+          "name": "ZRope_01 (1)",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-4945695788736929350-2073419178",
+          "name": "Rope_01 (3)",
+          "sourceUv2": 0,
+          "glbUv2": false
+        }
+      ],
+      "unbakedStatic": [],
+      "importedMaps": [
+        {
+          "index": 0,
+          "color": {
+            "asset": "Assets/BakeryLightmaps/SecretRoom_Level1_Start_LM0_final.hdr",
+            "width": 2048,
+            "height": 2048,
+            "format": "BC6H",
+            "samples": [
+              {
+                "index": 0,
+                "rgba": [
+                  0.170776367,
+                  0.2199707,
+                  0.250488281,
+                  1
+                ]
+              },
+              {
+                "index": 1024,
+                "rgba": [
+                  0.008926392,
+                  0.0203094482,
+                  0.06021118,
+                  1
+                ]
+              },
+              {
+                "index": 2098176,
+                "rgba": [
+                  0.167480469,
+                  0.182617188,
+                  0.1977539,
+                  1
+                ]
+              },
+              {
+                "index": 4194303,
+                "rgba": [
+                  0,
+                  1.78813934e-7,
+                  7.15255737e-7,
+                  1
+                ]
+              }
+            ]
+          },
+          "direction": null,
+          "mask": null
+        }
+      ],
+      "issues": [
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6493216009708654556-1912950625",
+          "name": "platform_06 5",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            3.2720108,
+            0.176866263,
+            -30.21726
+          ],
+          "glbPosition": [
+            3.2720108032226562,
+            0.17686626315116882,
+            -30.217260360717773
+          ],
+          "expectedUv": [
+            0.576366246,
+            0.90934266
+          ],
+          "glbUv": [
+            0.43950915336608887,
+            0.8954429030418396
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5253971735265913661-1912950625",
+          "name": "platform_06 5",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            3.2720108,
+            0.176866263,
+            -30.21726
+          ],
+          "glbPosition": [
+            3.2720108032226562,
+            0.17686626315116882,
+            -30.217260360717773
+          ],
+          "expectedUv": [
+            0.576366246,
+            0.90934266
+          ],
+          "glbUv": [
+            0.43950915336608887,
+            0.8954429030418396
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2624732207322595189-1912950625",
+          "name": "platform_06 4",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -0.144620657,
+            0.597901464,
+            4.971856
+          ],
+          "glbPosition": [
+            -0.14462065696716309,
+            0.597901463508606,
+            4.971856117248535
+          ],
+          "expectedUv": [
+            0.6998216,
+            0.496307254
+          ],
+          "glbUv": [
+            0.2497468739748001,
+            0.3351289629936218
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5055933968301452845-1912950625",
+          "name": "platform_06 3",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -5.401085,
+            0.541499853,
+            -4.22467041
+          ],
+          "glbPosition": [
+            -5.401084899902344,
+            0.5414998531341553,
+            -4.22467041015625
+          ],
+          "expectedUv": [
+            0.702916443,
+            0.666497618
+          ],
+          "glbUv": [
+            0.0302734375,
+            0.17088741064071655
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-380096961878271442-1912950625",
+          "name": "platform_06 2",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -3.42203522,
+            0.5741182,
+            -4.70927048
+          ],
+          "glbPosition": [
+            -3.4220352172851562,
+            0.5741181969642639,
+            -4.709270477294922
+          ],
+          "expectedUv": [
+            0.238114059,
+            0.74049288
+          ],
+          "glbUv": [
+            0.6403639316558838,
+            0.5896221399307251
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1261272013898934499-1912950625",
+          "name": "platform_06",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -3.4703722,
+            0.2450513,
+            -17.010685
+          ],
+          "glbPosition": [
+            -3.470372200012207,
+            0.2450512945652008,
+            -17.010684967041016
+          ],
+          "expectedUv": [
+            0.425289333,
+            0.49952143400000004
+          ],
+          "glbUv": [
+            0.45137837529182434,
+            0.27549129724502563
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3798569600010639575-1912950625",
+          "name": "platform_07_roofTop 1",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            2.243826,
+            -0.241300762,
+            -3.193695
+          ],
+          "glbPosition": [
+            2.243825912475586,
+            -0.2413007616996765,
+            -3.193695068359375
+          ],
+          "expectedUv": [
+            0.236823559,
+            0.7397634390000001
+          ],
+          "glbUv": [
+            0.31225621700286865,
+            0.9496172070503235
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-3934385700624571284-1912950625",
+          "name": "platform_06 4",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -0.144620657,
+            0.597901464,
+            4.971856
+          ],
+          "glbPosition": [
+            -0.14462065696716309,
+            0.597901463508606,
+            4.971856117248535
+          ],
+          "expectedUv": [
+            0.6998216,
+            0.496307254
+          ],
+          "glbUv": [
+            0.2497468739748001,
+            0.3351289629936218
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6115637408497633996-1912950625",
+          "name": "platform_06 3",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -5.401085,
+            0.541499853,
+            -4.22467041
+          ],
+          "glbPosition": [
+            -5.401084899902344,
+            0.5414998531341553,
+            -4.22467041015625
+          ],
+          "expectedUv": [
+            0.702916443,
+            0.666497618
+          ],
+          "glbUv": [
+            0.0302734375,
+            0.17088741064071655
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-1707764580422402355-1912950625",
+          "name": "platform_06 2",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -3.42203522,
+            0.5741182,
+            -4.70927048
+          ],
+          "glbPosition": [
+            -3.4220352172851562,
+            0.5741181969642639,
+            -4.709270477294922
+          ],
+          "expectedUv": [
+            0.238114059,
+            0.74049288
+          ],
+          "glbUv": [
+            0.6403639316558838,
+            0.5896221399307251
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-5717569948033642117-1912950625",
+          "name": "platform_06 1",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -2.73026061,
+            5.213985,
+            -30.6050148
+          ],
+          "glbPosition": [
+            -2.7302606105804443,
+            5.213984966278076,
+            -30.60501480102539
+          ],
+          "expectedUv": [
+            0.5205172,
+            0.90633166
+          ],
+          "glbUv": [
+            0.7433292865753174,
+            0.9630095958709717
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-249284355228273666-1912950625",
+          "name": "platform_06",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -3.4703722,
+            0.2450513,
+            -17.010685
+          ],
+          "glbPosition": [
+            -3.470372200012207,
+            0.2450512945652008,
+            -17.010684967041016
+          ],
+          "expectedUv": [
+            0.425289333,
+            0.49952143400000004
+          ],
+          "glbUv": [
+            0.45137837529182434,
+            0.27549129724502563
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-725654845537969279-1912950625",
+          "name": "platform_05 4",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -5.951874,
+            -1.69529665,
+            -7.562668
+          ],
+          "glbPosition": [
+            -5.951873779296875,
+            -1.6952966451644897,
+            -7.5626678466796875
+          ],
+          "expectedUv": [
+            0.574920952,
+            0.20221730000000004
+          ],
+          "glbUv": [
+            0.20799531042575836,
+            0.4954860210418701
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-2228786468918275624-1912950625",
+          "name": "platform_05 3",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            4.982378,
+            -0.2254161,
+            5.672844
+          ],
+          "glbPosition": [
+            4.982378005981445,
+            -0.22541609406471252,
+            5.672843933105469
+          ],
+          "expectedUv": [
+            0.257920861,
+            0.662594825
+          ],
+          "glbUv": [
+            0.9376422762870789,
+            0.8331101536750793
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-6200743962061993977-1912950625",
+          "name": "platform_05 2",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            5.15941954,
+            -0.601001441,
+            -2.51067352
+          ],
+          "glbPosition": [
+            5.159419536590576,
+            -0.6010014414787292,
+            -2.5106735229492188
+          ],
+          "expectedUv": [
+            0.425289333,
+            0.49952143400000004
+          ],
+          "glbUv": [
+            0.6252707839012146,
+            0.26849472522735596
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-65097bc1d3871ea46bc75f0fa9250f53-716171774912656877-1912950625",
+          "name": "platform_05",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            0.05136323,
+            -0.21910727,
+            8.733589
+          ],
+          "glbPosition": [
+            0.051363229751586914,
+            -0.2191072702407837,
+            8.733589172363281
+          ],
+          "expectedUv": [
+            0.8586365,
+            0.4963073
+          ],
+          "glbUv": [
+            0.9645147323608398,
+            0.6941379904747009
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Hub",
+      "checkedUv2Renderers": 4,
+      "checkedUv2Samples": 20,
+      "missingUv2": [],
+      "unbakedStatic": [],
+      "importedMaps": [
+        {
+          "index": 0,
+          "color": {
+            "asset": "Assets/BakeryLightmaps/Hub_Start_LM0_final.hdr",
+            "width": 1024,
+            "height": 1024,
+            "format": "BC6H",
+            "samples": [
+              {
+                "index": 0,
+                "rgba": [
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "index": 512,
+                "rgba": [
+                  0.04724121,
+                  0.0222167969,
+                  0.00709915161,
+                  1
+                ]
+              },
+              {
+                "index": 524800,
+                "rgba": [
+                  0.12878418,
+                  0.140136719,
+                  0.174682617,
+                  1
+                ]
+              },
+              {
+                "index": 1048575,
+                "rgba": [
+                  0,
+                  5.96046448e-8,
+                  2.38418579e-7,
+                  1
+                ]
+              }
+            ]
+          },
+          "direction": null,
+          "mask": null
+        }
+      ],
+      "issues": []
+    },
+    {
+      "id": "TuBiShvatLevel1",
+      "checkedUv2Renderers": 208,
+      "checkedUv2Samples": 1040,
+      "missingUv2": [
+        {
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2075431901128641044-656181511",
+          "name": "respawnPoint_base",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3751767066004593724-797939693",
+          "name": "respawnPoint_base",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-4604248310343643705-797939693",
+          "name": "respawnPoint_base",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-2204868694826297825-1554118913",
+          "name": "liana",
+          "sourceUv2": 0,
+          "glbUv2": false
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-1cdc3f9501494d242a769aa47b627df5-3242311345030448477-532023075",
+          "name": "respawnPoint_base",
+          "sourceUv2": 0,
+          "glbUv2": false
+        }
+      ],
+      "unbakedStatic": [],
+      "importedMaps": [
+        {
+          "index": 0,
+          "color": {
+            "asset": "Assets/BakeryLightmaps/TuBishvat_Level1_Start_LM0_final.hdr",
+            "width": 2048,
+            "height": 2048,
+            "format": "BC6H",
+            "samples": [
+              {
+                "index": 0,
+                "rgba": [
+                  0.000487327576,
+                  0.0006046295,
+                  0.000487327576,
+                  1
+                ]
+              },
+              {
+                "index": 1024,
+                "rgba": [
+                  1.28417969,
+                  1.27734375,
+                  1.27734375,
+                  1
+                ]
+              },
+              {
+                "index": 2098176,
+                "rgba": [
+                  2.55859375,
+                  2.58203125,
+                  2.22070313,
+                  1
+                ]
+              },
+              {
+                "index": 4194303,
+                "rgba": [
+                  0,
+                  7.748604e-7,
+                  0.000002026558,
+                  1
+                ]
+              }
+            ]
+          },
+          "direction": null,
+          "mask": null
+        }
+      ],
+      "issues": []
+    },
+    {
+      "id": "TuBishvatLevel2",
+      "checkedUv2Renderers": 186,
+      "checkedUv2Samples": 930,
+      "missingUv2": [
+        {
+          "renderer": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3079534854335555609-532023075",
+          "name": "Pool_water",
+          "sourceUv2": 0,
+          "glbUv2": true
+        }
+      ],
+      "unbakedStatic": [],
+      "importedMaps": [
+        {
+          "index": 0,
+          "color": {
+            "asset": "Assets/BakeryLightmaps/TuBishvat_Level2_Start_LM0_final.hdr",
+            "width": 2048,
+            "height": 2048,
+            "format": "BC6H",
+            "samples": [
+              {
+                "index": 0,
+                "rgba": [
+                  0.790039063,
+                  0.790039063,
+                  0.6879883,
+                  1
+                ]
+              },
+              {
+                "index": 1024,
+                "rgba": [
+                  0.0341796875,
+                  0.0350646973,
+                  0.03366089,
+                  1
+                ]
+              },
+              {
+                "index": 2098176,
+                "rgba": [
+                  0.431640625,
+                  0.4321289,
+                  0.399414063,
+                  1
+                ]
+              },
+              {
+                "index": 4194303,
+                "rgba": [
+                  0,
+                  5.96046448e-7,
+                  0.00000154972076,
+                  1
+                ]
+              }
+            ]
+          },
+          "direction": null,
+          "mask": null
+        }
+      ],
+      "issues": [
+        {
+          "renderer": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-3646224814706480638-1954502810",
+          "name": "FoliageCH3_001",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            267.253357,
+            136.914673,
+            -8488.743
+          ],
+          "glbPosition": [
+            267.25335693359375,
+            136.9146728515625,
+            -8488.7431640625
+          ],
+          "expectedUv": [
+            0.203081936,
+            0.031287968
+          ],
+          "glbUv": [
+            0.20308193564414978,
+            0.031287968158721924
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-5e5e676230ce98142a1a11411ed114fc-5269151717059013997-1991560883",
+          "name": "StaticMeshCH1_040",
+          "reason": "unity-glb-sample-differs",
+          "sample": 1,
+          "sourcePosition": [
+            -2766.40137,
+            -2187.765,
+            243.2468
+          ],
+          "glbPosition": [
+            -2766.4013671875,
+            -2187.764892578125,
+            243.24679565429688
+          ],
+          "expectedUv": [
+            0.0205078125,
+            0.814341515
+          ],
+          "glbUv": [
+            0.0205078125,
+            0.8143415451049805
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TuBishvatLevel3",
+      "checkedUv2Renderers": 324,
+      "checkedUv2Samples": 1621,
+      "missingUv2": [],
+      "unbakedStatic": [],
+      "importedMaps": [
+        {
+          "index": 0,
+          "color": {
+            "asset": "Assets/BakeryLightmaps/TuBishvat_Level3_Start_LM0_final.hdr",
+            "width": 2048,
+            "height": 2048,
+            "format": "BC6H",
+            "samples": [
+              {
+                "index": 0,
+                "rgba": [
+                  1.57910156,
+                  1.57910156,
+                  1.375,
+                  1
+                ]
+              },
+              {
+                "index": 1024,
+                "rgba": [
+                  1.82910156,
+                  1.84375,
+                  1.49609375,
+                  1
+                ]
+              },
+              {
+                "index": 2098176,
+                "rgba": [
+                  1.6953125,
+                  1.6953125,
+                  1.46289063,
+                  1
+                ]
+              },
+              {
+                "index": 4194303,
+                "rgba": [
+                  0,
+                  0.00000137090683,
+                  0.0000022649765,
+                  1
+                ]
+              }
+            ]
+          },
+          "direction": null,
+          "mask": null
+        }
+      ],
+      "issues": [
+        {
+          "renderer": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-2146631440978075595-1554118913",
+          "name": "TreeBack_002",
+          "reason": "unity-glb-sample-differs",
+          "sample": 1,
+          "sourcePosition": [
+            386.1729,
+            -915.6735,
+            3383.442
+          ],
+          "glbPosition": [
+            386.17291259765625,
+            -915.6735229492188,
+            3383.44189453125
+          ],
+          "expectedUv": [
+            0.9809827,
+            0.785757869
+          ],
+          "glbUv": [
+            0.9809827208518982,
+            0.7857578992843628
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-1401388267883679130-257623760",
+          "name": "TreeBack_006",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -186.062622,
+            125.859833,
+            -2885.641
+          ],
+          "glbPosition": [
+            -186.0626220703125,
+            125.85983276367188,
+            -2885.64111328125
+          ],
+          "expectedUv": [
+            0.0112027219,
+            0.5462868510000001
+          ],
+          "glbUv": [
+            0.011202721856534481,
+            0.5462868213653564
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-1766990590699933837-1554118913",
+          "name": "TreeBack_004",
+          "reason": "unity-glb-sample-differs",
+          "sample": 1,
+          "sourcePosition": [
+            386.1729,
+            -915.6735,
+            3383.442
+          ],
+          "glbPosition": [
+            386.17291259765625,
+            -915.6735229492188,
+            3383.44189453125
+          ],
+          "expectedUv": [
+            0.9809827,
+            0.785757869
+          ],
+          "glbUv": [
+            0.9809827208518982,
+            0.7857578992843628
+          ]
+        },
+        {
+          "renderer": "GlobalObjectId_V1-2-fb27e6d179e0f1d4fb80b71710e7c19e-6925493248014170339-257623760",
+          "name": "TreeBack_005",
+          "reason": "unity-glb-sample-differs",
+          "sample": 0,
+          "sourcePosition": [
+            -186.062622,
+            125.859833,
+            -2885.641
+          ],
+          "glbPosition": [
+            -186.0626220703125,
+            125.85983276367188,
+            -2885.64111328125
+          ],
+          "expectedUv": [
+            0.0137503212,
+            0.6646365000000001
+          ],
+          "glbUv": [
+            0.013750321231782436,
+            0.664636492729187
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TuBiShvatPuzzlesLevel2",
+      "checkedUv2Renderers": 63,
+      "checkedUv2Samples": 315,
+      "missingUv2": [
+        {
+          "renderer": "GlobalObjectId_V1-2-478a6a32c893ea44eb943d7f2d81b6cb-4055299463204350832-532023075",
+          "name": "Pool_water",
+          "sourceUv2": 0,
+          "glbUv2": true
+        }
+      ],
+      "unbakedStatic": [],
+      "importedMaps": [
+        {
+          "index": 0,
+          "color": {
+            "asset": "Assets/BakeryLightmaps/TuBiShvatPuzzles_Level2_Start_LM0_final.hdr",
+            "width": 2048,
+            "height": 2048,
+            "format": "BC6H",
+            "samples": [
+              {
+                "index": 0,
+                "rgba": [
+                  0.03967285,
+                  0.0300292969,
+                  0.02458191,
+                  1
+                ]
+              },
+              {
+                "index": 1024,
+                "rgba": [
+                  0.5493164,
+                  0.526855469,
+                  0.5185547,
+                  1
+                ]
+              },
+              {
+                "index": 2098176,
+                "rgba": [
+                  0,
+                  5.364418e-7,
+                  0.00000131130219,
+                  1
+                ]
+              },
+              {
+                "index": 4194303,
+                "rgba": [
+                  0,
+                  5.364418e-7,
+                  0.00000131130219,
+                  1
+                ]
+              }
+            ]
+          },
+          "direction": null,
+          "mask": null
+        }
+      ],
+      "issues": []
+    },
+    {
+      "id": "TrialsLevel12",
+      "checkedUv2Renderers": 77,
+      "checkedUv2Samples": 385,
+      "missingUv2": [],
+      "unbakedStatic": [],
+      "importedMaps": [
+        {
+          "index": 0,
+          "color": {
+            "asset": "Assets/BakeryLightmaps/Trials_Level12_Start_LM0_final.hdr",
+            "width": 1024,
+            "height": 1024,
+            "format": "BC6H",
+            "samples": [
+              {
+                "index": 0,
+                "rgba": [
+                  0.727539063,
+                  0.694335938,
+                  0.8535156,
+                  1
+                ]
+              },
+              {
+                "index": 512,
+                "rgba": [
+                  0.0301513672,
+                  0.116699219,
+                  0.64453125,
+                  1
+                ]
+              },
+              {
+                "index": 524800,
+                "rgba": [
+                  0,
+                  8.34465e-7,
+                  0.00000220537186,
+                  1
+                ]
+              },
+              {
+                "index": 1048575,
+                "rgba": [
+                  0,
+                  8.34465e-7,
+                  0.00000220537186,
+                  1
+                ]
+              }
+            ]
+          },
+          "direction": null,
+          "mask": null
+        }
+      ],
+      "issues": []
+    }
+  ]
+}

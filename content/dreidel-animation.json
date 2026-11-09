@@ -1,0 +1,3929 @@
+{
+  "schemaVersion": 1,
+  "provenance": {
+    "method": "Unity serialized native curves; no frame sampling",
+    "files": [
+      {
+        "path": "Assets/(a)Animations/Dreidel/Dreidel_Idle.anim",
+        "sha256": "04d0f0a3d71a3d8eb7203db245930fd0e8859bb2a4cb671e948e8e00d1d7bdde"
+      },
+      {
+        "path": "Assets/(a)Animations/Dreidel/Dreidel_Rotate.anim",
+        "sha256": "f8c5902d3dd74b8697b548083b7784ddae130f576b2c8fcfedd554301a86a2e0"
+      },
+      {
+        "path": "Assets/(a)Animations/Dreidel/Dreidel.controller",
+        "sha256": "d28d6c44418c9a48c7076697a99fc0fc97387774e7cf61066d4527fc22a347ff"
+      },
+      {
+        "path": "Assets/(t)Textures/Collectable_Texture/Dreidel_Symbols.png.meta",
+        "sha256": "2f5eb5040c04db228ec71ce2105d39b1065550a4a16438a36e4db7031a238a1f"
+      },
+      {
+        "path": "Assets/(p)Prefabs/Environment_prefabs/ForLevels/HUB_Prefabs/Dreidel.prefab",
+        "sha256": "7f1ae0b25ddde556c29d1120f4924bfdc0be2e3cacb00d034a9b3a4039dd3e8b"
+      }
+    ],
+    "hubSha256": "1a096af9465ca1da3462612d1542df70d58bfceca1492fe20c36930565c3ddd9"
+  },
+  "controller": "Assets/(a)Animations/Dreidel/Dreidel.controller",
+  "initial": "Idle",
+  "trigger": "Rotate",
+  "speed": 1,
+  "returnToIdle": {
+    "exitTime": 0.9501661,
+    "duration": 0.25
+  },
+  "clips": {
+    "Idle": {
+      "name": "Dreidel_Idle",
+      "duration": 0,
+      "loop": false,
+      "curves": [
+        {
+          "path": "Rotator_1",
+          "property": "euler",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1",
+          "property": "euler",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 720,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1",
+          "property": "euler",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "euler",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "euler",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 2880,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "euler",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "euler",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "euler",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 90,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "euler",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "euler",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 71.5,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "euler",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "euler",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "position",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "position",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "position",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "position",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "position",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "position",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "position",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "position",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.49,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "position",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "scale",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "scale",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "scale",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler",
+          "property": "scale",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler",
+          "property": "scale",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler",
+          "property": "scale",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Shine",
+          "property": "scale",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Shine",
+          "property": "scale",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Shine",
+          "property": "scale",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Particle System",
+          "property": "m_IsActive",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+          "property": "m_Color.r",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+          "property": "m_Color.g",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+          "property": "m_Color.b",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+          "property": "m_Color.a",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.68235296,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+          "property": "m_Color.r",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+          "property": "m_Color.g",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+          "property": "m_Color.b",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+          "property": "m_Color.a",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.68235296,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+          "property": "m_Color.r",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+          "property": "m_Color.g",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+          "property": "m_Color.b",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+          "property": "m_Color.a",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.68235296,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite",
+          "property": "m_Color.r",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite",
+          "property": "m_Color.g",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite",
+          "property": "m_Color.b",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite",
+          "property": "m_Color.a",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.68235296,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Shine",
+          "property": "m_IsActive",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            }
+          ]
+        }
+      ]
+    },
+    "Rotate": {
+      "name": "Dreidel_Rotate",
+      "duration": 8,
+      "loop": false,
+      "curves": [
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "euler",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 81.616,
+              "inTangent": 0,
+              "outTangent": -883.232,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": -78.69062,
+              "inTangent": -1174.6985,
+              "outTangent": -1174.6985,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": -360,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 71.5,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 71.5,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "euler",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "euler",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "euler",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.7,
+              "value": -16.6,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.0833334,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "euler",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 90,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 90,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.7,
+              "value": 90,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.0833334,
+              "value": 90,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 90,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "euler",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.7,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.0833334,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "euler",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "euler",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 2880,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 2880,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "euler",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1",
+          "property": "euler",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1",
+          "property": "euler",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 720,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 720,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1",
+          "property": "euler",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "position",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.36666667,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "position",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": -0.007293701,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 0.9040065,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.36666667,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "position",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.36666667,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "position",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.7,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "position",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.7,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2",
+          "property": "position",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.7,
+              "value": 0.6,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "position",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.4333334,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "position",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.46,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.6,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.4333334,
+              "value": 0.6,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0.49,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0.49,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset",
+          "property": "position",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.4333334,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "scale",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": -18.038803,
+              "outTangent": -2.580104,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.14255588
+            },
+            {
+              "time": 0.15,
+              "value": 0.61298436,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.13884626,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.36666667,
+              "value": 1.2539568,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "scale",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 12.407376,
+              "outTangent": 5.056017,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.2858489
+            },
+            {
+              "time": 0.15,
+              "value": 1.7584026,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.11649765
+            },
+            {
+              "time": 0.36666667,
+              "value": 0.5986185,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root",
+          "property": "scale",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": -17.998991,
+              "outTangent": -2.580104,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.11928148
+            },
+            {
+              "time": 0.15,
+              "value": 0.61298436,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.12008153
+            },
+            {
+              "time": 0.36666667,
+              "value": 1.2539568,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler",
+          "property": "scale",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3.9166667,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4.15,
+              "value": 5.317977,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 8,
+              "value": 5.317977,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler",
+          "property": "scale",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3.9166667,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4.15,
+              "value": 5.317977,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 8,
+              "value": 5.317977,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler",
+          "property": "scale",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3.9166667,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4.15,
+              "value": 5.317977,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 8,
+              "value": 5.317977,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Shine",
+          "property": "scale",
+          "axis": "x",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.35653,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.35653,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.0833334,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Shine",
+          "property": "scale",
+          "axis": "y",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.35653,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.35653,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.0833334,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Shine",
+          "property": "scale",
+          "axis": "z",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.35653,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.35653,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.0833334,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0.21511,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite",
+          "property": "m_Color.a",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.68235296,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+          "property": "m_Color.a",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.68235296,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+          "property": "m_Color.a",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.68235296,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite",
+          "property": "m_Color.r",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite",
+          "property": "m_Color.g",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite",
+          "property": "m_Color.b",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+          "property": "m_Color.r",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+          "property": "m_Color.g",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+          "property": "m_Color.b",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+          "property": "m_Color.r",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+          "property": "m_Color.g",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+          "property": "m_Color.b",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+          "property": "m_Color.r",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3.9,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+          "property": "m_Color.g",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3.9,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+          "property": "m_Color.b",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3.9,
+              "value": 0,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+          "property": "m_Color.a",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.68235296,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.15,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.35,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.55,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.8,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.2833333,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5666666,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3.9166667,
+              "value": 0.53333336,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 5.8333335,
+              "value": 1,
+              "inTangent": 0,
+              "outTangent": 0,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Shine",
+          "property": "m_IsActive",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            },
+            {
+              "time": 0.36666667,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            },
+            {
+              "time": 0.5,
+              "value": 1,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            },
+            {
+              "time": 2.2833333,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            },
+            {
+              "time": 5.8333335,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            }
+          ]
+        },
+        {
+          "path": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Particle System",
+          "property": "m_IsActive",
+          "keys": [
+            {
+              "time": 0,
+              "value": 0,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            },
+            {
+              "time": 3.9166667,
+              "value": 1,
+              "inTangent": "Infinity",
+              "outTangent": "Infinity",
+              "weightedMode": 0,
+              "inWeight": 0,
+              "outWeight": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "symbols": {
+    "path": "Rotator_1/Rotator_2/Shine",
+    "rendererPaths": [
+      "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+      "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_2/Sprite",
+      "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_3/Sprite",
+      "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_4/Sprite"
+    ],
+    "resultRendererPath": "Rotator_1/Rotator_2/Root/Offset/Dreidel_01/Symbol_1/Scaler/Sprite",
+    "spriteIds": [
+      "GlobalObjectId_V1-1-3a7302d0a00f6474dbb1c3d51a93f200-18446744073699937543-0",
+      "GlobalObjectId_V1-1-3a7302d0a00f6474dbb1c3d51a93f200-555502730-0",
+      "GlobalObjectId_V1-1-3a7302d0a00f6474dbb1c3d51a93f200-18446744072708251993-0",
+      "GlobalObjectId_V1-1-3a7302d0a00f6474dbb1c3d51a93f200-18446744073226499081-0"
+    ],
+    "outcomes": {
+      "gimel": "GlobalObjectId_V1-1-3a7302d0a00f6474dbb1c3d51a93f200-18446744073226499081-0",
+      "hey": "GlobalObjectId_V1-1-3a7302d0a00f6474dbb1c3d51a93f200-18446744072708251993-0",
+      "nun": "GlobalObjectId_V1-1-3a7302d0a00f6474dbb1c3d51a93f200-555502730-0",
+      "shin": "GlobalObjectId_V1-1-3a7302d0a00f6474dbb1c3d51a93f200-18446744073699937543-0"
+    },
+    "slices": [
+      {
+        "name": "Dreidel_Symbols_0",
+        "internalID": -483052535,
+        "rect": {
+          "serializedVersion": 2,
+          "x": 0,
+          "y": 256,
+          "width": 256,
+          "height": 256
+        }
+      },
+      {
+        "name": "Dreidel_Symbols_1",
+        "internalID": -1001299623,
+        "rect": {
+          "serializedVersion": 2,
+          "x": 256,
+          "y": 256,
+          "width": 256,
+          "height": 256
+        }
+      },
+      {
+        "name": "Dreidel_Symbols_2",
+        "internalID": 555502730,
+        "rect": {
+          "serializedVersion": 2,
+          "x": 0,
+          "y": 0,
+          "width": 256,
+          "height": 256
+        }
+      },
+      {
+        "name": "Dreidel_Symbols_3",
+        "internalID": -9614073,
+        "rect": {
+          "serializedVersion": 2,
+          "x": 256,
+          "y": 0,
+          "width": 256,
+          "height": 256
+        }
+      }
+    ]
+  },
+  "timers": [
+    {
+      "id": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-1619163066673356478-359379600",
+      "path": "VFX FINISH",
+      "delay": 4.25,
+      "calls": [
+        {
+          "target": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-9125362080562505845-359379600",
+          "targetPath": "VFX FINISH",
+          "method": "Play",
+          "argument": "",
+          "bool": false,
+          "state": 2
+        }
+      ]
+    },
+    {
+      "id": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-1531286472293978295-359379600",
+      "path": "INTERACTIVE",
+      "delay": 0,
+      "calls": [
+        {
+          "target": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-7370198679591642206-359379600",
+          "targetPath": "",
+          "method": "Hit",
+          "argument": "",
+          "bool": false,
+          "state": 2
+        },
+        {
+          "target": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-2338052793578073464-359379600",
+          "targetPath": "",
+          "method": "SetTrigger",
+          "argument": "Rotate",
+          "bool": false,
+          "state": 2
+        },
+        {
+          "target": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-1619163066673356478-359379600",
+          "targetPath": "VFX FINISH",
+          "method": "StartTimer",
+          "argument": "",
+          "bool": false,
+          "state": 2
+        },
+        {
+          "target": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-7276893409591393115-359379600",
+          "targetPath": "LOCKER",
+          "method": "StartTimer",
+          "argument": "",
+          "bool": false,
+          "state": 2
+        }
+      ]
+    },
+    {
+      "id": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-7276893409591393115-359379600",
+      "path": "LOCKER",
+      "delay": 0,
+      "calls": [
+        {
+          "target": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-785695578666186744-359379600",
+          "targetPath": "INTERACTIVE",
+          "method": "SetActive",
+          "argument": "",
+          "bool": false,
+          "state": 2
+        },
+        {
+          "target": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-89021460957054370-359379600",
+          "targetPath": "LOCKER",
+          "method": "StartTimer",
+          "argument": "",
+          "bool": false,
+          "state": 2
+        }
+      ]
+    },
+    {
+      "id": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-89021460957054370-359379600",
+      "path": "LOCKER",
+      "delay": 5,
+      "calls": [
+        {
+          "target": "GlobalObjectId_V1-2-8e1e191a2260fe94185fed39723fa537-785695578666186744-359379600",
+          "targetPath": "INTERACTIVE",
+          "method": "SetActive",
+          "argument": "",
+          "bool": true,
+          "state": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1185 @@
+{
+  "schemaVersion": 1,
+  "id": "TrialsLevel12",
+  "sourceScene": "Assets/(s)Scenes/Trials/Level12/Trials_Level12_Start.unity",
+  "sourceSceneSha256": "1c35e6ef3c108fc0aa7720e79926f54f908a87fc95b5538af33e746fad41195d",
+  "lightingData": "none; Bakery storage",
+  "mode": "full-lighting",
+  "directional": false,
+  "shadowmask": false,
+  "uvConvention": "gltf-v-flipped",
+  "maps": [
+    {
+      "index": 0,
+      "url": "lightmaps/873c53ce9b2e2d84c9e46811ca189034.hdr",
+      "encoding": "radiance-linear",
+      "source": "Assets/BakeryLightmaps/Trials_Level12_Start_LM0_final.hdr",
+      "sha256": "9ff71af2653d1309754e9da0ef3fcda940ecec5fcaa91ffbcee385ba846387a7",
+      "bytes": 1904923,
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "bindings": [
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8820665709199098249-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1845112447639860037-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.09407819,
+        0.09748741,
+        -0.0030332545,
+        0.8991884
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5220053056378368352-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8911773999518647121-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.12841922,
+        0.12836345,
+        -0.0009491855,
+        0.64738154
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7930866671539069760-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3914424291784366052-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.04293186,
+        0.042870402,
+        0.19147947,
+        0.8970851
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4321137789773408673-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1320230514680226321-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.19187027,
+        0.1918982,
+        -0.0009963339,
+        -0.0009969065
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard",
+        "Standard",
+        "GD/Lit_FadeByVertexColor"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-558409742200046146-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2664045523608431530-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.12841922,
+        0.12836345,
+        -0.0009491855,
+        0.77443606
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-758007852611672288-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5755798125591386662-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059867725,
+        0.059752233,
+        0.839172,
+        0.12602504
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2060739916113383088-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2684913899450823333-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.058842916,
+        0.05879859,
+        0.36831433,
+        0.18579568
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-102295884408682501-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7112661033873069505-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060542233,
+        0.060329698,
+        0.89855707,
+        0.1259867
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5134921876397501341-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3622133662087425933-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060060874,
+        0.059902433,
+        0.6649939,
+        0.18572238
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1998270147280325908-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6836191396294201298-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05986774,
+        0.059752252,
+        0.76139814,
+        -0.0010294174
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-983627730847357764-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3782195531385612113-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.058842905,
+        0.058798578,
+        0.66433394,
+        0.24419892
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1962670136543354101-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5852507868234777001-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05888064,
+        0.058940366,
+        0.1893932,
+        0.5400271
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6457206676149078104-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4330629876139469652-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059773058,
+        0.059919126,
+        0.94056594,
+        0.057897083
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1176804736450473457-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8325620493097697333-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.06054224,
+        0.060329705,
+        0.4243186,
+        0.1259867
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6232238619688926825-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2556869637023070841-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060060874,
+        0.059902433,
+        0.78462845,
+        0.18572238
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5576274677758323398-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-9135984780776745197-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.0594751,
+        0.05937932,
+        0.7021666,
+        -0.0010046522
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3755683266288527922-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5424737162348729020-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060043294,
+        0.0601256,
+        0.189316,
+        0.42188329
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1029106757150339907-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4921477639347727903-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05888066,
+        0.058940385,
+        0.88119537,
+        -0.00097550446
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5541761190959310830-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2985233301053490402-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059773043,
+        0.059919108,
+        0.18933395,
+        0.36218965
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-369304651426284103-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7421468783459725187-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060542244,
+        0.060329713,
+        0.8207832,
+        -0.0010677644
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4830547324273824223-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3895334749072561615-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060060855,
+        0.05990241,
+        0.9019445,
+        0.2441256
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1392179592254103274-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6212236509047774252-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059867736,
+        0.05975225,
+        0.88112986,
+        0.057908166
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-382744256866060474-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4365189950648153263-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.058842923,
+        0.058798596,
+        0.36563203,
+        0.12608835
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5970482702210084590-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7021124897120218309-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05947509,
+        0.059379306,
+        0.66172004,
+        0.1260498
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3145584210183679514-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6120686086956701332-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060043287,
+        0.060125593,
+        0.189316,
+        0.6580135
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1258222880138913418-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6057997690085123148-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05986774,
+        0.059752252,
+        0.76139814,
+        0.057373825
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-534766318692004058-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4517213627342949583-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.058842916,
+        0.05879859,
+        0.30951488,
+        0.18579568
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1292987194393540459-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6626233154758486583-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05888065,
+        0.058940373,
+        0.1893932,
+        0.3033171
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6003800045696984006-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3950835527722664138-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05977302,
+        0.05991909,
+        0.18933395,
+        0.8352199
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1916715654891374191-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8739191842275765163-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060542226,
+        0.06032969,
+        0.3667874,
+        0.24409725
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6678854837324273143-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3005731040454398439-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.06006088,
+        0.05990244,
+        0.7793419,
+        0.12601507
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-865418980522519839-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4587466512116494132-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059475113,
+        0.05937933,
+        0.12186944,
+        0.9014334
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8466384344773504491-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-732103258999264613-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.0600433,
+        0.060125608,
+        0.7209399,
+        0.12600024
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5742059370800653691-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-777903743665268669-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059867717,
+        0.05975223,
+        0.5461471,
+        0.18573235
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6463264398840345387-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6947262314636693310-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.058842905,
+        0.058798578,
+        0.24779895,
+        0.24419892
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4918059588824024478-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2854762325068671066-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060542226,
+        0.06032969,
+        0.3064855,
+        0.24409725
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-173934555926402566-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8606238068637307414-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.06006086,
+        0.05990242,
+        0.84212726,
+        0.2441256
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8890433392203291503-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-303849679574393825-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.06004331,
+        0.06012561,
+        0.30714908,
+        0.12600024
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4733403288277210111-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-347941486160384313-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05986773,
+        0.059752237,
+        0.60226417,
+        0.12602504
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6317891804723529135-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7959597637375343034-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.058842905,
+        0.058798578,
+        0.48645967,
+        0.24419892
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-258884858567268019-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7355039855391815103-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059773058,
+        0.059919126,
+        0.18933395,
+        0.12601395
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5359279737869185818-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2990863564879273694-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060542233,
+        0.060329698,
+        0.18928286,
+        0.18569401
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-898038405181726850-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8750764871760045202-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060060874,
+        0.059902433,
+        0.7248112,
+        0.18572238
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3920572285145851284-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-415397958922856383-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059475075,
+        0.059379295,
+        0.54521716,
+        0.24416034
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5698353110793577824-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3477564289584094702-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060043298,
+        0.060125604,
+        0.189316,
+        0.24411078
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8486429667597118960-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3504245914060304182-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059867732,
+        0.05975224,
+        0.24773088,
+        0.12602504
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7194534459285076896-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6486199441128687541-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05884292,
+        0.058798593,
+        0.48473337,
+        0.12608835
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8449417944058838033-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4559571541092671821-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.058880646,
+        0.05894037,
+        0.1893932,
+        0.48108956
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4026791530310838460-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5937976455947586480-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059773058,
+        0.059919126,
+        0.8208342,
+        0.05736274
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-9091161679927938325-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2158378122327761105-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.06054223,
+        0.060329694,
+        0.48580036,
+        0.18569401
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4036297068696329869-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5549914331688393373-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060060877,
+        0.059902437,
+        0.24961674,
+        0.18572238
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7745604566277373714-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6401457672226602297-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059475075,
+        0.059379295,
+        0.42716017,
+        0.24416034
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1297560191454216166-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7878919609195775848-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060043283,
+        0.060125586,
+        0.189316,
+        0.77607864
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2906824186850125463-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7085177890690055115-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05888063,
+        0.05894036,
+        0.1893932,
+        0.71721977
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7707708898236281402-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1113145332493226294-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059773065,
+        0.05991913,
+        0.7021468,
+        0.057362743
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2539760300475324307-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4675115330183707223-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060542226,
+        0.06032969,
+        0.9047157,
+        0.18569401
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7284166834119459851-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1157425405182197787-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.06006087,
+        0.05990243,
+        0.60443574,
+        0.2441256
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5649084923742476640-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-9065452791072791371-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059475068,
+        0.059379287,
+        0.7829087,
+        0.24416034
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3970383221176441236-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5210652938813120794-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.06004329,
+        0.060125597,
+        0.189316,
+        0.59888595
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-993296226101563652-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5236747803750749122-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059867717,
+        0.05975223,
+        0.60557693,
+        0.18573235
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2005546105182160724-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2454078551669046081-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.05884292,
+        0.058798593,
+        0.5435328,
+        0.12608835
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-443450730490950113-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7347946052862958629-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060542226,
+        0.06032969,
+        0.8444138,
+        0.18569401
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4615892449375232633-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3821443751877912169-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.060060866,
+        0.059902426,
+        0.72305244,
+        0.2441256
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2512847655924867689-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7474605833524404399-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.059867736,
+        0.05975225,
+        0.93953305,
+        -0.001029417
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3801787437162378297-532023075",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-943833383936804908-532023075",
+      "index": 0,
+      "scaleOffset": [
+        0.058842916,
+        0.05879859,
+        0.42711374,
+        0.18579568
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7071638708405573788-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2721845256316908398-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.12841918,
+        0.1283634,
+        0.5740252,
+        -0.0009474954
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4858397352243136248-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7757886266261788386-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.15449508,
+        0.15455842,
+        -0.0009842209,
+        0.3658675
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4341618124668409587-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-407081904218748635-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.09437672,
+        0.09780043,
+        0.12515105,
+        0.51800513
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-6849657354246441812-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4720973575239898397-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.12841918,
+        0.1283634,
+        0.44582203,
+        -0.0009474954
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-575809321980426765-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7728527370738326413-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.17669567,
+        0.1766551,
+        -0.00085769064,
+        0.1903816
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard",
+        "GD/Lit_FadeByVertexColor",
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2985564686262368121-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-9220354232652218219-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.1284192,
+        0.12836343,
+        0.18941556,
+        -0.0009474964
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-1220565297531071027-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3538031218153009141-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.09408854,
+        0.097498275,
+        0.12516935,
+        0.77213323
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-3139765767656747673-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2733348378422047634-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.09402749,
+        0.09743424,
+        0.058419522,
+        0.8991918
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4952048237365602696-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-7902595525781076124-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.065093614,
+        0.064008795,
+        0.24706602,
+        0.3019436
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-564095260735769076-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-2023064360011012545-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.09419692,
+        0.09761191,
+        0.12516247,
+        0.6450715
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-110953785248884767-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-5502180862648170519-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.12841919,
+        0.12836342,
+        0.3176188,
+        -0.00094749586
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    },
+    {
+      "node": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-8127461596280997771-1991560883",
+      "renderer": "GlobalObjectId_V1-2-d8b6e00f1e4512043a5e7c801cac9520-4122224627272626706-1991560883",
+      "index": 0,
+      "scaleOffset": [
+        0.12841922,
+        0.12836345,
+        -0.0009491855,
+        0.52032715
+      ],
+      "uv2": true,
+      "shaders": [
+        "Standard"
+      ]
+    }
+  ],
+  "issues": []
+}
