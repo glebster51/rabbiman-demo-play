@@ -38168,7 +38168,7 @@
       "duration": 0.4846031746031746
     },
     "{bed02e18-bcbc-4cfc-8886-effd0d1a71ea}": {
-      "url": "audio/bed02e18-bcbc-4cfc-8886-effd0d1a71ea.mp3",
+      "url": "audio/bed02e18-bcbc-4cfc-8886-effd0d1a71ea.opus",
       "source": "Nigun_Tubishvat01.mp3",
       "duration": 207
     },
@@ -38183,7 +38183,7 @@
       "duration": 3.0109297052154194
     },
     "{8a612197-c599-44a8-a559-388dad90c1ba}": {
-      "url": "audio/8a612197-c599-44a8-a559-388dad90c1ba.wav",
+      "url": "audio/8a612197-c599-44a8-a559-388dad90c1ba.opus",
       "source": "02 MECHANIC_Leverage.wav",
       "duration": 0.9536666666666667
     },
@@ -38193,7 +38193,7 @@
       "duration": 9.009637188208616
     },
     "{f28fa594-de16-4ea6-8610-ab315dcd9292}": {
-      "url": "audio/f28fa594-de16-4ea6-8610-ab315dcd9292.mp3",
+      "url": "audio/f28fa594-de16-4ea6-8610-ab315dcd9292.opus",
       "source": "HUB.mp3",
       "duration": 85.344
     },
@@ -38238,7 +38238,7 @@
       "duration": 2.1533786848072562
     },
     "{fe77e153-06a6-4a03-b8ba-3c85f0b709e4}": {
-      "url": "audio/fe77e153-06a6-4a03-b8ba-3c85f0b709e4.mp3",
+      "url": "audio/fe77e153-06a6-4a03-b8ba-3c85f0b709e4.opus",
       "source": "Teleport.mp3",
       "duration": 18.288
     },
@@ -38253,7 +38253,7 @@
       "duration": 7.616190476190476
     },
     "{bd974bd8-6f73-4608-8f6f-6d184987cba8}": {
-      "url": "audio/bd974bd8-6f73-4608-8f6f-6d184987cba8.mp3",
+      "url": "audio/bd974bd8-6f73-4608-8f6f-6d184987cba8.opus",
       "source": "Nigun_Tubishvat02.mp3",
       "duration": 115.2
     },
@@ -38338,7 +38338,7 @@
       "duration": 8.724648526077097
     },
     "{b79321c7-f78d-4d24-a99d-aa8e3bb8c8b0}": {
-      "url": "audio/b79321c7-f78d-4d24-a99d-aa8e3bb8c8b0.wav",
+      "url": "audio/b79321c7-f78d-4d24-a99d-aa8e3bb8c8b0.opus",
       "source": "03 MECHANIC_Leverage.wav",
       "duration": 0.8394166666666667
     },
@@ -38353,12 +38353,12 @@
       "duration": 2.1346031746031744
     },
     "{7fd93e5c-c1a4-4a76-b309-42f82d9338a5}": {
-      "url": "audio/7fd93e5c-c1a4-4a76-b309-42f82d9338a5.wav",
+      "url": "audio/7fd93e5c-c1a4-4a76-b309-42f82d9338a5.opus",
       "source": "01_Yaschik.wav",
       "duration": 2.136604166666667
     },
     "{99fa341c-d344-40bc-bfec-3e2b57cd99bb}": {
-      "url": "audio/99fa341c-d344-40bc-bfec-3e2b57cd99bb.mp3",
+      "url": "audio/99fa341c-d344-40bc-bfec-3e2b57cd99bb.opus",
       "source": "SR_Game_Hanuka_Long.mp3",
       "duration": 150.696
     },
@@ -38373,12 +38373,12 @@
       "duration": 1.5871882086167801
     },
     "{40ab8322-9863-4261-8bb1-cdc1a46771c5}": {
-      "url": "audio/40ab8322-9863-4261-8bb1-cdc1a46771c5.wav",
+      "url": "audio/40ab8322-9863-4261-8bb1-cdc1a46771c5.opus",
       "source": "01 MECHANIC_Gateway.wav",
       "duration": 9.515875
     },
     "{76b8be46-a303-479e-b284-81a26c0cff27}": {
-      "url": "audio/76b8be46-a303-479e-b284-81a26c0cff27.wav",
+      "url": "audio/76b8be46-a303-479e-b284-81a26c0cff27.opus",
       "source": "01_Woosh.wav",
       "duration": 2.4414166666666666
     },
@@ -38418,7 +38418,7 @@
       "duration": 0.3561451247165533
     },
     "{1cd72702-bc63-450f-ab33-5a76fc644483}": {
-      "url": "audio/1cd72702-bc63-450f-ab33-5a76fc644483.wav",
+      "url": "audio/1cd72702-bc63-450f-ab33-5a76fc644483.opus",
       "source": "04 MECHANIC_Leverage.wav",
       "duration": 1.1692708333333333
     },
@@ -38443,22 +38443,22 @@
       "duration": 0.7297732426303855
     },
     "{25debc45-5812-4766-84ea-72c837464377}": {
-      "url": "audio/25debc45-5812-4766-84ea-72c837464377.wav",
+      "url": "audio/25debc45-5812-4766-84ea-72c837464377.opus",
       "source": "01 MECHANIC_Leverage.wav",
       "duration": 0.9008541666666666
     },
     "{0e1f4d4b-3902-483a-b2b8-572244cf3c30}": {
-      "url": "audio/0e1f4d4b-3902-483a-b2b8-572244cf3c30.wav",
+      "url": "audio/0e1f4d4b-3902-483a-b2b8-572244cf3c30.opus",
       "source": "04 MECHANIC_Bridge_Separation.wav",
       "duration": 3.73
     },
     "{ee8578b6-e4f9-444b-907e-aecdd5ff1f37}": {
-      "url": "audio/ee8578b6-e4f9-444b-907e-aecdd5ff1f37.wav",
+      "url": "audio/ee8578b6-e4f9-444b-907e-aecdd5ff1f37.opus",
       "source": "03 MECHANIC_Bridge_Movement.wav",
       "duration": 7.4520625
     },
     "{ded0796e-02d3-477b-acdc-0ddef3785982}": {
-      "url": "audio/ded0796e-02d3-477b-acdc-0ddef3785982.wav",
+      "url": "audio/ded0796e-02d3-477b-acdc-0ddef3785982.opus",
       "source": "02 MECHANIC_Bridge_Accession.wav",
       "duration": 5.587291666666666
     },
@@ -38473,7 +38473,7 @@
       "duration": 2.5738321995464855
     },
     "{230383a5-b671-4394-b426-04b543ee472e}": {
-      "url": "audio/230383a5-b671-4394-b426-04b543ee472e.wav",
+      "url": "audio/230383a5-b671-4394-b426-04b543ee472e.opus",
       "source": "02_Spark.wav",
       "duration": 0.5748541666666667
     },
@@ -38528,42 +38528,42 @@
       "duration": 1.056235827664399
     },
     "{8a69e0b9-6a3e-4ded-93ba-98eca9f24fab}": {
-      "url": "audio/8a69e0b9-6a3e-4ded-93ba-98eca9f24fab.wav",
+      "url": "audio/8a69e0b9-6a3e-4ded-93ba-98eca9f24fab.opus",
       "source": "Slide_Ground1-01.wav",
       "duration": 0.5186875
     },
     "{674e93c1-a556-4c22-8b28-35413e726dc8}": {
-      "url": "audio/674e93c1-a556-4c22-8b28-35413e726dc8.wav",
+      "url": "audio/674e93c1-a556-4c22-8b28-35413e726dc8.opus",
       "source": "Slide_Ground2-01.wav",
       "duration": 0.6620208333333333
     },
     "{43b596bb-a05b-4ae9-9601-d71dd519cf66}": {
-      "url": "audio/43b596bb-a05b-4ae9-9601-d71dd519cf66.wav",
+      "url": "audio/43b596bb-a05b-4ae9-9601-d71dd519cf66.opus",
       "source": "Slide_Ground3-01.wav",
       "duration": 0.6401458333333333
     },
     "{b1aee91c-9cfd-42df-a930-e40ca130a5d4}": {
-      "url": "audio/b1aee91c-9cfd-42df-a930-e40ca130a5d4.wav",
+      "url": "audio/b1aee91c-9cfd-42df-a930-e40ca130a5d4.opus",
       "source": "Slide_Ground4-01.wav",
       "duration": 0.7273541666666666
     },
     "{eeacf098-9746-4445-a546-09e3822a8463}": {
-      "url": "audio/eeacf098-9746-4445-a546-09e3822a8463.wav",
+      "url": "audio/eeacf098-9746-4445-a546-09e3822a8463.opus",
       "source": "Slide_Rubber1.wav",
       "duration": 0.5272083333333333
     },
     "{de0a1d3c-620e-43a0-922c-5d2343bec1bd}": {
-      "url": "audio/de0a1d3c-620e-43a0-922c-5d2343bec1bd.wav",
+      "url": "audio/de0a1d3c-620e-43a0-922c-5d2343bec1bd.opus",
       "source": "Slide_Rubber2.wav",
       "duration": 0.6581041666666667
     },
     "{a9189d05-aeaa-49b5-8a31-07322a0e1a01}": {
-      "url": "audio/a9189d05-aeaa-49b5-8a31-07322a0e1a01.wav",
+      "url": "audio/a9189d05-aeaa-49b5-8a31-07322a0e1a01.opus",
       "source": "Slide_Rubber3.wav",
       "duration": 0.65
     },
     "{631220fe-99cd-4f13-841f-fd659ede0c4e}": {
-      "url": "audio/631220fe-99cd-4f13-841f-fd659ede0c4e.wav",
+      "url": "audio/631220fe-99cd-4f13-841f-fd659ede0c4e.opus",
       "source": "Slide_Rubber4.wav",
       "duration": 0.7373958333333334
     },
@@ -38608,7 +38608,7 @@
       "duration": 29.542562358276644
     },
     "{7f3d5b22-4306-43db-a7fc-c16d13ea53f7}": {
-      "url": "audio/7f3d5b22-4306-43db-a7fc-c16d13ea53f7.mp3",
+      "url": "audio/7f3d5b22-4306-43db-a7fc-c16d13ea53f7.opus",
       "source": "SR_Song2_8bit.mp3",
       "duration": 105.216
     },
@@ -38638,12 +38638,12 @@
       "duration": 0.43807256235827663
     },
     "{626d0dbf-0804-4782-9d13-6bd783770a39}": {
-      "url": "audio/626d0dbf-0804-4782-9d13-6bd783770a39.wav",
+      "url": "audio/626d0dbf-0804-4782-9d13-6bd783770a39.opus",
       "source": "02_Teleport_Hat.wav",
       "duration": 0.824625
     },
     "{f9275ef9-ddf3-4c24-802d-f5affd1692bf}": {
-      "url": "audio/f9275ef9-ddf3-4c24-802d-f5affd1692bf.wav",
+      "url": "audio/f9275ef9-ddf3-4c24-802d-f5affd1692bf.opus",
       "source": "02_Teleport_Hat_Bubble.wav",
       "duration": 0.5075208333333333
     },
@@ -38663,27 +38663,27 @@
       "duration": 5.114013605442177
     },
     "{2e9efb4e-65f5-4feb-ba89-6d7ba4b42cd6}": {
-      "url": "audio/2e9efb4e-65f5-4feb-ba89-6d7ba4b42cd6.wav",
+      "url": "audio/2e9efb4e-65f5-4feb-ba89-6d7ba4b42cd6.opus",
       "source": "01 MECHANIC_PLATFORM_Movement.wav",
       "duration": 9.638729166666666
     },
     "{b3e45376-3ca1-4efe-8e9e-6b25f20e5905}": {
-      "url": "audio/b3e45376-3ca1-4efe-8e9e-6b25f20e5905.mp3",
+      "url": "audio/b3e45376-3ca1-4efe-8e9e-6b25f20e5905.opus",
       "source": "Nigun_Tubishvat03.mp3",
       "duration": 144
     },
     "{d4c490a2-6e59-41b4-b0ac-da2ed0c5268d}": {
-      "url": "audio/d4c490a2-6e59-41b4-b0ac-da2ed0c5268d.wav",
+      "url": "audio/d4c490a2-6e59-41b4-b0ac-da2ed0c5268d.opus",
       "source": "Hat_Throw_Voice.wav",
       "duration": 0.7071875
     },
     "{abc1ee58-bb1b-49bd-925c-8501238a0bc4}": {
-      "url": "audio/abc1ee58-bb1b-49bd-925c-8501238a0bc4.wav",
+      "url": "audio/abc1ee58-bb1b-49bd-925c-8501238a0bc4.opus",
       "source": "Hat_Throw_Woosh1.wav",
       "duration": 0.7071875
     },
     "{17c18ccb-10aa-4ea3-a31d-1e8f4ac7b873}": {
-      "url": "audio/17c18ccb-10aa-4ea3-a31d-1e8f4ac7b873.wav",
+      "url": "audio/17c18ccb-10aa-4ea3-a31d-1e8f4ac7b873.opus",
       "source": "Hat_Throw_Woosh2.wav",
       "duration": 0.7071875
     },
@@ -38703,37 +38703,37 @@
       "duration": 2.5738321995464855
     },
     "{785786b6-809d-481c-94ad-f7e44bd758de}": {
-      "url": "audio/785786b6-809d-481c-94ad-f7e44bd758de.wav",
+      "url": "audio/785786b6-809d-481c-94ad-f7e44bd758de.opus",
       "source": "02_Put.wav",
       "duration": 0.7482291666666666
     },
     "{23087e31-f672-4a57-afb9-5648a8aaff8b}": {
-      "url": "audio/23087e31-f672-4a57-afb9-5648a8aaff8b.wav",
+      "url": "audio/23087e31-f672-4a57-afb9-5648a8aaff8b.opus",
       "source": "01_Talit.wav",
       "duration": 3.81175
     },
     "{1615ee39-f177-4c7d-ba7c-cb57bca03dd3}": {
-      "url": "audio/1615ee39-f177-4c7d-ba7c-cb57bca03dd3.wav",
+      "url": "audio/1615ee39-f177-4c7d-ba7c-cb57bca03dd3.opus",
       "source": "Hat_Return_Voice.wav",
       "duration": 0.6354791666666667
     },
     "{b478bea6-a7f5-40a8-a7ff-c00382791b47}": {
-      "url": "audio/b478bea6-a7f5-40a8-a7ff-c00382791b47.wav",
+      "url": "audio/b478bea6-a7f5-40a8-a7ff-c00382791b47.opus",
       "source": "Hat_Return_Steps.wav",
       "duration": 0.6354791666666667
     },
     "{f821e49b-3e5b-4034-96e0-63988e7c7d99}": {
-      "url": "audio/f821e49b-3e5b-4034-96e0-63988e7c7d99.wav",
+      "url": "audio/f821e49b-3e5b-4034-96e0-63988e7c7d99.opus",
       "source": "Hat_Return_Body.wav",
       "duration": 0.6354791666666667
     },
     "{c005239d-069d-4e0e-b9c3-0e484735a10c}": {
-      "url": "audio/c005239d-069d-4e0e-b9c3-0e484735a10c.wav",
+      "url": "audio/c005239d-069d-4e0e-b9c3-0e484735a10c.opus",
       "source": "Hat_Return_Woosh1.wav",
       "duration": 0.6354791666666667
     },
     "{da35db1e-efe7-4a38-8a5e-2141de3e7704}": {
-      "url": "audio/da35db1e-efe7-4a38-8a5e-2141de3e7704.wav",
+      "url": "audio/da35db1e-efe7-4a38-8a5e-2141de3e7704.opus",
       "source": "Hat_Return_Woosh2.wav",
       "duration": 0.6354791666666667
     },
@@ -38743,47 +38743,47 @@
       "duration": 1.1411791383219954
     },
     "{3964a451-0788-49ce-a867-76e4db098fd0}": {
-      "url": "audio/3964a451-0788-49ce-a867-76e4db098fd0.wav",
+      "url": "audio/3964a451-0788-49ce-a867-76e4db098fd0.opus",
       "source": "01_Talit_Open.wav",
       "duration": 0.767625
     },
     "{10f3a93c-2773-4c75-985e-f9b1cc5ef8c4}": {
-      "url": "audio/10f3a93c-2773-4c75-985e-f9b1cc5ef8c4.wav",
+      "url": "audio/10f3a93c-2773-4c75-985e-f9b1cc5ef8c4.opus",
       "source": "Talit_Trrr.wav",
       "duration": 0.5983125
     },
     "{7745577d-2abe-4b26-ac3e-648d1a1d6eb4}": {
-      "url": "audio/7745577d-2abe-4b26-ac3e-648d1a1d6eb4.wav",
+      "url": "audio/7745577d-2abe-4b26-ac3e-648d1a1d6eb4.opus",
       "source": "Talit_Rustle.wav",
       "duration": 0.5983125
     },
     "{fec013e6-977d-4833-866d-9060f5e9b5ab}": {
-      "url": "audio/fec013e6-977d-4833-866d-9060f5e9b5ab.wav",
+      "url": "audio/fec013e6-977d-4833-866d-9060f5e9b5ab.opus",
       "source": "Talit_Voice1.wav",
       "duration": 0.5983125
     },
     "{96e44388-3b11-4d23-9961-ececb6047bc9}": {
-      "url": "audio/96e44388-3b11-4d23-9961-ececb6047bc9.wav",
+      "url": "audio/96e44388-3b11-4d23-9961-ececb6047bc9.opus",
       "source": "Talit_Voice2.wav",
       "duration": 0.5983125
     },
     "{26e6d464-4246-429e-b934-8f2f0dd6f065}": {
-      "url": "audio/26e6d464-4246-429e-b934-8f2f0dd6f065.wav",
+      "url": "audio/26e6d464-4246-429e-b934-8f2f0dd6f065.opus",
       "source": "Talit_Woosh_Hi.wav",
       "duration": 0.5983125
     },
     "{1e7b4a64-9bf4-4a77-8afc-a6481b6385db}": {
-      "url": "audio/1e7b4a64-9bf4-4a77-8afc-a6481b6385db.wav",
+      "url": "audio/1e7b4a64-9bf4-4a77-8afc-a6481b6385db.opus",
       "source": "Talit_Woosh_Low.wav",
       "duration": 0.5983125
     },
     "{8f9df244-5822-419b-b351-5007d0068306}": {
-      "url": "audio/8f9df244-5822-419b-b351-5007d0068306.wav",
+      "url": "audio/8f9df244-5822-419b-b351-5007d0068306.opus",
       "source": "01_Jump_Rise_Voice.wav",
       "duration": 0.6126041666666666
     },
     "{063e86ca-bd6a-4fd9-bc0d-f15905ae059b}": {
-      "url": "audio/063e86ca-bd6a-4fd9-bc0d-f15905ae059b.wav",
+      "url": "audio/063e86ca-bd6a-4fd9-bc0d-f15905ae059b.opus",
       "source": "02_Jump_Rise_Voice.wav",
       "duration": 0.4099583333333333
     },
@@ -38818,7 +38818,7 @@
       "duration": 0.5630612244897959
     },
     "{e7f9e11a-f8da-41c7-839d-980f8631d9d3}": {
-      "url": "audio/e7f9e11a-f8da-41c7-839d-980f8631d9d3.wav",
+      "url": "audio/e7f9e11a-f8da-41c7-839d-980f8631d9d3.opus",
       "source": "04_Spark.wav",
       "duration": 0.8697083333333333
     },
@@ -38883,12 +38883,12 @@
       "duration": 0.5522675736961451
     },
     "{f8a0986e-43bf-4892-ac9e-8431a210bc0b}": {
-      "url": "audio/f8a0986e-43bf-4892-ac9e-8431a210bc0b.wav",
+      "url": "audio/f8a0986e-43bf-4892-ac9e-8431a210bc0b.opus",
       "source": "01_Jump_Land_Body.wav",
       "duration": 0.4613541666666667
     },
     "{6dad0770-31f9-4aca-a85f-397f2744c982}": {
-      "url": "audio/6dad0770-31f9-4aca-a85f-397f2744c982.wav",
+      "url": "audio/6dad0770-31f9-4aca-a85f-397f2744c982.opus",
       "source": "02_Jump_Rise_Body.wav",
       "duration": 0.4099583333333333
     },
